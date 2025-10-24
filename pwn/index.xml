@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PWNs on MSEC</title><link>http://localhost/pwn/</link><description>Recent content in PWNs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/pwn/index.xml" rel="self" type="application/rss+xml"/><item><title>abc</title><link>http://localhost/pwn/1761292636963-abc/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost/pwn/1761292636963-abc/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PWNs on MSEC</title><link>https://mtasecurity.github.io/MSEC/pwn/</link><description>Recent content in PWNs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mtasecurity.github.io/MSEC/pwn/index.xml" rel="self" type="application/rss+xml"/><item><title>abc</title><link>https://mtasecurity.github.io/MSEC/pwn/1761292636963-abc/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/pwn/1761292636963-abc/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
 &lt;h1 class="relative group"&gt;This is a heading
 &lt;div id="this-is-a-heading" class="anchor"&gt;&lt;/div&gt;
 &lt;span
@@ -32,7 +32,7 @@ Check more at &lt;a
 href="https://blowfish.page/"
 target="_blank"
 &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/pwn/1761292636963-abc/featured.png"/></item><item><title>bas</title><link>http://localhost/pwn/1761292555048-bas/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost/pwn/1761292555048-bas/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
+undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/pwn/1761292636963-abc/featured.png"/></item><item><title>bas</title><link>https://mtasecurity.github.io/MSEC/pwn/1761292555048-bas/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/pwn/1761292555048-bas/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
 &lt;h1 class="relative group"&gt;This is a heading
 &lt;div id="this-is-a-heading" class="anchor"&gt;&lt;/div&gt;
 &lt;span
@@ -66,7 +66,7 @@ Check more at &lt;a
 href="https://blowfish.page/"
 target="_blank"
 &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/pwn/1761292555048-bas/featured.png"/></item><item><title>xya</title><link>http://localhost/pwn/1761292722248-xya/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>http://localhost/pwn/1761292722248-xya/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
+undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/pwn/1761292555048-bas/featured.png"/></item><item><title>xya</title><link>https://mtasecurity.github.io/MSEC/pwn/1761292722248-xya/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/pwn/1761292722248-xya/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
 &lt;h1 class="relative group"&gt;This is a heading
 &lt;div id="this-is-a-heading" class="anchor"&gt;&lt;/div&gt;
 &lt;span
@@ -100,4 +100,4 @@ Check more at &lt;a
 href="https://blowfish.page/"
 target="_blank"
 &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/pwn/1761292722248-xya/featured.png"/></item></channel></rss>
+undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/pwn/1761292722248-xya/featured.png"/></item></channel></rss>
