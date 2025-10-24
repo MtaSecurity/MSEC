@@ -1,0 +1,42 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "WEB"
+pre = "bluesky"
+pageRef = "web"
+identifier = "jvbAP5aMzn"
+weight = 9_999
+
+[[main]]
+none = "none"
+
+[[main]]
+name = "PWN"
+pre = "dribbble"
+pageRef = "PWN"
+identifier = "MjL2OcgJea"
+weight = 9_999
+
+[[main]]
+name = "RE"
+pageRef = "RE"
+identifier = "krqnC518H3"
+weight = 9_999
+
+[[main]]
+name = "FOR"
+pre = "envelope"
+pageRef = "FOR"
+identifier = "hIVHNCR59J"
+weight = 9_999
+
+[[main]]
+name = "CRYPTO"
+pre = "codepen"
+pageRef = "CRYPTO"
+identifier = "IU6781Kqxn"
+weight = 9_999
+
+[[footer]]
+none = "none"

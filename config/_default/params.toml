@@ -1,0 +1,11 @@
+colorScheme = "forest"
+defaultBackgroundImage = "image.jpg"
+
+[homepage]
+  layout = "background"
+  homepageImage = "4.gif"
+  showRecent = true
+  cardView = true
+
+[header]
+  layout = "fixed"

@@ -1,0 +1,8 @@
+[author]
+name = "Admin"
+image = "profile.jpg"
+headline = "Hello World"
+bio = "This is my test site with Blowfish."
+
+[params]
+logo = "ee.png"
