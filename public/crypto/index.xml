@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CRYPTOs on MSEC</title>
-    <link>http://localhost:1313/crypto/</link>
+    <link>http://localhost/crypto/</link>
     <description>Recent content in CRYPTOs on MSEC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/crypto/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>gbwesgfsd</title>
-      <link>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</link>
+      <link>http://localhost/crypto/1761292930955-gbwesgfsd/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</guid>
+      <guid>http://localhost/crypto/1761292930955-gbwesgfsd/</guid>
       <description>&lt;p&gt;an example to get you started&lt;/p&gt;
 
 &lt;h1 class=&#34;relative group&#34;&gt;This is a heading
@@ -62,7 +62,7 @@ Check more at &lt;a
     target=&#34;_blank&#34;
   &gt;Blowfish documentation&lt;/a&gt;
 undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/crypto/1761292930955-gbwesgfsd/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/crypto/1761292930955-gbwesgfsd/featured.png" />
     </item>
     
   </channel>
