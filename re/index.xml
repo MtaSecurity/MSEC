@@ -1,35 +1,327 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>REs on MSEC</title><link>https://mtasecurity.github.io/MSEC/re/</link><description>Recent content in REs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mtasecurity.github.io/MSEC/re/index.xml" rel="self" type="application/rss+xml"/><item><title>dauif</title><link>https://mtasecurity.github.io/MSEC/re/1761292805274-dauif/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1761292805274-dauif/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
-&lt;h1 class="relative group"&gt;This is a heading
-&lt;div id="this-is-a-heading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-heading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;h2 class="relative group"&gt;This is a subheading
-&lt;div id="this-is-a-subheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;h3 class="relative group"&gt;This is a subsubheading
-&lt;div id="this-is-a-subsubheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;
-&lt;h4 class="relative group"&gt;This is a subsubsubheading
-&lt;div id="this-is-a-subsubsubheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-href="https://blowfish.page/"
-target="_blank"
-&gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/re/1761292805274-dauif/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>REs on MSEC</title><link>https://mtasecurity.github.io/MSEC/re/</link><description>Recent content in REs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/re/index.xml" rel="self" type="application/rss+xml"/><item><title>Write-up for Chatbot CSCV2025</title><link>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</guid><description>&lt;p&gt;Hello everyone💯! Today i will tell you the way to solve the &lt;em&gt;&lt;strong&gt;Chatbot&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025&lt;/p&gt;
+&lt;p&gt;The question:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/r1KnQ9zRxx.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;So at first you will have an file &lt;strong&gt;main&lt;/strong&gt; like this below:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/HyCOV9zCgx.png"
+&gt;&lt;/figure&gt;
+Let open this file in DIE to see the information about this file:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/Sk8yH9zAll.png"
+&gt;&lt;/figure&gt;
+This is an ELF64 file and DIE has told us that this file have been packed with PyInstaller
+Let use IDA(in app use SHIFT+F12) to see strings of this file:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/ByuAB9MRxx.png"
+&gt;&lt;/figure&gt;
+Scroll down a little bit and you will see this:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/rJ3ZLcf0xl.png"
+&gt;&lt;/figure&gt;
+We see many file like Py_ so that means this file was built by python
+We will use &lt;strong&gt;pyinstxtrator.py&lt;/strong&gt; to export the content of this file(point in the &lt;strong&gt;main&lt;/strong&gt; file to open terminal)
+Type:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/re/1761315251658-re/featured.png"/></item><item><title>Write-up for Reverse Master CSCV2025</title><link>https://mtasecurity.github.io/MSEC/re/1761315247629-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1761315247629-re/</guid><description>&lt;p&gt;Hello everyone🫡! Today I will write a little bit about The &lt;em&gt;&lt;strong&gt;Reverse Master&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025.
+The question:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/B1vSBTNAee.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;When we install the file we will have an apk file like this:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/Bk60raNReg.png"
+&gt;&lt;/figure&gt;
+Use &lt;strong&gt;jadx-gui&lt;/strong&gt; to decompile this file,then open &lt;strong&gt;Source code/com/ctf.challenge&lt;/strong&gt; and you will see &lt;strong&gt;Main Activity&lt;/strong&gt; like this:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/BJ7-D6NRlx.png"
+&gt;&lt;/figure&gt;
+Open that and you will see the code below:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;package com.ctf.challenge;
+import android.graphics.Color;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import androidx.appcompat.app.AppCompatActivity;
+import com.google.android.material.textfield.TextInputEditText;
+import com.google.android.material.textfield.TextInputLayout;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.InetSocketAddress;
+import java.net.Socket;
+import o.CountDownTimerC0176z3;
+import o.F2;
+import o.F3;
+import o.RunnableC0154w;
+import o.V4;
+/* loaded from: classes.dex */
+public final class MainActivity extends AppCompatActivity {
+public static final /* synthetic */ int b = 0;
+public final byte[] a = {66, 51, 122, 33, 86};
+static {
+try {
+System.loadLibrary(&amp;#34;native-lib&amp;#34;);
+} catch (UnsatisfiedLinkError e) {
+Log.e(&amp;#34;CTF&amp;#34;, &amp;#34;❌ Native lib failed: &amp;#34; + e.getMessage());
+}
+}
+public final native boolean checkSecondHalf(String str);
+public final native String getHint();
+public final void h(LinearLayout linearLayout, String str, String str2) {
+View viewInflate = getLayoutInflater().inflate(android.R.layout.simple_list_item_2, (ViewGroup) linearLayout, false);
+TextView textView = (TextView) viewInflate.findViewById(android.R.id.text1);
+TextView textView2 = (TextView) viewInflate.findViewById(android.R.id.text2);
+textView.setText(&amp;#34;⚠️ &amp;#34;.concat(str));
+textView.setTextColor(Color.parseColor(&amp;#34;#FF5252&amp;#34;));
+textView.setTextSize(16.0f);
+textView.setTypeface(null, 1);
+textView2.setText(str2);
+textView2.setTextColor(Color.parseColor(&amp;#34;#BDBDBD&amp;#34;));
+textView2.setTextSize(13.0f);
+linearLayout.addView(viewInflate);
+}
+@Override // androidx.fragment.app.FragmentActivity, androidx.activity.ComponentActivity, androidx.core.app.ComponentActivity, android.app.Activity
+public final void onCreate(Bundle bundle) throws IOException {
+boolean z;
+String line;
+super.onCreate(bundle);
+setContentView(R.layout.activity_main);
+boolean z2 = false;
+boolean z3 = (getApplicationInfo().flags &amp;amp; 2) != 0;
+String[] strArr = {&amp;#34;/system/app/Superuser.apk&amp;#34;, &amp;#34;/sbin/su&amp;#34;, &amp;#34;/system/bin/su&amp;#34;, &amp;#34;/system/xbin/su&amp;#34;, &amp;#34;/data/local/xbin/su&amp;#34;, &amp;#34;/data/local/bin/su&amp;#34;, &amp;#34;/system/sd/xbin/su&amp;#34;, &amp;#34;/system/bin/failsafe/su&amp;#34;, &amp;#34;/data/local/su&amp;#34;};
+int i = 0;
+while (true) {
+if (i &amp;gt;= 9) {
+try {
+Runtime.getRuntime().exec(&amp;#34;su&amp;#34;);
+break;
+} catch (Exception unused) {
+z = false;
+}
+} else if (new File(strArr[i]).exists()) {
+break;
+} else {
+i++;
+}
+}
+z = true;
+try {
+BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(Runtime.getRuntime().exec(&amp;#34;ps&amp;#34;).getInputStream()));
+do {
+line = bufferedReader.readLine();
+if (line == null) {
+break;
+} else if (!V4.u(line, &amp;#34;frida&amp;#34;) &amp;amp;&amp;amp; !V4.u(line, &amp;#34;gum-js-loop&amp;#34;)) {
+}
+} while (!V4.u(line, &amp;#34;gmain&amp;#34;));
+z2 = true;
+bufferedReader.close();
+} catch (Exception unused2) {
+}
+int i2 = 27042;
+while (true) {
+if (i2 &amp;gt;= 27053) {
+break;
+}
+try {
+Socket socket = new Socket();
+socket.connect(new InetSocketAddress(&amp;#34;127.0.0.1&amp;#34;, i2), 100);
+socket.close();
+z2 = true;
+break;
+} catch (Exception unused3) {
+i2++;
+}
+}
+if (!z3 &amp;amp;&amp;amp; !z &amp;amp;&amp;amp; !z2) {
+Thread thread = new Thread(new RunnableC0154w(8, this));
+thread.setDaemon(true);
+thread.start();
+final TextInputLayout textInputLayout = (TextInputLayout) findViewById(R.id.flagInputLayout);
+final TextInputEditText textInputEditText = (TextInputEditText) findViewById(R.id.flagInput);
+Button button = (Button) findViewById(R.id.checkButton);
+Button button2 = (Button) findViewById(R.id.hintButton);
+button.setOnClickListener(new View.OnClickListener() { // from class: o.y3
+/* JADX WARN: Removed duplicated region for block: B:4:0x001a */
+@Override // android.view.View.OnClickListener
+/*
+Code decompiled incorrectly, please refer to instructions dump.
+To view partially-correct code enable &amp;#39;Show inconsistent code&amp;#39; option in preferences
+*/
+public final void onClick(android.view.View r13) {
+/*
+r12 = this;
+r13 = 16
+r0 = 1
+int r1 = com.ctf.challenge.MainActivity.b
+com.google.android.material.textfield.TextInputEditText r1 = r1
+android.text.Editable r1 = r1.getText()
+java.lang.String r1 = java.lang.String.valueOf(r1)
+com.ctf.challenge.MainActivity r2 = r2
+java.lang.String r3 = &amp;#34;CSCV2025{&amp;#34;
+boolean r3 = r1.startsWith(r3)
+r4 = 0
+if (r3 != 0) goto L1c
+L1a:
+r13 = r4
+goto L6e
+L1c:
+java.lang.String r3 = &amp;#34;}&amp;#34;
+boolean r3 = r1.endsWith(r3)
+if (r3 != 0) goto L25
+goto L1a
+L25:
+int r3 = r1.length()
+int r3 = r3 - r0
+r5 = 9
+java.lang.String r1 = r1.substring(r5, r3)
+java.lang.String r3 = &amp;#34;substring(...)&amp;#34;
+o.F2.e(r1, r3)
+java.lang.String r5 = r1.substring(r4, r13)
+o.F2.e(r5, r3)
+byte[] r6 = new byte[r13]
+r6 = {x0090: FILL_ARRAY_DATA , data: [122, 86, 27, 22, 53, 35, 80, 77, 24, 98, 122, 7, 72, 21, 98, 114} // fill-array
+byte[] r7 = new byte[r13]
+r8 = r4
+L44:
+if (r8 &amp;gt;= r13) goto L55
+r9 = r6[r8]
+byte[] r10 = r2.a
+int r11 = r10.length
+int r11 = r8 % r11
+r10 = r10[r11]
+r9 = r9 ^ r10
+byte r9 = (byte) r9
+r7[r8] = r9
+int r8 = r8 + r0
+goto L44
+L55:
+java.lang.String r6 = new java.lang.String
+java.nio.charset.Charset r8 = o.X.a
+r6.&amp;lt;init&amp;gt;(r7, r8)
+boolean r5 = r5.equals(r6)
+if (r5 != 0) goto L63
+goto L1a
+L63:
+java.lang.String r13 = r1.substring(r13)
+o.F2.e(r13, r3)
+boolean r13 = r2.checkSecondHalf(r13)
+L6e:
+com.google.android.material.textfield.TextInputLayout r1 = r3
+if (r13 == 0) goto L80
+java.lang.String r13 = &amp;#34;🎉 Correct! Flag is valid!&amp;#34;
+android.widget.Toast r13 = android.widget.Toast.makeText(r2, r13, r0)
+r13.show()
+r13 = 0
+r1.setError(r13)
+return
+L80:
+java.lang.String r13 = &amp;#34;❌ Wrong flag! Try again!&amp;#34;
+android.widget.Toast r13 = android.widget.Toast.makeText(r2, r13, r4)
+r13.show()
+java.lang.String r13 = &amp;#34;Invalid flag&amp;#34;
+r1.setError(r13)
+return
+*/
+throw new UnsupportedOperationException(&amp;#34;Method not decompiled: o.ViewOnClickListenerC0170y3.onClick(android.view.View):void&amp;#34;);
+}
+});
+button2.setOnClickListener(new F3(3, this));
+return;
+}
+setContentView(R.layout.security_warning);
+TextView textView = (TextView) findViewById(R.id.countdownText);
+LinearLayout linearLayout = (LinearLayout) findViewById(R.id.issuesList);
+if (z3) {
+F2.c(linearLayout);
+h(linearLayout, &amp;#34;Debug Mode Detected&amp;#34;, &amp;#34;Application is running in debuggable mode&amp;#34;);
+}
+if (z) {
+F2.c(linearLayout);
+h(linearLayout, &amp;#34;Root Access Detected&amp;#34;, &amp;#34;Device has been rooted or jailbroken&amp;#34;);
+}
+if (z2) {
+F2.c(linearLayout);
+h(linearLayout, &amp;#34;Frida Framework Detected&amp;#34;, &amp;#34;Dynamic instrumentation tool is running&amp;#34;);
+}
+new CountDownTimerC0176z3(textView, this).start();
+}
+public final native void startFridaMonitoring();
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can find the first half of the flag with this XOR code from python:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/re/1761315247629-re/featured.png"/></item><item><title>Write-up REEZS</title><link>https://mtasecurity.github.io/MSEC/re/1761292805274-dauif/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1761292805274-dauif/</guid><description>&lt;p&gt;Hello guys🤗! today i will write about a REV challenge that met at the CSCV2025 that named:&lt;em&gt;&lt;strong&gt;Reezs&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SkxObFzAxe.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;First when you install the file and extract the folder you will have an .exe file like this: &lt;br&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/B1I12bfRel.png"
+&gt;&lt;/figure&gt;
+When you run that file, you will see an CMD that told you enter the flag:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/r1JH3-MClx.png"
+&gt;&lt;/figure&gt;
+Since there were no clues at first, I typed some random input to see how the program executes. As expected, it shut down immediately.&lt;br&gt;
+Then I opened IDA and loaded the file to read the main function and understand the execution flow. In IDA View-A, the main function looks like this:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/re/1761292805274-dauif/featured.png"/></item></channel></rss>

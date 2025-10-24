@@ -1,69 +1,173 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WEBs on MSEC</title><link>https://mtasecurity.github.io/MSEC/web/</link><description>Recent content in WEBs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mtasecurity.github.io/MSEC/web/index.xml" rel="self" type="application/rss+xml"/><item><title>aaa</title><link>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
-&lt;h1 class="relative group"&gt;This is a heading
-&lt;div id="this-is-a-heading" class="anchor"&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WEBs on MSEC</title><link>https://mtasecurity.github.io/MSEC/web/</link><description>Recent content in WEBs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/web/index.xml" rel="self" type="application/rss+xml"/><item><title>LEAK FORCE</title><link>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</guid><description>&lt;h1 class="relative group"&gt;LEAK FORCE
+&lt;div id="leak-force" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-heading" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#leak-force" aria-label="Anchor"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
-&lt;h2 class="relative group"&gt;This is a subheading
-&lt;div id="this-is-a-subheading" class="anchor"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/BJQDAszAgg.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 class="relative group"&gt;TEST
+&lt;div id="test" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;h3 class="relative group"&gt;This is a subsubheading
-&lt;div id="this-is-a-subsubheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;
-&lt;h4 class="relative group"&gt;This is a subsubsubheading
-&lt;div id="this-is-a-subsubsubheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#test" aria-label="Anchor"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-href="https://blowfish.page/"
+&lt;p&gt;Challenge cung cấp một mã nguồn HTML &lt;a
+href="http://web1.cscv.vn:9981/"
 target="_blank"
-&gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/featured.png"/></item><item><title>abc</title><link>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
-&lt;h1 class="relative group"&gt;This is a heading
-&lt;div id="this-is-a-heading" class="anchor"&gt;&lt;/div&gt;
+&gt;http://web1.cscv.vn:9981/&lt;/a&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SJ8899f0gg.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Trước tiên em sẽ thử các chức năng của web&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Register các thứ các thứ rồi login với username: abc2, password: abc&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sau khi login xong thì sẽ được chuyển tới trang &lt;a
+href="http://web1.cscv.vn:9981/profile.html"
+target="_blank"
+&gt;http://web1.cscv.vn:9981/profile.html&lt;/a&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/HJwSEsG0le.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761315315933-web/featured.png"/></item><item><title>PortfolioS (Write up này dài hơn của BKSEC)</title><link>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</guid><description>&lt;h1 class="relative group"&gt;PortfolioS (Write up này dài hơn của BKSEC)
+&lt;div id="portfolios-write-up-này-dài-hơn-của-bksec" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-heading" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#portfolios-write-up-n%c3%a0y-d%c3%a0i-h%c6%a1n-c%e1%bb%a7a-bksec" aria-label="Anchor"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
-&lt;h2 class="relative group"&gt;This is a subheading
-&lt;div id="this-is-a-subheading" class="anchor"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/Hk5zfaOCee.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Challenge file: &lt;a
+href="https://drive.google.com/file/d/1g-ZEzFmsgxozcKSScCvevPqiFS4w4Bgh/view"
+target="_blank"
+&gt;public.zip&lt;/a&gt;&lt;/p&gt;
+&lt;h2 class="relative group"&gt;1) Phân tích challenge
+&lt;div id="1-phân-tích-challenge" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subheading" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#1-ph%c3%a2n-t%c3%adch-challenge" aria-label="Anchor"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;h3 class="relative group"&gt;This is a subsubheading
-&lt;div id="this-is-a-subsubheading" class="anchor"&gt;&lt;/div&gt;
+&lt;h3 class="relative group"&gt;1.1 Kiến trúc (Docker Compose + mạng)
+&lt;div id="11-kiến-trúc-docker-compose--mạng" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#11-ki%e1%ba%bfn-tr%c3%bac-docker-compose--m%e1%ba%a1ng" aria-label="Anchor"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h3&gt;
-&lt;h4 class="relative group"&gt;This is a subsubsubheading
-&lt;div id="this-is-a-subsubsubheading" class="anchor"&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Hệ thống có 2 service:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;app&lt;/strong&gt;: Spring Boot (Tomcat embedded)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;nginx&lt;/strong&gt;: reverse proxy expose cổng &lt;strong&gt;8989&lt;/strong&gt; ra host, &lt;code&gt;proxy_pass http://app:8989&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Mọi truy cập từ ngoài đi &lt;strong&gt;qua nginx&lt;/strong&gt; rồi mới tới app.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/rkTvGp_Rle.png"
+&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SJ4OMad0el.png"
+&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/Syu_Gp_Rle.png"
+&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/r1ZEET_0xg.png"
+&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/H1oMNauCgl.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/featured.png"/></item><item><title>ZC-1 CHALLENGE</title><link>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</guid><description>&lt;h1 class="relative group"&gt;ZC-1 CHALLENGE
+&lt;div id="zc-1-challenge" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#zc-1-challenge" aria-label="Anchor"&gt;#&lt;/a&gt;
 &lt;/span&gt;
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-href="https://blowfish.page/"
+&lt;/h1&gt;
+&lt;h1 class="relative group"&gt;MTA_SUPPORT
+&lt;div id="mta_support" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#mta_support" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/ry_nOA4Cxl.png"
+&gt;&lt;/figure&gt;
+challenge file: &lt;a
+href="https://drive.google.com/file/d/1PprDuWV1u11dnH1mf_Bc70La8CpFZ7NR/view"
 target="_blank"
-&gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761292219022-abc/featured.png"/></item></channel></rss>
+&gt;public&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class="relative group"&gt;IDEA: Polyglot ZIP→7z + kích hoạt qua “health” nội bộ
+&lt;div id="idea-polyglot-zip7z--kích-hoạt-qua-health-nội-bộ" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#idea-polyglot-zip7z--k%c3%adch-ho%e1%ba%a1t-qua-health-n%e1%bb%99i-b%e1%bb%99" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;Mục tiêu: Upload 1 file vượt qua kiểm tra &lt;code&gt;ZIP safety&lt;/code&gt; của &lt;code&gt;service 1&lt;/code&gt; nhưng buộc &lt;code&gt;service 2&lt;/code&gt; giải nén và chạy shell.php, rồi dùng endpoint health để gọi file này để lấy flag CSCV2025{}.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761292219022-abc/featured.png"/></item></channel></rss>

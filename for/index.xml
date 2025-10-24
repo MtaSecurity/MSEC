@@ -1,35 +1,111 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FORs on MSEC</title><link>https://mtasecurity.github.io/MSEC/for/</link><description>Recent content in FORs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mtasecurity.github.io/MSEC/for/index.xml" rel="self" type="application/rss+xml"/><item><title>afw</title><link>https://mtasecurity.github.io/MSEC/for/1761292850356-afw/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1761292850356-afw/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
-&lt;h1 class="relative group"&gt;This is a heading
-&lt;div id="this-is-a-heading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-heading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;h2 class="relative group"&gt;This is a subheading
-&lt;div id="this-is-a-subheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;h3 class="relative group"&gt;This is a subsubheading
-&lt;div id="this-is-a-subsubheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;
-&lt;h4 class="relative group"&gt;This is a subsubsubheading
-&lt;div id="this-is-a-subsubsubheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-href="https://blowfish.page/"
-target="_blank"
-&gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1761292850356-afw/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FORs on MSEC</title><link>https://mtasecurity.github.io/MSEC/for/</link><description>Recent content in FORs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/for/index.xml" rel="self" type="application/rss+xml"/><item><title>CCSCV2025 FOR NOSTALGIAS</title><link>https://mtasecurity.github.io/MSEC/for/1761292850356-afw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1761292850356-afw/</guid><description>&lt;p&gt;FORENSICS CSCV WRITEUP 2025
+From: MTA.Support&lt;/p&gt;
+&lt;p&gt;FOR2: NostalgiaS&lt;/p&gt;
+&lt;p&gt;First, after extract the file zip with the password provided by admin, we have file challenge.ad1 and we need to open it in FTK Imager&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/r1OkgoEClg.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Remember the user who was hacked name kadoyat, so we go to get information in users/kadoyat&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/BJySeoNClx.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Look around for important files like documents, downloads, desktop but there are no any information there so that we need to navigate to find out from his web history&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1761292850356-afw/featured.png"/></item><item><title>CSCV2025 FOR CASEALPHAS</title><link>https://mtasecurity.github.io/MSEC/for/1761315037677-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1761315037677-for/</guid><description>&lt;p&gt;FORENSICS CSCV 2025
+from: MTA.SUPPORT&lt;/p&gt;
+&lt;p&gt;FOR3: CASE ALPHAS&lt;/p&gt;
+&lt;p&gt;First, we have the file zip from admin, then we enter the password to extract this&lt;/p&gt;
+&lt;p&gt;After extracted, we got 2 files&lt;/p&gt;
+&lt;p&gt;Open ReadMe.pdf to read the information and get the password to extract file zip&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/HJo28szCxg.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Open evidences, there is 3 file, we just need to care about evidences.ad1 first&lt;/p&gt;
+&lt;p&gt;Open it in FTK Imager:
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/H1eTwsGRgx.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Fortunately, after a quick scan, notice that the insider threat has downloaded chatgpt desktop and simplenote, so that we need to check file .db in 2 files&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1761315037677-for/featured.png"/></item><item><title>CSCV2025 FOR COVERTS</title><link>https://mtasecurity.github.io/MSEC/for/1761315051227-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1761315051227-for/</guid><description>&lt;p&gt;FORENSICS CSCV2025 WRITEUP
+From: MTA.Support&lt;/p&gt;
+&lt;p&gt;FOR4: CovertS&lt;/p&gt;
+&lt;p&gt;First, we have the file and the password provided admin, after extract the file, we have file challenge.pcapng&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/HJb7V4SCgx.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Open file, because this file contain 1GB of data, so that we need to predict what protocol is suspicious and start to filter around this&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/rJQhV4BRle.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Because the hacker exfiltrated sth, to reduce the possibility of being detected, we often have to split files and data to smaller pieces, so we will need a lot of packets. From there, we can eliminate some protocols such as NTP, ARP, HTTP, UDP&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1761315051227-for/featured.png"/></item><item><title>CSCV2025 FOR DNS</title><link>https://mtasecurity.github.io/MSEC/for/1761315057946-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1761315057946-for/</guid><description>&lt;p&gt;FORENSICS CSCV 2025 WRITE UP
+From: MTA.Support&lt;/p&gt;
+&lt;p&gt;FOR1: DNS&lt;/p&gt;
+&lt;p&gt;After downloading and unzipping the file, we will get the following 3 files&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;capture.pcap&lt;/li&gt;
+&lt;li&gt;access.log&lt;/li&gt;
+&lt;li&gt;error.log&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;First open the .pcap file with wireshark and get the following interface&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/B1GY8IfAeg.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Rearrange the section information and scroll from top to bottom&lt;/p&gt;
+&lt;p&gt;We find the suspicious dns with information ending in hex.cloudflar3.com&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/S1riwLMRlx.png"
+&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/H1l6wLf0le.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Get the query response, we has:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1761315057946-for/featured.png"/></item></channel></rss>
