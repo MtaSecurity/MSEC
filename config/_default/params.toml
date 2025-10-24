@@ -3,7 +3,7 @@ defaultBackgroundImage = "image.jpg"
 
 [homepage]
   layout = "background"
-  homepageImage = "4.gif"
+  homepageImage = "1.gif"
   showRecent = true
   cardView = true
 

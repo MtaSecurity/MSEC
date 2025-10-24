@@ -2,355 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MSEC</title>
-    <link>http://localhost/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on MSEC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>aaa</title>
-      <link>http://localhost/web/1761292330570-aaa/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost/web/1761292330570-aaa/</guid>
-      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;This is a heading
-    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading
-    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading
-    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-
-&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading
-    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-  href=&#34;https://blowfish.page/&#34;
-    target=&#34;_blank&#34;
-  &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/web/1761292330570-aaa/featured.png" />
-    </item>
-    
-    <item>
-      <title>abc</title>
-      <link>http://localhost/pwn/1761292636963-abc/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost/pwn/1761292636963-abc/</guid>
-      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;This is a heading
-    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading
-    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading
-    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-
-&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading
-    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-  href=&#34;https://blowfish.page/&#34;
-    target=&#34;_blank&#34;
-  &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/pwn/1761292636963-abc/featured.png" />
-    </item>
-    
-    <item>
-      <title>abc</title>
-      <link>http://localhost/web/1761292219022-abc/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost/web/1761292219022-abc/</guid>
-      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;This is a heading
-    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading
-    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading
-    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-
-&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading
-    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-  href=&#34;https://blowfish.page/&#34;
-    target=&#34;_blank&#34;
-  &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/web/1761292219022-abc/featured.png" />
-    </item>
-    
-    <item>
-      <title>afw</title>
-      <link>http://localhost/for/1761292850356-afw/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost/for/1761292850356-afw/</guid>
-      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;This is a heading
-    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading
-    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading
-    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-
-&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading
-    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-  href=&#34;https://blowfish.page/&#34;
-    target=&#34;_blank&#34;
-  &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/for/1761292850356-afw/featured.png" />
-    </item>
-    
-    <item>
-      <title>bas</title>
-      <link>http://localhost/pwn/1761292555048-bas/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost/pwn/1761292555048-bas/</guid>
-      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;This is a heading
-    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading
-    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading
-    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-
-&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading
-    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-  href=&#34;https://blowfish.page/&#34;
-    target=&#34;_blank&#34;
-  &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/pwn/1761292555048-bas/featured.png" />
-    </item>
-    
-    <item>
-      <title>dauif</title>
-      <link>http://localhost/re/1761292805274-dauif/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost/re/1761292805274-dauif/</guid>
-      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;This is a heading
-    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading
-    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading
-    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-
-&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading
-    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-  href=&#34;https://blowfish.page/&#34;
-    target=&#34;_blank&#34;
-  &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/re/1761292805274-dauif/featured.png" />
-    </item>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>gbwesgfsd</title>
-      <link>http://localhost/crypto/1761292930955-gbwesgfsd/</link>
+      <link>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/crypto/1761292930955-gbwesgfsd/</guid>
+      <guid>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</guid>
       <description>&lt;p&gt;an example to get you started&lt;/p&gt;
 
 &lt;h1 class=&#34;relative group&#34;&gt;This is a heading
@@ -398,63 +62,810 @@ Check more at &lt;a
     target=&#34;_blank&#34;
   &gt;Blowfish documentation&lt;/a&gt;
 undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/crypto/1761292930955-gbwesgfsd/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/crypto/1761292930955-gbwesgfsd/featured.png" />
     </item>
     
     <item>
-      <title>xya</title>
-      <link>http://localhost/pwn/1761292722248-xya/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <title>CCSCV2025 FOR NOSTALGIAS</title>
+      <link>http://localhost:1313/for/1761292850356-afw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/pwn/1761292722248-xya/</guid>
-      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;This is a heading
-    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <guid>http://localhost:1313/for/1761292850356-afw/</guid>
+      <description>&lt;p&gt;FORENSICS CSCV WRITEUP 2025
+From: MTA.Support&lt;/p&gt;
+&lt;p&gt;FOR2: NostalgiaS&lt;/p&gt;
+&lt;p&gt;First, after extract the file zip with the password provided by admin, we have file challenge.ad1 and we need to open it in FTK Imager&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/r1OkgoEClg.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Remember the user who was hacked name kadoyat, so we go to get information in users/kadoyat&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/BJySeoNClx.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Look around for important files like documents, downloads, desktop but there are no any information there so that we need to navigate to find out from his web history&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761292850356-afw/featured.png" />
+    </item>
+    
+    <item>
+      <title>CSCV2025 - Pwn</title>
+      <link>http://localhost:1313/pwn/1761314838840-pwn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pwn/1761314838840-pwn/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;CSCV2025 - Pwn
+    &lt;div id=&#34;cscv2025---pwn&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#cscv2025---pwn&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;
     
 &lt;/h1&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading
-    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;RacehorseS
+    &lt;div id=&#34;racehorses&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#racehorses&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;ảnh&#34;
+    src=&#34;https://hackmd.io/_uploads/S1kbkfm0ee.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Summary
+    &lt;div id=&#34;summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a
+  href=&#34;https://qual2.cscv.vn/files/646ccd11c5722a285edc936993ab6086/horse_say.zip?token=eyJ1c2VyX2lkIjo1OTI5LCJ0ZWFtX2lkIjoxMjQxLCJmaWxlX2lkIjo3MH0.aPWaAg.70NIT6vV5C5Pt2qZs-Rtt9bfH4k&#34;
+    target=&#34;_blank&#34;
+  &gt;horse_say.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The binary contains a format-string vulnerability in &lt;code&gt;printf(s)&lt;/code&gt; and &lt;strong&gt;Partial RELRO&lt;/strong&gt;. Use a format-string to overwrite GOT entries. The goal is to get a shell by redirecting &lt;code&gt;strlen()&lt;/code&gt; to &lt;code&gt;system()&lt;/code&gt; and passing &lt;strong&gt;&amp;quot;/bin/sh&amp;quot;&lt;/strong&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/pwn/1761314838840-pwn/featured.png" />
+    </item>
+    
+    <item>
+      <title>CSCV2025 FOR CASEALPHAS</title>
+      <link>http://localhost:1313/for/1761315037677-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/for/1761315037677-for/</guid>
+      <description>&lt;p&gt;FORENSICS CSCV 2025
+from: MTA.SUPPORT&lt;/p&gt;
+&lt;p&gt;FOR3: CASE ALPHAS&lt;/p&gt;
+&lt;p&gt;First, we have the file zip from admin, then we enter the password to extract this&lt;/p&gt;
+&lt;p&gt;After extracted, we got 2 files&lt;/p&gt;
+&lt;p&gt;Open ReadMe.pdf to read the information and get the password to extract file zip&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/HJo28szCxg.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Open evidences, there is 3 file, we just need to care about evidences.ad1 first&lt;/p&gt;
+&lt;p&gt;Open it in FTK Imager:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/H1eTwsGRgx.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Fortunately, after a quick scan, notice that the insider threat has downloaded chatgpt desktop and simplenote, so that we need to check file .db in 2 files&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761315037677-for/featured.png" />
+    </item>
+    
+    <item>
+      <title>CSCV2025 FOR COVERTS</title>
+      <link>http://localhost:1313/for/1761315051227-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/for/1761315051227-for/</guid>
+      <description>&lt;p&gt;FORENSICS CSCV2025 WRITEUP
+From: MTA.Support&lt;/p&gt;
+&lt;p&gt;FOR4: CovertS&lt;/p&gt;
+&lt;p&gt;First, we have the file and the password provided admin, after extract the file, we have file challenge.pcapng&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/HJb7V4SCgx.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Open file, because this file contain 1GB of data, so that we need to predict what protocol is suspicious and start to filter around this&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/rJQhV4BRle.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Because the hacker exfiltrated sth, to reduce the possibility of being detected, we often have to split files and data to smaller pieces, so we will need a lot of packets. From there, we can eliminate some protocols such as NTP, ARP, HTTP, UDP&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761315051227-for/featured.png" />
+    </item>
+    
+    <item>
+      <title>CSCV2025 FOR DNS </title>
+      <link>http://localhost:1313/for/1761315057946-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/for/1761315057946-for/</guid>
+      <description>&lt;p&gt;FORENSICS CSCV 2025 WRITE UP
+From: MTA.Support&lt;/p&gt;
+&lt;p&gt;FOR1: DNS&lt;/p&gt;
+&lt;p&gt;After downloading and unzipping the file, we will get the following 3 files&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;capture.pcap&lt;/li&gt;
+&lt;li&gt;access.log&lt;/li&gt;
+&lt;li&gt;error.log&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;First open the .pcap file with wireshark and get the following interface&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/B1GY8IfAeg.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Rearrange the section information and scroll from top to bottom&lt;/p&gt;
+&lt;p&gt;We find the suspicious dns with information ending in hex.cloudflar3.com&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/S1riwLMRlx.png&#34;
+    &gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/H1l6wLf0le.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Get the query response, we has:&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761315057946-for/featured.png" />
+    </item>
+    
+    <item>
+      <title>LEAK FORCE</title>
+      <link>http://localhost:1313/web/1761315315933-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/1761315315933-web/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;LEAK FORCE
+    &lt;div id=&#34;leak-force&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#leak-force&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/BJQDAszAgg.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 class=&#34;relative group&#34;&gt;TEST
+    &lt;div id=&#34;test&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#test&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h4&gt;
+&lt;p&gt;Challenge cung cấp một mã nguồn HTML &lt;a
+  href=&#34;http://web1.cscv.vn:9981/&#34;
+    target=&#34;_blank&#34;
+  &gt;http://web1.cscv.vn:9981/&lt;/a&gt;
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/SJ8899f0gg.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Trước tiên em sẽ thử các chức năng của web&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Register các thứ các thứ rồi login với username: abc2, password: abc&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sau khi login xong thì sẽ được chuyển tới trang &lt;a
+  href=&#34;http://web1.cscv.vn:9981/profile.html&#34;
+    target=&#34;_blank&#34;
+  &gt;http://web1.cscv.vn:9981/profile.html&lt;/a&gt;
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/HJwSEsG0le.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761315315933-web/featured.png" />
+    </item>
+    
+    <item>
+      <title>PortfolioS (Write up này dài hơn của BKSEC)</title>
+      <link>http://localhost:1313/web/1761292330570-aaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/1761292330570-aaa/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;PortfolioS (Write up này dài hơn của BKSEC)
+    &lt;div id=&#34;portfolios-write-up-này-dài-hơn-của-bksec&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#portfolios-write-up-n%c3%a0y-d%c3%a0i-h%c6%a1n-c%e1%bb%a7a-bksec&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/Hk5zfaOCee.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Challenge file: &lt;a
+  href=&#34;https://drive.google.com/file/d/1g-ZEzFmsgxozcKSScCvevPqiFS4w4Bgh/view&#34;
+    target=&#34;_blank&#34;
+  &gt;public.zip&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;1) Phân tích challenge
+    &lt;div id=&#34;1-phân-tích-challenge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-ph%c3%a2n-t%c3%adch-challenge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;
     
 &lt;/h2&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading
-    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;1.1 Kiến trúc (Docker Compose + mạng)
+    &lt;div id=&#34;11-kiến-trúc-docker-compose--mạng&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#11-ki%e1%ba%bfn-tr%c3%bac-docker-compose--m%e1%ba%a1ng&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;
     
 &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hệ thống có 2 service:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;app&lt;/strong&gt;: Spring Boot (Tomcat embedded)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;nginx&lt;/strong&gt;: reverse proxy expose cổng &lt;strong&gt;8989&lt;/strong&gt; ra host, &lt;code&gt;proxy_pass http://app:8989&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Mọi truy cập từ ngoài đi &lt;strong&gt;qua nginx&lt;/strong&gt; rồi mới tới app.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/rkTvGp_Rle.png&#34;
+    &gt;&lt;/figure&gt;
 
-&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading
-    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/SJ4OMad0el.png&#34;
+    &gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/Syu_Gp_Rle.png&#34;
+    &gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/r1ZEET_0xg.png&#34;
+    &gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/H1oMNauCgl.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761292330570-aaa/featured.png" />
+    </item>
+    
+    <item>
+      <title>Write-up for Chatbot CSCV2025</title>
+      <link>http://localhost:1313/re/1761315251658-re/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/re/1761315251658-re/</guid>
+      <description>&lt;p&gt;Hello everyone💯! Today i will tell you the way to solve the &lt;em&gt;&lt;strong&gt;Chatbot&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025&lt;/p&gt;
+&lt;p&gt;The question:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/r1KnQ9zRxx.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;So at first you will have an file &lt;strong&gt;main&lt;/strong&gt; like this below:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/HyCOV9zCgx.png&#34;
+    &gt;&lt;/figure&gt;
+
+Let open this file in DIE to see the information about this file:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/Sk8yH9zAll.png&#34;
+    &gt;&lt;/figure&gt;
+
+This is an ELF64 file and DIE has told us that this file have been packed with PyInstaller
+Let use IDA(in app use SHIFT+F12) to see strings of this file:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/ByuAB9MRxx.png&#34;
+    &gt;&lt;/figure&gt;
+
+Scroll down a little bit and you will see this:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/rJ3ZLcf0xl.png&#34;
+    &gt;&lt;/figure&gt;
+
+We see many file like Py_ so that means this file was built by python
+We will use &lt;strong&gt;pyinstxtrator.py&lt;/strong&gt; to export the content of this file(point in the &lt;strong&gt;main&lt;/strong&gt; file to open terminal)
+Type:&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/re/1761315251658-re/featured.png" />
+    </item>
+    
+    <item>
+      <title>Write-up for Reverse Master CSCV2025 </title>
+      <link>http://localhost:1313/re/1761315247629-re/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/re/1761315247629-re/</guid>
+      <description>&lt;p&gt;Hello everyone🫡! Today I will write a little bit about The &lt;em&gt;&lt;strong&gt;Reverse Master&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025.
+The question:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/B1vSBTNAee.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;When we install the file we will have an apk file like this:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/Bk60raNReg.png&#34;
+    &gt;&lt;/figure&gt;
+
+Use &lt;strong&gt;jadx-gui&lt;/strong&gt; to decompile this file,then open &lt;strong&gt;Source code/com/ctf.challenge&lt;/strong&gt; and you will see &lt;strong&gt;Main Activity&lt;/strong&gt; like this:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/BJ7-D6NRlx.png&#34;
+    &gt;&lt;/figure&gt;
+
+Open that and you will see the code below:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;package com.ctf.challenge;
+
+import android.graphics.Color;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import androidx.appcompat.app.AppCompatActivity;
+import com.google.android.material.textfield.TextInputEditText;
+import com.google.android.material.textfield.TextInputLayout;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.InetSocketAddress;
+import java.net.Socket;
+import o.CountDownTimerC0176z3;
+import o.F2;
+import o.F3;
+import o.RunnableC0154w;
+import o.V4;
+
+/* loaded from: classes.dex */
+public final class MainActivity extends AppCompatActivity {
+    public static final /* synthetic */ int b = 0;
+    public final byte[] a = {66, 51, 122, 33, 86};
+
+    static {
+        try {
+            System.loadLibrary(&amp;#34;native-lib&amp;#34;);
+        } catch (UnsatisfiedLinkError e) {
+            Log.e(&amp;#34;CTF&amp;#34;, &amp;#34;❌ Native lib failed: &amp;#34; + e.getMessage());
+        }
+    }
+
+    public final native boolean checkSecondHalf(String str);
+
+    public final native String getHint();
+
+    public final void h(LinearLayout linearLayout, String str, String str2) {
+        View viewInflate = getLayoutInflater().inflate(android.R.layout.simple_list_item_2, (ViewGroup) linearLayout, false);
+        TextView textView = (TextView) viewInflate.findViewById(android.R.id.text1);
+        TextView textView2 = (TextView) viewInflate.findViewById(android.R.id.text2);
+        textView.setText(&amp;#34;⚠️ &amp;#34;.concat(str));
+        textView.setTextColor(Color.parseColor(&amp;#34;#FF5252&amp;#34;));
+        textView.setTextSize(16.0f);
+        textView.setTypeface(null, 1);
+        textView2.setText(str2);
+        textView2.setTextColor(Color.parseColor(&amp;#34;#BDBDBD&amp;#34;));
+        textView2.setTextSize(13.0f);
+        linearLayout.addView(viewInflate);
+    }
+
+    @Override // androidx.fragment.app.FragmentActivity, androidx.activity.ComponentActivity, androidx.core.app.ComponentActivity, android.app.Activity
+    public final void onCreate(Bundle bundle) throws IOException {
+        boolean z;
+        String line;
+        super.onCreate(bundle);
+        setContentView(R.layout.activity_main);
+        boolean z2 = false;
+        boolean z3 = (getApplicationInfo().flags &amp;amp; 2) != 0;
+        String[] strArr = {&amp;#34;/system/app/Superuser.apk&amp;#34;, &amp;#34;/sbin/su&amp;#34;, &amp;#34;/system/bin/su&amp;#34;, &amp;#34;/system/xbin/su&amp;#34;, &amp;#34;/data/local/xbin/su&amp;#34;, &amp;#34;/data/local/bin/su&amp;#34;, &amp;#34;/system/sd/xbin/su&amp;#34;, &amp;#34;/system/bin/failsafe/su&amp;#34;, &amp;#34;/data/local/su&amp;#34;};
+        int i = 0;
+        while (true) {
+            if (i &amp;gt;= 9) {
+                try {
+                    Runtime.getRuntime().exec(&amp;#34;su&amp;#34;);
+                    break;
+                } catch (Exception unused) {
+                    z = false;
+                }
+            } else if (new File(strArr[i]).exists()) {
+                break;
+            } else {
+                i++;
+            }
+        }
+        z = true;
+        try {
+            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(Runtime.getRuntime().exec(&amp;#34;ps&amp;#34;).getInputStream()));
+            do {
+                line = bufferedReader.readLine();
+                if (line == null) {
+                    break;
+                } else if (!V4.u(line, &amp;#34;frida&amp;#34;) &amp;amp;&amp;amp; !V4.u(line, &amp;#34;gum-js-loop&amp;#34;)) {
+                }
+            } while (!V4.u(line, &amp;#34;gmain&amp;#34;));
+            z2 = true;
+            bufferedReader.close();
+        } catch (Exception unused2) {
+        }
+        int i2 = 27042;
+        while (true) {
+            if (i2 &amp;gt;= 27053) {
+                break;
+            }
+            try {
+                Socket socket = new Socket();
+                socket.connect(new InetSocketAddress(&amp;#34;127.0.0.1&amp;#34;, i2), 100);
+                socket.close();
+                z2 = true;
+                break;
+            } catch (Exception unused3) {
+                i2++;
+            }
+        }
+        if (!z3 &amp;amp;&amp;amp; !z &amp;amp;&amp;amp; !z2) {
+            Thread thread = new Thread(new RunnableC0154w(8, this));
+            thread.setDaemon(true);
+            thread.start();
+            final TextInputLayout textInputLayout = (TextInputLayout) findViewById(R.id.flagInputLayout);
+            final TextInputEditText textInputEditText = (TextInputEditText) findViewById(R.id.flagInput);
+            Button button = (Button) findViewById(R.id.checkButton);
+            Button button2 = (Button) findViewById(R.id.hintButton);
+            button.setOnClickListener(new View.OnClickListener() { // from class: o.y3
+                /* JADX WARN: Removed duplicated region for block: B:4:0x001a  */
+                @Override // android.view.View.OnClickListener
+                /*
+                    Code decompiled incorrectly, please refer to instructions dump.
+                    To view partially-correct code enable &amp;#39;Show inconsistent code&amp;#39; option in preferences
+                */
+                public final void onClick(android.view.View r13) {
+                    /*
+                        r12 = this;
+                        r13 = 16
+                        r0 = 1
+                        int r1 = com.ctf.challenge.MainActivity.b
+                        com.google.android.material.textfield.TextInputEditText r1 = r1
+                        android.text.Editable r1 = r1.getText()
+                        java.lang.String r1 = java.lang.String.valueOf(r1)
+                        com.ctf.challenge.MainActivity r2 = r2
+                        java.lang.String r3 = &amp;#34;CSCV2025{&amp;#34;
+                        boolean r3 = r1.startsWith(r3)
+                        r4 = 0
+                        if (r3 != 0) goto L1c
+                    L1a:
+                        r13 = r4
+                        goto L6e
+                    L1c:
+                        java.lang.String r3 = &amp;#34;}&amp;#34;
+                        boolean r3 = r1.endsWith(r3)
+                        if (r3 != 0) goto L25
+                        goto L1a
+                    L25:
+                        int r3 = r1.length()
+                        int r3 = r3 - r0
+                        r5 = 9
+                        java.lang.String r1 = r1.substring(r5, r3)
+                        java.lang.String r3 = &amp;#34;substring(...)&amp;#34;
+                        o.F2.e(r1, r3)
+                        java.lang.String r5 = r1.substring(r4, r13)
+                        o.F2.e(r5, r3)
+                        byte[] r6 = new byte[r13]
+                        r6 = {x0090: FILL_ARRAY_DATA , data: [122, 86, 27, 22, 53, 35, 80, 77, 24, 98, 122, 7, 72, 21, 98, 114} // fill-array
+                        byte[] r7 = new byte[r13]
+                        r8 = r4
+                    L44:
+                        if (r8 &amp;gt;= r13) goto L55
+                        r9 = r6[r8]
+                        byte[] r10 = r2.a
+                        int r11 = r10.length
+                        int r11 = r8 % r11
+                        r10 = r10[r11]
+                        r9 = r9 ^ r10
+                        byte r9 = (byte) r9
+                        r7[r8] = r9
+                        int r8 = r8 + r0
+                        goto L44
+                    L55:
+                        java.lang.String r6 = new java.lang.String
+                        java.nio.charset.Charset r8 = o.X.a
+                        r6.&amp;lt;init&amp;gt;(r7, r8)
+                        boolean r5 = r5.equals(r6)
+                        if (r5 != 0) goto L63
+                        goto L1a
+                    L63:
+                        java.lang.String r13 = r1.substring(r13)
+                        o.F2.e(r13, r3)
+                        boolean r13 = r2.checkSecondHalf(r13)
+                    L6e:
+                        com.google.android.material.textfield.TextInputLayout r1 = r3
+                        if (r13 == 0) goto L80
+                        java.lang.String r13 = &amp;#34;🎉 Correct! Flag is valid!&amp;#34;
+                        android.widget.Toast r13 = android.widget.Toast.makeText(r2, r13, r0)
+                        r13.show()
+                        r13 = 0
+                        r1.setError(r13)
+                        return
+                    L80:
+                        java.lang.String r13 = &amp;#34;❌ Wrong flag! Try again!&amp;#34;
+                        android.widget.Toast r13 = android.widget.Toast.makeText(r2, r13, r4)
+                        r13.show()
+                        java.lang.String r13 = &amp;#34;Invalid flag&amp;#34;
+                        r1.setError(r13)
+                        return
+                    */
+                    throw new UnsupportedOperationException(&amp;#34;Method not decompiled: o.ViewOnClickListenerC0170y3.onClick(android.view.View):void&amp;#34;);
+                }
+            });
+            button2.setOnClickListener(new F3(3, this));
+            return;
+        }
+        setContentView(R.layout.security_warning);
+        TextView textView = (TextView) findViewById(R.id.countdownText);
+        LinearLayout linearLayout = (LinearLayout) findViewById(R.id.issuesList);
+        if (z3) {
+            F2.c(linearLayout);
+            h(linearLayout, &amp;#34;Debug Mode Detected&amp;#34;, &amp;#34;Application is running in debuggable mode&amp;#34;);
+        }
+        if (z) {
+            F2.c(linearLayout);
+            h(linearLayout, &amp;#34;Root Access Detected&amp;#34;, &amp;#34;Device has been rooted or jailbroken&amp;#34;);
+        }
+        if (z2) {
+            F2.c(linearLayout);
+            h(linearLayout, &amp;#34;Frida Framework Detected&amp;#34;, &amp;#34;Dynamic instrumentation tool is running&amp;#34;);
+        }
+        new CountDownTimerC0176z3(textView, this).start();
+    }
+
+    public final native void startFridaMonitoring();
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can find the first half of the flag with this XOR code from python:&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/re/1761315247629-re/featured.png" />
+    </item>
+    
+    <item>
+      <title>Write-up REEZS</title>
+      <link>http://localhost:1313/re/1761292805274-dauif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/re/1761292805274-dauif/</guid>
+      <description>&lt;p&gt;Hello guys🤗! today i will write about a REV challenge that met at the CSCV2025 that named:&lt;em&gt;&lt;strong&gt;Reezs&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/SkxObFzAxe.png&#34;
+    &gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;First when you install the file and extract the folder you will have an .exe file like this:  &lt;br&gt;
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/B1I12bfRel.png&#34;
+    &gt;&lt;/figure&gt;
+
+When you run that file, you will see an CMD that told you enter the flag:
+&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/r1JH3-MClx.png&#34;
+    &gt;&lt;/figure&gt;
+
+Since there were no clues at first, I typed some random input to see how the program executes. As expected, it shut down immediately.&lt;br&gt;
+Then I opened IDA and loaded the file to read the main function and understand the execution flow. In IDA View-A, the main function looks like this:&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/re/1761292805274-dauif/featured.png" />
+    </item>
+    
+    <item>
+      <title>ZC-1 CHALLENGE</title>
+      <link>http://localhost:1313/web/1761292219022-abc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/web/1761292219022-abc/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;ZC-1 CHALLENGE
+    &lt;div id=&#34;zc-1-challenge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#zc-1-challenge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;
     
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-  href=&#34;https://blowfish.page/&#34;
+&lt;/h1&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;MTA_SUPPORT
+    &lt;div id=&#34;mta_support&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#mta_support&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;low&#34;
+    alt=&#34;image&#34;
+    src=&#34;https://hackmd.io/_uploads/ry_nOA4Cxl.png&#34;
+    &gt;&lt;/figure&gt;
+
+challenge file: &lt;a
+  href=&#34;https://drive.google.com/file/d/1PprDuWV1u11dnH1mf_Bc70La8CpFZ7NR/view&#34;
     target=&#34;_blank&#34;
-  &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost/pwn/1761292722248-xya/featured.png" />
+  &gt;public&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;IDEA: Polyglot ZIP→7z + kích hoạt qua “health” nội bộ
+    &lt;div id=&#34;idea-polyglot-zip7z--kích-hoạt-qua-health-nội-bộ&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#idea-polyglot-zip7z--k%c3%adch-ho%e1%ba%a1t-qua-health-n%e1%bb%99i-b%e1%bb%99&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h3&gt;
+&lt;p&gt;Mục tiêu: Upload 1 file vượt qua kiểm tra &lt;code&gt;ZIP safety&lt;/code&gt; của &lt;code&gt;service 1&lt;/code&gt; nhưng buộc &lt;code&gt;service 2&lt;/code&gt; giải nén và chạy shell.php, rồi dùng endpoint health để gọi file này để lấy flag CSCV2025{}.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761292219022-abc/featured.png" />
     </item>
     
   </channel>
