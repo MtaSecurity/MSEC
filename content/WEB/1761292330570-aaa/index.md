@@ -1,9 +1,9 @@
 ---
-title: PortfolioS (Write up này dài hơn của BKSEC)
+title: PortfolioS 
 
 ---
 
-# PortfolioS (Write up này dài hơn của BKSEC)
+# PortfolioS
 ![image](https://hackmd.io/_uploads/Hk5zfaOCee.png)
 
 Challenge file: [public.zip](https://drive.google.com/file/d/1g-ZEzFmsgxozcKSScCvevPqiFS4w4Bgh/view)
