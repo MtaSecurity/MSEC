@@ -4,161 +4,36 @@
     <title>FORs on MSEC</title>
     <link>http://localhost:1313/for/</link>
     <description>Recent content in FORs on MSEC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
     <atom:link href="http://localhost:1313/for/index.xml" rel="self" type="application/rss+xml" />
-    
     <item>
       <title>CCSCV2025 FOR NOSTALGIAS</title>
       <link>http://localhost:1313/for/1761292850356-afw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/for/1761292850356-afw/</guid>
-      <description>&lt;p&gt;FORENSICS CSCV WRITEUP 2025
-From: MTA.Support&lt;/p&gt;
-&lt;p&gt;FOR2: NostalgiaS&lt;/p&gt;
-&lt;p&gt;First, after extract the file zip with the password provided by admin, we have file challenge.ad1 and we need to open it in FTK Imager&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/r1OkgoEClg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Remember the user who was hacked name kadoyat, so we go to get information in users/kadoyat&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/BJySeoNClx.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Look around for important files like documents, downloads, desktop but there are no any information there so that we need to navigate to find out from his web history&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761292850356-afw/featured.png" />
+      <description>&lt;p&gt;FORENSICS CSCV WRITEUP 2025&#xA;From: MTA.Support&lt;/p&gt;&#xA;&lt;p&gt;FOR2: NostalgiaS&lt;/p&gt;&#xA;&lt;p&gt;First, after extract the file zip with the password provided by admin, we have file challenge.ad1 and we need to open it in FTK Imager&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/r1OkgoEClg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Remember the user who was hacked name kadoyat, so we go to get information in users/kadoyat&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/BJySeoNClx.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Look around for important files like documents, downloads, desktop but there are no any information there so that we need to navigate to find out from his web history&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CSCV2025 FOR CASEALPHAS</title>
       <link>http://localhost:1313/for/1761315037677-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/for/1761315037677-for/</guid>
-      <description>&lt;p&gt;FORENSICS CSCV 2025
-from: MTA.SUPPORT&lt;/p&gt;
-&lt;p&gt;FOR3: CASE ALPHAS&lt;/p&gt;
-&lt;p&gt;First, we have the file zip from admin, then we enter the password to extract this&lt;/p&gt;
-&lt;p&gt;After extracted, we got 2 files&lt;/p&gt;
-&lt;p&gt;Open ReadMe.pdf to read the information and get the password to extract file zip&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/HJo28szCxg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Open evidences, there is 3 file, we just need to care about evidences.ad1 first&lt;/p&gt;
-&lt;p&gt;Open it in FTK Imager:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/H1eTwsGRgx.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Fortunately, after a quick scan, notice that the insider threat has downloaded chatgpt desktop and simplenote, so that we need to check file .db in 2 files&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761315037677-for/featured.png" />
+      <description>&lt;p&gt;FORENSICS CSCV 2025&#xA;from: MTA.SUPPORT&lt;/p&gt;&#xA;&lt;p&gt;FOR3: CASE ALPHAS&lt;/p&gt;&#xA;&lt;p&gt;First, we have the file zip from admin, then we enter the password to extract this&lt;/p&gt;&#xA;&lt;p&gt;After extracted, we got 2 files&lt;/p&gt;&#xA;&lt;p&gt;Open ReadMe.pdf to read the information and get the password to extract file zip&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/HJo28szCxg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Open evidences, there is 3 file, we just need to care about evidences.ad1 first&lt;/p&gt;&#xA;&lt;p&gt;Open it in FTK Imager:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/H1eTwsGRgx.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fortunately, after a quick scan, notice that the insider threat has downloaded chatgpt desktop and simplenote, so that we need to check file .db in 2 files&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CSCV2025 FOR COVERTS</title>
       <link>http://localhost:1313/for/1761315051227-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/for/1761315051227-for/</guid>
-      <description>&lt;p&gt;FORENSICS CSCV2025 WRITEUP
-From: MTA.Support&lt;/p&gt;
-&lt;p&gt;FOR4: CovertS&lt;/p&gt;
-&lt;p&gt;First, we have the file and the password provided admin, after extract the file, we have file challenge.pcapng&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/HJb7V4SCgx.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Open file, because this file contain 1GB of data, so that we need to predict what protocol is suspicious and start to filter around this&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/rJQhV4BRle.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Because the hacker exfiltrated sth, to reduce the possibility of being detected, we often have to split files and data to smaller pieces, so we will need a lot of packets. From there, we can eliminate some protocols such as NTP, ARP, HTTP, UDP&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761315051227-for/featured.png" />
+      <description>&lt;p&gt;FORENSICS CSCV2025 WRITEUP&#xA;From: MTA.Support&lt;/p&gt;&#xA;&lt;p&gt;FOR4: CovertS&lt;/p&gt;&#xA;&lt;p&gt;First, we have the file and the password provided admin, after extract the file, we have file challenge.pcapng&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/HJb7V4SCgx.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Open file, because this file contain 1GB of data, so that we need to predict what protocol is suspicious and start to filter around this&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/rJQhV4BRle.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Because the hacker exfiltrated sth, to reduce the possibility of being detected, we often have to split files and data to smaller pieces, so we will need a lot of packets. From there, we can eliminate some protocols such as NTP, ARP, HTTP, UDP&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CSCV2025 FOR DNS </title>
       <link>http://localhost:1313/for/1761315057946-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/for/1761315057946-for/</guid>
-      <description>&lt;p&gt;FORENSICS CSCV 2025 WRITE UP
-From: MTA.Support&lt;/p&gt;
-&lt;p&gt;FOR1: DNS&lt;/p&gt;
-&lt;p&gt;After downloading and unzipping the file, we will get the following 3 files&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;capture.pcap&lt;/li&gt;
-&lt;li&gt;access.log&lt;/li&gt;
-&lt;li&gt;error.log&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;First open the .pcap file with wireshark and get the following interface&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/B1GY8IfAeg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Rearrange the section information and scroll from top to bottom&lt;/p&gt;
-&lt;p&gt;We find the suspicious dns with information ending in hex.cloudflar3.com&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/S1riwLMRlx.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/H1l6wLf0le.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Get the query response, we has:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761315057946-for/featured.png" />
+      <description>&lt;p&gt;FORENSICS CSCV 2025 WRITE UP&#xA;From: MTA.Support&lt;/p&gt;&#xA;&lt;p&gt;FOR1: DNS&lt;/p&gt;&#xA;&lt;p&gt;After downloading and unzipping the file, we will get the following 3 files&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;capture.pcap&lt;/li&gt;&#xA;&lt;li&gt;access.log&lt;/li&gt;&#xA;&lt;li&gt;error.log&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;First open the .pcap file with wireshark and get the following interface&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/B1GY8IfAeg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Rearrange the section information and scroll from top to bottom&lt;/p&gt;&#xA;&lt;p&gt;We find the suspicious dns with information ending in hex.cloudflar3.com&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/S1riwLMRlx.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/H1l6wLf0le.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Get the query response, we has:&lt;/p&gt;&#xA;&lt;p&gt;p.3dfec8a22cde4db4463db2c35742062a415441f526daecb59b.hex.cloudflar3.com&#xA;p.c7aec5d0d81ba8748acac6931e5add6c24b635181443d0b9d2.hex.cloudflar3.com&#xA;p.f6af1ecb8cc9827a259401e850e5e07fdc3c1137f1.hex.cloudflar3.com&#xA;p.f8aad90d5fc7774c1e7ee451e755831cd02bfaac3204aed8a4.hex.cloudflar3.com&#xA;f.6837abc6655c12c454abe0ca85a596e98473172829581235dd.hex.cloudflar3.com f.95380b06bf6dd06b89118b0003ea044700a5f2c4c106c3.hex.cloudflar3.com&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

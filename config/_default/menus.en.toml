@@ -19,12 +19,6 @@ identifier = "MjL2OcgJea"
 weight = 9_999
 
 [[main]]
-name = "RE"
-pageRef = "RE"
-identifier = "krqnC518H3"
-weight = 9_999
-
-[[main]]
 name = "FOR"
 pre = "envelope"
 pageRef = "FOR"
@@ -36,6 +30,13 @@ name = "CRYPTO"
 pre = "codepen"
 pageRef = "CRYPTO"
 identifier = "IU6781Kqxn"
+weight = 9_999
+
+[[main]]
+name = "RE"
+pre = "heart"
+pageRef = "RE"
+identifier = "KzwjLcyrVa"
 weight = 9_999
 
 [[footer]]

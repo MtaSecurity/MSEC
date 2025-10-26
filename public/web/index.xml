@@ -4,238 +4,36 @@
     <title>WEBs on MSEC</title>
     <link>http://localhost:1313/web/</link>
     <description>Recent content in WEBs on MSEC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
     <atom:link href="http://localhost:1313/web/index.xml" rel="self" type="application/rss+xml" />
-    
     <item>
       <title>LEAK FORCE</title>
       <link>http://localhost:1313/web/1761315315933-web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/web/1761315315933-web/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;LEAK FORCE
-    &lt;div id=&#34;leak-force&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#leak-force&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/BJQDAszAgg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;h4 class=&#34;relative group&#34;&gt;TEST
-    &lt;div id=&#34;test&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#test&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h4&gt;
-&lt;p&gt;Challenge cung cấp một mã nguồn HTML &lt;a
-  href=&#34;http://web1.cscv.vn:9981/&#34;
-    target=&#34;_blank&#34;
-  &gt;http://web1.cscv.vn:9981/&lt;/a&gt;
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/SJ8899f0gg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Trước tiên em sẽ thử các chức năng của web&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Register các thứ các thứ rồi login với username: abc2, password: abc&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Sau khi login xong thì sẽ được chuyển tới trang &lt;a
-  href=&#34;http://web1.cscv.vn:9981/profile.html&#34;
-    target=&#34;_blank&#34;
-  &gt;http://web1.cscv.vn:9981/profile.html&lt;/a&gt;
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/HJwSEsG0le.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761315315933-web/featured.png" />
+      <description>&lt;h1 id=&#34;leak-force&#34;&gt;LEAK FORCE&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/BJQDAszAgg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;test&#34;&gt;TEST&lt;/h4&gt;&#xA;&lt;p&gt;Challenge cung cấp một mã nguồn HTML &lt;a href=&#34;http://web1.cscv.vn:9981/&#34;&gt;http://web1.cscv.vn:9981/&lt;/a&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/SJ8899f0gg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Trước tiên em sẽ thử các chức năng của web&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Register các thứ các thứ rồi login với username: abc2, password: abc&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sau khi login xong thì sẽ được chuyển tới trang &lt;a href=&#34;http://web1.cscv.vn:9981/profile.html&#34;&gt;http://web1.cscv.vn:9981/profile.html&lt;/a&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/HJwSEsG0le.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tại đây em thử các chức năng &lt;strong&gt;Save Changes&lt;/strong&gt; và &lt;strong&gt;Update Password&lt;/strong&gt; thì không có gì đặc biệt&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Với target là IDOR, thì thường admin user có thể là ID 1 (khá phổ biến)&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>PortfolioS (Write up này dài hơn của BKSEC)</title>
+      <title>Magik</title>
+      <link>http://localhost:1313/web/1761494653599-tung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/web/1761494653599-tung/</guid>
+      <description>&lt;h1 id=&#34;magik&#34;&gt;Magik&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Author : Tiwza&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/H1KCSzoRxg.png&#34; alt=&#34;{BBFD61B4-A254-4DB8-9F65-A1E5CC5EEB72}&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;cầu-trúc-của-bài-này&#34;&gt;Cầu trúc của bài này&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-code=&#34; data-lang=&#34;code=&#34;&gt;magik/&#xA;└── app/&#xA;        ├── index.php&#xA;   ├── convert.sh&#xA;   ├── docker-compose.yml&#xA;   ├── Dockerfile&#xA;   ├── flags.txt&#xA;   └── readflag.c&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;lần-lượt-đọc-từng-file&#34;&gt;Lần lượt đọc từng file&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;code&gt;Dockerfile&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;- Đọc `Dockerfile` để hiểu rõ hơn&#xA;```code=&#xA;COPY readflag.c /readflag.c&#xA;RUN gcc /readflag.c -o /readflag&#xA;RUN chmod u+s /readflag&#xA;RUN rm -f /readflag.c&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Đặt &lt;code&gt;SUID&lt;/code&gt; lên &lt;code&gt;/readflag&lt;/code&gt; nên user ở &lt;code&gt; www-data&lt;/code&gt; không thể đọc&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-code&#34; data-lang=&#34;code&#34;&gt;COPY /flags.txt /flag.txt&#xA;RUN chmod 400 /flag.txt&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Chỉ root mới đọc được flag&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PortfolioS</title>
       <link>http://localhost:1313/web/1761292330570-aaa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/web/1761292330570-aaa/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;PortfolioS (Write up này dài hơn của BKSEC)
-    &lt;div id=&#34;portfolios-write-up-này-dài-hơn-của-bksec&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#portfolios-write-up-n%c3%a0y-d%c3%a0i-h%c6%a1n-c%e1%bb%a7a-bksec&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/Hk5zfaOCee.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Challenge file: &lt;a
-  href=&#34;https://drive.google.com/file/d/1g-ZEzFmsgxozcKSScCvevPqiFS4w4Bgh/view&#34;
-    target=&#34;_blank&#34;
-  &gt;public.zip&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;1) Phân tích challenge
-    &lt;div id=&#34;1-phân-tích-challenge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-ph%c3%a2n-t%c3%adch-challenge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;1.1 Kiến trúc (Docker Compose + mạng)
-    &lt;div id=&#34;11-kiến-trúc-docker-compose--mạng&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#11-ki%e1%ba%bfn-tr%c3%bac-docker-compose--m%e1%ba%a1ng&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Hệ thống có 2 service:
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;app&lt;/strong&gt;: Spring Boot (Tomcat embedded)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;nginx&lt;/strong&gt;: reverse proxy expose cổng &lt;strong&gt;8989&lt;/strong&gt; ra host, &lt;code&gt;proxy_pass http://app:8989&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Mọi truy cập từ ngoài đi &lt;strong&gt;qua nginx&lt;/strong&gt; rồi mới tới app.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/rkTvGp_Rle.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/SJ4OMad0el.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/Syu_Gp_Rle.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/r1ZEET_0xg.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/H1oMNauCgl.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761292330570-aaa/featured.png" />
+      <description>&lt;h1 id=&#34;portfolios&#34;&gt;PortfolioS&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/Hk5zfaOCee.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Challenge file: &lt;a href=&#34;https://drive.google.com/file/d/1g-ZEzFmsgxozcKSScCvevPqiFS4w4Bgh/view&#34;&gt;public.zip&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-phân-tích-challenge&#34;&gt;1) Phân tích challenge&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-kiến-trúc-docker-compose--mạng&#34;&gt;1.1 Kiến trúc (Docker Compose + mạng)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hệ thống có 2 service:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;app&lt;/strong&gt;: Spring Boot (Tomcat embedded)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;nginx&lt;/strong&gt;: reverse proxy expose cổng &lt;strong&gt;8989&lt;/strong&gt; ra host, &lt;code&gt;proxy_pass http://app:8989&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Mọi truy cập từ ngoài đi &lt;strong&gt;qua nginx&lt;/strong&gt; rồi mới tới app.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/rkTvGp_Rle.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/SJ4OMad0el.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/Syu_Gp_Rle.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/r1ZEET_0xg.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/H1oMNauCgl.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;12-nginx-chặn-exact-match&#34;&gt;1.2 Nginx chặn exact-match&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-nginx&#34; data-lang=&#34;nginx&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;location&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;/internal/testConnection&lt;/span&gt; { &lt;span style=&#34;color:#f92672&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;403&lt;/span&gt;; }&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;location&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;/&lt;/span&gt; { &lt;span style=&#34;color:#f92672&#34;&gt;proxy_pass&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;http://app:8989&lt;/span&gt;; }&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;&#xA;&lt;li&gt;Dùng &lt;strong&gt;exact match&lt;/strong&gt; (&lt;code&gt;=&lt;/code&gt;) → chỉ chặn đúng chuỗi &lt;code&gt;/internal/testConnection&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Nếu path có &lt;strong&gt;ký tự rác&lt;/strong&gt; ở cuối (vd: tab &lt;code&gt;%09&lt;/code&gt;) thì &lt;strong&gt;không match&lt;/strong&gt; và bị proxy vào backend.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tomcat normalize&lt;/strong&gt; URL → trả về đường dẫn gốc &lt;code&gt;/internal/testConnection&lt;/code&gt; trước khi vào Spring.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;13-portfoliowar&#34;&gt;1.3 portfolio.war&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Controller/route: &lt;code&gt;/login&lt;/code&gt;, &lt;code&gt;/register&lt;/code&gt;, &lt;code&gt;/dashboard&lt;/code&gt;, &lt;code&gt;/dashboard/save&lt;/code&gt;, &lt;strong&gt;&lt;code&gt;/internal/testConnection&lt;/code&gt;&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;application.properties&lt;/code&gt;:&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;spring.datasource.url=jdbc:h2:mem:ctfdb;DB_CLOSE_DELAY=-1&#xD;&#xA;spring.datasource.driver-class-name=org.h2.Driver&#xD;&#xA;server.port=8989&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;InternalController&lt;/strong&gt; (rút từ bytecode/strings + template):&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Endpoint /internal/testConnection có lỗ hổng JDBC Injection vì ghép trực tiếp username/password vào chuỗi kết nối:&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;String fullUrl = baseUrl + &amp;#34;USER=&amp;#34; + username + &amp;#34;;PASSWORD=&amp;#34; + password + &amp;#34;;&amp;#34;;&#xD;&#xA;Connection conn = DriverManager.getConnection(fullUrl);&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Và xử lý lỗi lộ thông tin:&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;catch (Exception e) {&#xD;&#xA;model.addAttribute(&amp;#34;error&amp;#34;, &amp;#34;Connection failed: &amp;#34; + e.getMessage() + &amp;#34; | URL: &amp;#34; + fullUrl);&#xD;&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;14-dockerfile-giấu-flag&#34;&gt;1.4 Dockerfile (giấu flag)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;flag.txt&lt;/code&gt; được &lt;strong&gt;đổi tên ngẫu nhiên&lt;/strong&gt;:&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;RAND_NAME&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;tr -dc A-Za-z0-9 &amp;lt;/dev/urandom | head -c 16&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mv /flag.txt &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;RAND_NAME&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; rm -f /flag.txt&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;&#xA;&lt;li&gt;Nên &lt;strong&gt;phải liệt kê &lt;code&gt;/&lt;/code&gt;&lt;/strong&gt; để biết tên file flag thực tế.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-phân-tích-lỗ-hổng&#34;&gt;2) Phân tích lỗ hổng&lt;/h2&gt;&#xA;&lt;h3 id=&#34;lỗi-1--nginx-reverse-proxy-bypass&#34;&gt;Lỗi #1 — Nginx Reverse Proxy Bypass&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;code&gt;location =&lt;/code&gt; chỉ chặn &lt;strong&gt;chuỗi y hệt&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ZC-1 CHALLENGE</title>
       <link>http://localhost:1313/web/1761292219022-abc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/web/1761292219022-abc/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;ZC-1 CHALLENGE
-    &lt;div id=&#34;zc-1-challenge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#zc-1-challenge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;MTA_SUPPORT
-    &lt;div id=&#34;mta_support&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#mta_support&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/ry_nOA4Cxl.png&#34;
-    &gt;&lt;/figure&gt;
-
-challenge file: &lt;a
-  href=&#34;https://drive.google.com/file/d/1PprDuWV1u11dnH1mf_Bc70La8CpFZ7NR/view&#34;
-    target=&#34;_blank&#34;
-  &gt;public&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;IDEA: Polyglot ZIP→7z + kích hoạt qua “health” nội bộ
-    &lt;div id=&#34;idea-polyglot-zip7z--kích-hoạt-qua-health-nội-bộ&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#idea-polyglot-zip7z--k%c3%adch-ho%e1%ba%a1t-qua-health-n%e1%bb%99i-b%e1%bb%99&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-&lt;p&gt;Mục tiêu: Upload 1 file vượt qua kiểm tra &lt;code&gt;ZIP safety&lt;/code&gt; của &lt;code&gt;service 1&lt;/code&gt; nhưng buộc &lt;code&gt;service 2&lt;/code&gt; giải nén và chạy shell.php, rồi dùng endpoint health để gọi file này để lấy flag CSCV2025{}.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761292219022-abc/featured.png" />
+      <description>&lt;h1 id=&#34;zc-1-challenge&#34;&gt;ZC-1 CHALLENGE&lt;/h1&gt;&#xA;&lt;h1 id=&#34;mta_support&#34;&gt;MTA_SUPPORT&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/ry_nOA4Cxl.png&#34; alt=&#34;image&#34;&gt;&#xA;challenge file: &lt;a href=&#34;https://drive.google.com/file/d/1PprDuWV1u11dnH1mf_Bc70La8CpFZ7NR/view&#34;&gt;public&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;idea-polyglot-zip7z--kích-hoạt-qua-health-nội-bộ&#34;&gt;IDEA: Polyglot ZIP→7z + kích hoạt qua “health” nội bộ&lt;/h3&gt;&#xA;&lt;p&gt;Mục tiêu: Upload 1 file vượt qua kiểm tra &lt;code&gt;ZIP safety&lt;/code&gt; của &lt;code&gt;service 1&lt;/code&gt; nhưng buộc &lt;code&gt;service 2&lt;/code&gt; giải nén và chạy shell.php, rồi dùng endpoint health để gọi file này để lấy flag CSCV2025{}.&lt;/p&gt;&#xA;&lt;p&gt;Main idea: Tạo polyglot: nhìn như zip hợp lệ với zipfile (Service 1), nhưng lại được 7-Zip (Service 2) đọc như 7z để giải nén shell.php.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

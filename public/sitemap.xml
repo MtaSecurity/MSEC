@@ -1,62 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
     <loc>http://localhost:1313/crypto/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url>
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/tags/example/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url>
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/tags/tag/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
     <loc>http://localhost:1313/for/1761292850356-afw/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/pwn/1761314838840-pwn/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/for/1761315037677-for/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/for/1761315051227-for/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/for/1761315057946-for/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/for/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/web/1761315315933-web/</loc>
-  </url>
-  <url>
+  </url><url>
+    <loc>http://localhost:1313/web/1761494653599-tung/</loc>
+  </url><url>
     <loc>http://localhost:1313/web/1761292330570-aaa/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/pwn/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/re/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/web/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/re/1761315251658-re/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/re/1761315247629-re/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/re/1761292805274-dauif/</loc>
-  </url>
-  <url>
+  </url><url>
     <loc>http://localhost:1313/web/1761292219022-abc/</loc>
   </url>
 </urlset>

@@ -4,869 +4,100 @@
     <title>MSEC</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on MSEC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gbwesgfsd</title>
       <link>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</guid>
-      <description>&lt;p&gt;an example to get you started&lt;/p&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;This is a heading
-    &lt;div id=&#34;this-is-a-heading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-heading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;This is a subheading
-    &lt;div id=&#34;this-is-a-subheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;This is a subsubheading
-    &lt;div id=&#34;this-is-a-subsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-
-&lt;h4 class=&#34;relative group&#34;&gt;This is a subsubsubheading
-    &lt;div id=&#34;this-is-a-subsubsubheading&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#this-is-a-subsubsubheading&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-  href=&#34;https://blowfish.page/&#34;
-    target=&#34;_blank&#34;
-  &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/crypto/1761292930955-gbwesgfsd/featured.png" />
+      <description>&lt;p&gt;an example to get you started&lt;/p&gt;&#xA;&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;&#xA;&lt;h2 id=&#34;this-is-a-subheading&#34;&gt;This is a subheading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;this-is-a-subsubheading&#34;&gt;This is a subsubheading&lt;/h3&gt;&#xA;&lt;h4 id=&#34;this-is-a-subsubsubheading&#34;&gt;This is a subsubsubheading&lt;/h4&gt;&#xA;&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.&#xA;Check more at &lt;a href=&#34;https://blowfish.page/&#34;&gt;Blowfish documentation&lt;/a&gt;&#xA;undefined&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CCSCV2025 FOR NOSTALGIAS</title>
       <link>http://localhost:1313/for/1761292850356-afw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/for/1761292850356-afw/</guid>
-      <description>&lt;p&gt;FORENSICS CSCV WRITEUP 2025
-From: MTA.Support&lt;/p&gt;
-&lt;p&gt;FOR2: NostalgiaS&lt;/p&gt;
-&lt;p&gt;First, after extract the file zip with the password provided by admin, we have file challenge.ad1 and we need to open it in FTK Imager&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/r1OkgoEClg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Remember the user who was hacked name kadoyat, so we go to get information in users/kadoyat&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/BJySeoNClx.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Look around for important files like documents, downloads, desktop but there are no any information there so that we need to navigate to find out from his web history&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761292850356-afw/featured.png" />
+      <description>&lt;p&gt;FORENSICS CSCV WRITEUP 2025&#xA;From: MTA.Support&lt;/p&gt;&#xA;&lt;p&gt;FOR2: NostalgiaS&lt;/p&gt;&#xA;&lt;p&gt;First, after extract the file zip with the password provided by admin, we have file challenge.ad1 and we need to open it in FTK Imager&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/r1OkgoEClg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Remember the user who was hacked name kadoyat, so we go to get information in users/kadoyat&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/BJySeoNClx.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Look around for important files like documents, downloads, desktop but there are no any information there so that we need to navigate to find out from his web history&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CSCV2025 - Pwn</title>
       <link>http://localhost:1313/pwn/1761314838840-pwn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/pwn/1761314838840-pwn/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;CSCV2025 - Pwn
-    &lt;div id=&#34;cscv2025---pwn&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#cscv2025---pwn&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;RacehorseS
-    &lt;div id=&#34;racehorses&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#racehorses&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;ảnh&#34;
-    src=&#34;https://hackmd.io/_uploads/S1kbkfm0ee.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;Summary
-    &lt;div id=&#34;summary&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a
-  href=&#34;https://qual2.cscv.vn/files/646ccd11c5722a285edc936993ab6086/horse_say.zip?token=eyJ1c2VyX2lkIjo1OTI5LCJ0ZWFtX2lkIjoxMjQxLCJmaWxlX2lkIjo3MH0.aPWaAg.70NIT6vV5C5Pt2qZs-Rtt9bfH4k&#34;
-    target=&#34;_blank&#34;
-  &gt;horse_say.zip&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The binary contains a format-string vulnerability in &lt;code&gt;printf(s)&lt;/code&gt; and &lt;strong&gt;Partial RELRO&lt;/strong&gt;. Use a format-string to overwrite GOT entries. The goal is to get a shell by redirecting &lt;code&gt;strlen()&lt;/code&gt; to &lt;code&gt;system()&lt;/code&gt; and passing &lt;strong&gt;&amp;quot;/bin/sh&amp;quot;&lt;/strong&gt;.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/pwn/1761314838840-pwn/featured.png" />
+      <description>&lt;h1 id=&#34;cscv2025---pwn&#34;&gt;CSCV2025 - Pwn&lt;/h1&gt;&#xA;&lt;h2 id=&#34;racehorses&#34;&gt;RacehorseS&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/S1kbkfm0ee.png&#34; alt=&#34;ảnh&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt; &lt;a href=&#34;https://qual2.cscv.vn/files/646ccd11c5722a285edc936993ab6086/horse_say.zip?token=eyJ1c2VyX2lkIjo1OTI5LCJ0ZWFtX2lkIjoxMjQxLCJmaWxlX2lkIjo3MH0.aPWaAg.70NIT6vV5C5Pt2qZs-Rtt9bfH4k&#34;&gt;horse_say.zip&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The binary contains a format-string vulnerability in &lt;code&gt;printf(s)&lt;/code&gt; and &lt;strong&gt;Partial RELRO&lt;/strong&gt;. Use a format-string to overwrite GOT entries. The goal is to get a shell by redirecting &lt;code&gt;strlen()&lt;/code&gt; to &lt;code&gt;system()&lt;/code&gt; and passing &lt;strong&gt;&amp;quot;/bin/sh&amp;quot;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;exploit&#34;&gt;Exploit&lt;/h3&gt;&#xA;&lt;h4 id=&#34;allow-multiple-inputs&#34;&gt;Allow multiple inputs&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/SycVez7Rlx.png&#34; alt=&#34;ảnh&#34;&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c&#34; data-lang=&#34;c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;__fastcall&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; argc, &lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;**&lt;/span&gt;argv, &lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;**&lt;/span&gt;envp)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;unsigned&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;__int64&lt;/span&gt; i; &lt;span style=&#34;color:#75715e&#34;&gt;// [rsp+10h] [rbp-430h]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;unsigned&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;__int64&lt;/span&gt; j; &lt;span style=&#34;color:#75715e&#34;&gt;// [rsp+18h] [rbp-428h]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;size_t&lt;/span&gt; v6; &lt;span style=&#34;color:#75715e&#34;&gt;// [rsp+20h] [rbp-420h]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;size_t&lt;/span&gt; v7; &lt;span style=&#34;color:#75715e&#34;&gt;// [rsp+28h] [rbp-418h]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;char&lt;/span&gt; s[&lt;span style=&#34;color:#ae81ff&#34;&gt;1032&lt;/span&gt;]; &lt;span style=&#34;color:#75715e&#34;&gt;// [rsp+30h] [rbp-410h] BYREF&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;unsigned&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;__int64&lt;/span&gt; v9; &lt;span style=&#34;color:#75715e&#34;&gt;// [rsp+438h] [rbp-8h]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  v9 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;__readfsqword&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;0x28u&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;setup&lt;/span&gt;(argc, argv, envp);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;memset&lt;/span&gt;(s, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0x400u&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Say something: &amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; ( &lt;span style=&#34;color:#a6e22e&#34;&gt;fgets&lt;/span&gt;(s, &lt;span style=&#34;color:#ae81ff&#34;&gt;1024&lt;/span&gt;, stdin) )&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    v6 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;strlen&lt;/span&gt;(s);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; ( v6 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; s[v6 &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;] &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt; )&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      s[v6 &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;] &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    v7 &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;strlen&lt;/span&gt;(s);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; ( &lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;v7 )&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#a6e22e&#34;&gt;strcpy&lt;/span&gt;(s, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;(silence)&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;putchar&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; ( i &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;; i &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; v7 &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;; &lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;i )&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#a6e22e&#34;&gt;putchar&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;95&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;printf&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\n&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;lt; &amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;printf&lt;/span&gt;(s);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;puts&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34; &amp;gt;&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; ( j &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;; j &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; v7 &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;; &lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;j )&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      &lt;span style=&#34;color:#a6e22e&#34;&gt;putchar&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;45&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;putchar&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;puts&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;        &lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\\&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;   ^__^&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;puts&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;         &lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\\&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;  (oo)&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\\&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;_______&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;puts&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;            (__)&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\\&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;       )&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\\&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;\\&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;puts&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;                ||-----||&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;puts&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;                ||     ||&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;puts&lt;/span&gt;(&lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&lt;/span&gt;byte_402096);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;exit&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/rkUqbfmAge.png&#34; alt=&#34;ảnh&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CSCV2025 FOR CASEALPHAS</title>
       <link>http://localhost:1313/for/1761315037677-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/for/1761315037677-for/</guid>
-      <description>&lt;p&gt;FORENSICS CSCV 2025
-from: MTA.SUPPORT&lt;/p&gt;
-&lt;p&gt;FOR3: CASE ALPHAS&lt;/p&gt;
-&lt;p&gt;First, we have the file zip from admin, then we enter the password to extract this&lt;/p&gt;
-&lt;p&gt;After extracted, we got 2 files&lt;/p&gt;
-&lt;p&gt;Open ReadMe.pdf to read the information and get the password to extract file zip&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/HJo28szCxg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Open evidences, there is 3 file, we just need to care about evidences.ad1 first&lt;/p&gt;
-&lt;p&gt;Open it in FTK Imager:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/H1eTwsGRgx.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Fortunately, after a quick scan, notice that the insider threat has downloaded chatgpt desktop and simplenote, so that we need to check file .db in 2 files&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761315037677-for/featured.png" />
+      <description>&lt;p&gt;FORENSICS CSCV 2025&#xA;from: MTA.SUPPORT&lt;/p&gt;&#xA;&lt;p&gt;FOR3: CASE ALPHAS&lt;/p&gt;&#xA;&lt;p&gt;First, we have the file zip from admin, then we enter the password to extract this&lt;/p&gt;&#xA;&lt;p&gt;After extracted, we got 2 files&lt;/p&gt;&#xA;&lt;p&gt;Open ReadMe.pdf to read the information and get the password to extract file zip&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/HJo28szCxg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Open evidences, there is 3 file, we just need to care about evidences.ad1 first&lt;/p&gt;&#xA;&lt;p&gt;Open it in FTK Imager:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/H1eTwsGRgx.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Fortunately, after a quick scan, notice that the insider threat has downloaded chatgpt desktop and simplenote, so that we need to check file .db in 2 files&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CSCV2025 FOR COVERTS</title>
       <link>http://localhost:1313/for/1761315051227-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/for/1761315051227-for/</guid>
-      <description>&lt;p&gt;FORENSICS CSCV2025 WRITEUP
-From: MTA.Support&lt;/p&gt;
-&lt;p&gt;FOR4: CovertS&lt;/p&gt;
-&lt;p&gt;First, we have the file and the password provided admin, after extract the file, we have file challenge.pcapng&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/HJb7V4SCgx.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Open file, because this file contain 1GB of data, so that we need to predict what protocol is suspicious and start to filter around this&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/rJQhV4BRle.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Because the hacker exfiltrated sth, to reduce the possibility of being detected, we often have to split files and data to smaller pieces, so we will need a lot of packets. From there, we can eliminate some protocols such as NTP, ARP, HTTP, UDP&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761315051227-for/featured.png" />
+      <description>&lt;p&gt;FORENSICS CSCV2025 WRITEUP&#xA;From: MTA.Support&lt;/p&gt;&#xA;&lt;p&gt;FOR4: CovertS&lt;/p&gt;&#xA;&lt;p&gt;First, we have the file and the password provided admin, after extract the file, we have file challenge.pcapng&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/HJb7V4SCgx.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Open file, because this file contain 1GB of data, so that we need to predict what protocol is suspicious and start to filter around this&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/rJQhV4BRle.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Because the hacker exfiltrated sth, to reduce the possibility of being detected, we often have to split files and data to smaller pieces, so we will need a lot of packets. From there, we can eliminate some protocols such as NTP, ARP, HTTP, UDP&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CSCV2025 FOR DNS </title>
       <link>http://localhost:1313/for/1761315057946-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/for/1761315057946-for/</guid>
-      <description>&lt;p&gt;FORENSICS CSCV 2025 WRITE UP
-From: MTA.Support&lt;/p&gt;
-&lt;p&gt;FOR1: DNS&lt;/p&gt;
-&lt;p&gt;After downloading and unzipping the file, we will get the following 3 files&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;capture.pcap&lt;/li&gt;
-&lt;li&gt;access.log&lt;/li&gt;
-&lt;li&gt;error.log&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;First open the .pcap file with wireshark and get the following interface&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/B1GY8IfAeg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Rearrange the section information and scroll from top to bottom&lt;/p&gt;
-&lt;p&gt;We find the suspicious dns with information ending in hex.cloudflar3.com&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/S1riwLMRlx.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/H1l6wLf0le.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Get the query response, we has:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/for/1761315057946-for/featured.png" />
+      <description>&lt;p&gt;FORENSICS CSCV 2025 WRITE UP&#xA;From: MTA.Support&lt;/p&gt;&#xA;&lt;p&gt;FOR1: DNS&lt;/p&gt;&#xA;&lt;p&gt;After downloading and unzipping the file, we will get the following 3 files&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;capture.pcap&lt;/li&gt;&#xA;&lt;li&gt;access.log&lt;/li&gt;&#xA;&lt;li&gt;error.log&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;First open the .pcap file with wireshark and get the following interface&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/B1GY8IfAeg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Rearrange the section information and scroll from top to bottom&lt;/p&gt;&#xA;&lt;p&gt;We find the suspicious dns with information ending in hex.cloudflar3.com&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/S1riwLMRlx.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/H1l6wLf0le.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Get the query response, we has:&lt;/p&gt;&#xA;&lt;p&gt;p.3dfec8a22cde4db4463db2c35742062a415441f526daecb59b.hex.cloudflar3.com&#xA;p.c7aec5d0d81ba8748acac6931e5add6c24b635181443d0b9d2.hex.cloudflar3.com&#xA;p.f6af1ecb8cc9827a259401e850e5e07fdc3c1137f1.hex.cloudflar3.com&#xA;p.f8aad90d5fc7774c1e7ee451e755831cd02bfaac3204aed8a4.hex.cloudflar3.com&#xA;f.6837abc6655c12c454abe0ca85a596e98473172829581235dd.hex.cloudflar3.com f.95380b06bf6dd06b89118b0003ea044700a5f2c4c106c3.hex.cloudflar3.com&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>LEAK FORCE</title>
       <link>http://localhost:1313/web/1761315315933-web/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/web/1761315315933-web/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;LEAK FORCE
-    &lt;div id=&#34;leak-force&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#leak-force&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/BJQDAszAgg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;h4 class=&#34;relative group&#34;&gt;TEST
-    &lt;div id=&#34;test&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#test&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h4&gt;
-&lt;p&gt;Challenge cung cấp một mã nguồn HTML &lt;a
-  href=&#34;http://web1.cscv.vn:9981/&#34;
-    target=&#34;_blank&#34;
-  &gt;http://web1.cscv.vn:9981/&lt;/a&gt;
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/SJ8899f0gg.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Trước tiên em sẽ thử các chức năng của web&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Register các thứ các thứ rồi login với username: abc2, password: abc&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Sau khi login xong thì sẽ được chuyển tới trang &lt;a
-  href=&#34;http://web1.cscv.vn:9981/profile.html&#34;
-    target=&#34;_blank&#34;
-  &gt;http://web1.cscv.vn:9981/profile.html&lt;/a&gt;
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/HJwSEsG0le.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761315315933-web/featured.png" />
+      <description>&lt;h1 id=&#34;leak-force&#34;&gt;LEAK FORCE&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/BJQDAszAgg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;test&#34;&gt;TEST&lt;/h4&gt;&#xA;&lt;p&gt;Challenge cung cấp một mã nguồn HTML &lt;a href=&#34;http://web1.cscv.vn:9981/&#34;&gt;http://web1.cscv.vn:9981/&lt;/a&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/SJ8899f0gg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Trước tiên em sẽ thử các chức năng của web&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Register các thứ các thứ rồi login với username: abc2, password: abc&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sau khi login xong thì sẽ được chuyển tới trang &lt;a href=&#34;http://web1.cscv.vn:9981/profile.html&#34;&gt;http://web1.cscv.vn:9981/profile.html&lt;/a&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/HJwSEsG0le.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Tại đây em thử các chức năng &lt;strong&gt;Save Changes&lt;/strong&gt; và &lt;strong&gt;Update Password&lt;/strong&gt; thì không có gì đặc biệt&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Với target là IDOR, thì thường admin user có thể là ID 1 (khá phổ biến)&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>PortfolioS (Write up này dài hơn của BKSEC)</title>
+      <title>Magik</title>
+      <link>http://localhost:1313/web/1761494653599-tung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/web/1761494653599-tung/</guid>
+      <description>&lt;h1 id=&#34;magik&#34;&gt;Magik&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Author : Tiwza&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/H1KCSzoRxg.png&#34; alt=&#34;{BBFD61B4-A254-4DB8-9F65-A1E5CC5EEB72}&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;cầu-trúc-của-bài-này&#34;&gt;Cầu trúc của bài này&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-code=&#34; data-lang=&#34;code=&#34;&gt;magik/&#xA;└── app/&#xA;        ├── index.php&#xA;   ├── convert.sh&#xA;   ├── docker-compose.yml&#xA;   ├── Dockerfile&#xA;   ├── flags.txt&#xA;   └── readflag.c&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;lần-lượt-đọc-từng-file&#34;&gt;Lần lượt đọc từng file&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;code&gt;Dockerfile&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;- Đọc `Dockerfile` để hiểu rõ hơn&#xA;```code=&#xA;COPY readflag.c /readflag.c&#xA;RUN gcc /readflag.c -o /readflag&#xA;RUN chmod u+s /readflag&#xA;RUN rm -f /readflag.c&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Đặt &lt;code&gt;SUID&lt;/code&gt; lên &lt;code&gt;/readflag&lt;/code&gt; nên user ở &lt;code&gt; www-data&lt;/code&gt; không thể đọc&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-code&#34; data-lang=&#34;code&#34;&gt;COPY /flags.txt /flag.txt&#xA;RUN chmod 400 /flag.txt&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Chỉ root mới đọc được flag&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PortfolioS</title>
       <link>http://localhost:1313/web/1761292330570-aaa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/web/1761292330570-aaa/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;PortfolioS (Write up này dài hơn của BKSEC)
-    &lt;div id=&#34;portfolios-write-up-này-dài-hơn-của-bksec&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#portfolios-write-up-n%c3%a0y-d%c3%a0i-h%c6%a1n-c%e1%bb%a7a-bksec&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/Hk5zfaOCee.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Challenge file: &lt;a
-  href=&#34;https://drive.google.com/file/d/1g-ZEzFmsgxozcKSScCvevPqiFS4w4Bgh/view&#34;
-    target=&#34;_blank&#34;
-  &gt;public.zip&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;1) Phân tích challenge
-    &lt;div id=&#34;1-phân-tích-challenge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-ph%c3%a2n-t%c3%adch-challenge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h2&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;1.1 Kiến trúc (Docker Compose + mạng)
-    &lt;div id=&#34;11-kiến-trúc-docker-compose--mạng&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#11-ki%e1%ba%bfn-tr%c3%bac-docker-compose--m%e1%ba%a1ng&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Hệ thống có 2 service:
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;app&lt;/strong&gt;: Spring Boot (Tomcat embedded)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;nginx&lt;/strong&gt;: reverse proxy expose cổng &lt;strong&gt;8989&lt;/strong&gt; ra host, &lt;code&gt;proxy_pass http://app:8989&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Mọi truy cập từ ngoài đi &lt;strong&gt;qua nginx&lt;/strong&gt; rồi mới tới app.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/rkTvGp_Rle.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/SJ4OMad0el.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/Syu_Gp_Rle.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/r1ZEET_0xg.png&#34;
-    &gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/H1oMNauCgl.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761292330570-aaa/featured.png" />
+      <description>&lt;h1 id=&#34;portfolios&#34;&gt;PortfolioS&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/Hk5zfaOCee.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Challenge file: &lt;a href=&#34;https://drive.google.com/file/d/1g-ZEzFmsgxozcKSScCvevPqiFS4w4Bgh/view&#34;&gt;public.zip&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-phân-tích-challenge&#34;&gt;1) Phân tích challenge&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-kiến-trúc-docker-compose--mạng&#34;&gt;1.1 Kiến trúc (Docker Compose + mạng)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hệ thống có 2 service:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;app&lt;/strong&gt;: Spring Boot (Tomcat embedded)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;nginx&lt;/strong&gt;: reverse proxy expose cổng &lt;strong&gt;8989&lt;/strong&gt; ra host, &lt;code&gt;proxy_pass http://app:8989&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Mọi truy cập từ ngoài đi &lt;strong&gt;qua nginx&lt;/strong&gt; rồi mới tới app.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/rkTvGp_Rle.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/SJ4OMad0el.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/Syu_Gp_Rle.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/r1ZEET_0xg.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/H1oMNauCgl.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;12-nginx-chặn-exact-match&#34;&gt;1.2 Nginx chặn exact-match&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-nginx&#34; data-lang=&#34;nginx&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;location&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;/internal/testConnection&lt;/span&gt; { &lt;span style=&#34;color:#f92672&#34;&gt;return&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;403&lt;/span&gt;; }&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;location&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;/&lt;/span&gt; { &lt;span style=&#34;color:#f92672&#34;&gt;proxy_pass&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;http://app:8989&lt;/span&gt;; }&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;&#xA;&lt;li&gt;Dùng &lt;strong&gt;exact match&lt;/strong&gt; (&lt;code&gt;=&lt;/code&gt;) → chỉ chặn đúng chuỗi &lt;code&gt;/internal/testConnection&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Nếu path có &lt;strong&gt;ký tự rác&lt;/strong&gt; ở cuối (vd: tab &lt;code&gt;%09&lt;/code&gt;) thì &lt;strong&gt;không match&lt;/strong&gt; và bị proxy vào backend.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tomcat normalize&lt;/strong&gt; URL → trả về đường dẫn gốc &lt;code&gt;/internal/testConnection&lt;/code&gt; trước khi vào Spring.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;13-portfoliowar&#34;&gt;1.3 portfolio.war&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Controller/route: &lt;code&gt;/login&lt;/code&gt;, &lt;code&gt;/register&lt;/code&gt;, &lt;code&gt;/dashboard&lt;/code&gt;, &lt;code&gt;/dashboard/save&lt;/code&gt;, &lt;strong&gt;&lt;code&gt;/internal/testConnection&lt;/code&gt;&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;application.properties&lt;/code&gt;:&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;spring.datasource.url=jdbc:h2:mem:ctfdb;DB_CLOSE_DELAY=-1&#xD;&#xA;spring.datasource.driver-class-name=org.h2.Driver&#xD;&#xA;server.port=8989&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;InternalController&lt;/strong&gt; (rút từ bytecode/strings + template):&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Endpoint /internal/testConnection có lỗ hổng JDBC Injection vì ghép trực tiếp username/password vào chuỗi kết nối:&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;String fullUrl = baseUrl + &amp;#34;USER=&amp;#34; + username + &amp;#34;;PASSWORD=&amp;#34; + password + &amp;#34;;&amp;#34;;&#xD;&#xA;Connection conn = DriverManager.getConnection(fullUrl);&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Và xử lý lỗi lộ thông tin:&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;catch (Exception e) {&#xD;&#xA;model.addAttribute(&amp;#34;error&amp;#34;, &amp;#34;Connection failed: &amp;#34; + e.getMessage() + &amp;#34; | URL: &amp;#34; + fullUrl);&#xD;&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;14-dockerfile-giấu-flag&#34;&gt;1.4 Dockerfile (giấu flag)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;flag.txt&lt;/code&gt; được &lt;strong&gt;đổi tên ngẫu nhiên&lt;/strong&gt;:&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;RAND_NAME&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;tr -dc A-Za-z0-9 &amp;lt;/dev/urandom | head -c 16&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mv /flag.txt &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;RAND_NAME&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; rm -f /flag.txt&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;&#xA;&lt;li&gt;Nên &lt;strong&gt;phải liệt kê &lt;code&gt;/&lt;/code&gt;&lt;/strong&gt; để biết tên file flag thực tế.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-phân-tích-lỗ-hổng&#34;&gt;2) Phân tích lỗ hổng&lt;/h2&gt;&#xA;&lt;h3 id=&#34;lỗi-1--nginx-reverse-proxy-bypass&#34;&gt;Lỗi #1 — Nginx Reverse Proxy Bypass&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;code&gt;location =&lt;/code&gt; chỉ chặn &lt;strong&gt;chuỗi y hệt&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Write-up for Chatbot CSCV2025</title>
       <link>http://localhost:1313/re/1761315251658-re/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/re/1761315251658-re/</guid>
-      <description>&lt;p&gt;Hello everyone💯! Today i will tell you the way to solve the &lt;em&gt;&lt;strong&gt;Chatbot&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025&lt;/p&gt;
-&lt;p&gt;The question:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/r1KnQ9zRxx.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;So at first you will have an file &lt;strong&gt;main&lt;/strong&gt; like this below:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/HyCOV9zCgx.png&#34;
-    &gt;&lt;/figure&gt;
-
-Let open this file in DIE to see the information about this file:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/Sk8yH9zAll.png&#34;
-    &gt;&lt;/figure&gt;
-
-This is an ELF64 file and DIE has told us that this file have been packed with PyInstaller
-Let use IDA(in app use SHIFT+F12) to see strings of this file:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/ByuAB9MRxx.png&#34;
-    &gt;&lt;/figure&gt;
-
-Scroll down a little bit and you will see this:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/rJ3ZLcf0xl.png&#34;
-    &gt;&lt;/figure&gt;
-
-We see many file like Py_ so that means this file was built by python
-We will use &lt;strong&gt;pyinstxtrator.py&lt;/strong&gt; to export the content of this file(point in the &lt;strong&gt;main&lt;/strong&gt; file to open terminal)
-Type:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/re/1761315251658-re/featured.png" />
+      <description>&lt;p&gt;Hello everyone💯! Today i will tell you the way to solve the &lt;em&gt;&lt;strong&gt;Chatbot&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025&lt;/p&gt;&#xA;&lt;p&gt;The question:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/r1KnQ9zRxx.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;So at first you will have an file &lt;strong&gt;main&lt;/strong&gt; like this below:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/HyCOV9zCgx.png&#34; alt=&#34;image&#34;&gt;&#xA;Let open this file in DIE to see the information about this file:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/Sk8yH9zAll.png&#34; alt=&#34;image&#34;&gt;&#xA;This is an ELF64 file and DIE has told us that this file have been packed with PyInstaller&#xA;Let use IDA(in app use SHIFT+F12) to see strings of this file:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/ByuAB9MRxx.png&#34; alt=&#34;image&#34;&gt;&#xA;Scroll down a little bit and you will see this:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/rJ3ZLcf0xl.png&#34; alt=&#34;image&#34;&gt;&#xA;We see many file like Py_ so that means this file was built by python&#xA;We will use &lt;strong&gt;pyinstxtrator.py&lt;/strong&gt; to export the content of this file(point in the &lt;strong&gt;main&lt;/strong&gt; file to open terminal)&#xA;Type:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Write-up for Reverse Master CSCV2025 </title>
       <link>http://localhost:1313/re/1761315247629-re/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/re/1761315247629-re/</guid>
-      <description>&lt;p&gt;Hello everyone🫡! Today I will write a little bit about The &lt;em&gt;&lt;strong&gt;Reverse Master&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025.
-The question:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/B1vSBTNAee.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;When we install the file we will have an apk file like this:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/Bk60raNReg.png&#34;
-    &gt;&lt;/figure&gt;
-
-Use &lt;strong&gt;jadx-gui&lt;/strong&gt; to decompile this file,then open &lt;strong&gt;Source code/com/ctf.challenge&lt;/strong&gt; and you will see &lt;strong&gt;Main Activity&lt;/strong&gt; like this:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/BJ7-D6NRlx.png&#34;
-    &gt;&lt;/figure&gt;
-
-Open that and you will see the code below:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;package com.ctf.challenge;
-
-import android.graphics.Color;
-import android.os.Bundle;
-import android.util.Log;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.Button;
-import android.widget.LinearLayout;
-import android.widget.TextView;
-import androidx.appcompat.app.AppCompatActivity;
-import com.google.android.material.textfield.TextInputEditText;
-import com.google.android.material.textfield.TextInputLayout;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.InetSocketAddress;
-import java.net.Socket;
-import o.CountDownTimerC0176z3;
-import o.F2;
-import o.F3;
-import o.RunnableC0154w;
-import o.V4;
-
-/* loaded from: classes.dex */
-public final class MainActivity extends AppCompatActivity {
-    public static final /* synthetic */ int b = 0;
-    public final byte[] a = {66, 51, 122, 33, 86};
-
-    static {
-        try {
-            System.loadLibrary(&amp;#34;native-lib&amp;#34;);
-        } catch (UnsatisfiedLinkError e) {
-            Log.e(&amp;#34;CTF&amp;#34;, &amp;#34;❌ Native lib failed: &amp;#34; + e.getMessage());
-        }
-    }
-
-    public final native boolean checkSecondHalf(String str);
-
-    public final native String getHint();
-
-    public final void h(LinearLayout linearLayout, String str, String str2) {
-        View viewInflate = getLayoutInflater().inflate(android.R.layout.simple_list_item_2, (ViewGroup) linearLayout, false);
-        TextView textView = (TextView) viewInflate.findViewById(android.R.id.text1);
-        TextView textView2 = (TextView) viewInflate.findViewById(android.R.id.text2);
-        textView.setText(&amp;#34;⚠️ &amp;#34;.concat(str));
-        textView.setTextColor(Color.parseColor(&amp;#34;#FF5252&amp;#34;));
-        textView.setTextSize(16.0f);
-        textView.setTypeface(null, 1);
-        textView2.setText(str2);
-        textView2.setTextColor(Color.parseColor(&amp;#34;#BDBDBD&amp;#34;));
-        textView2.setTextSize(13.0f);
-        linearLayout.addView(viewInflate);
-    }
-
-    @Override // androidx.fragment.app.FragmentActivity, androidx.activity.ComponentActivity, androidx.core.app.ComponentActivity, android.app.Activity
-    public final void onCreate(Bundle bundle) throws IOException {
-        boolean z;
-        String line;
-        super.onCreate(bundle);
-        setContentView(R.layout.activity_main);
-        boolean z2 = false;
-        boolean z3 = (getApplicationInfo().flags &amp;amp; 2) != 0;
-        String[] strArr = {&amp;#34;/system/app/Superuser.apk&amp;#34;, &amp;#34;/sbin/su&amp;#34;, &amp;#34;/system/bin/su&amp;#34;, &amp;#34;/system/xbin/su&amp;#34;, &amp;#34;/data/local/xbin/su&amp;#34;, &amp;#34;/data/local/bin/su&amp;#34;, &amp;#34;/system/sd/xbin/su&amp;#34;, &amp;#34;/system/bin/failsafe/su&amp;#34;, &amp;#34;/data/local/su&amp;#34;};
-        int i = 0;
-        while (true) {
-            if (i &amp;gt;= 9) {
-                try {
-                    Runtime.getRuntime().exec(&amp;#34;su&amp;#34;);
-                    break;
-                } catch (Exception unused) {
-                    z = false;
-                }
-            } else if (new File(strArr[i]).exists()) {
-                break;
-            } else {
-                i++;
-            }
-        }
-        z = true;
-        try {
-            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(Runtime.getRuntime().exec(&amp;#34;ps&amp;#34;).getInputStream()));
-            do {
-                line = bufferedReader.readLine();
-                if (line == null) {
-                    break;
-                } else if (!V4.u(line, &amp;#34;frida&amp;#34;) &amp;amp;&amp;amp; !V4.u(line, &amp;#34;gum-js-loop&amp;#34;)) {
-                }
-            } while (!V4.u(line, &amp;#34;gmain&amp;#34;));
-            z2 = true;
-            bufferedReader.close();
-        } catch (Exception unused2) {
-        }
-        int i2 = 27042;
-        while (true) {
-            if (i2 &amp;gt;= 27053) {
-                break;
-            }
-            try {
-                Socket socket = new Socket();
-                socket.connect(new InetSocketAddress(&amp;#34;127.0.0.1&amp;#34;, i2), 100);
-                socket.close();
-                z2 = true;
-                break;
-            } catch (Exception unused3) {
-                i2++;
-            }
-        }
-        if (!z3 &amp;amp;&amp;amp; !z &amp;amp;&amp;amp; !z2) {
-            Thread thread = new Thread(new RunnableC0154w(8, this));
-            thread.setDaemon(true);
-            thread.start();
-            final TextInputLayout textInputLayout = (TextInputLayout) findViewById(R.id.flagInputLayout);
-            final TextInputEditText textInputEditText = (TextInputEditText) findViewById(R.id.flagInput);
-            Button button = (Button) findViewById(R.id.checkButton);
-            Button button2 = (Button) findViewById(R.id.hintButton);
-            button.setOnClickListener(new View.OnClickListener() { // from class: o.y3
-                /* JADX WARN: Removed duplicated region for block: B:4:0x001a  */
-                @Override // android.view.View.OnClickListener
-                /*
-                    Code decompiled incorrectly, please refer to instructions dump.
-                    To view partially-correct code enable &amp;#39;Show inconsistent code&amp;#39; option in preferences
-                */
-                public final void onClick(android.view.View r13) {
-                    /*
-                        r12 = this;
-                        r13 = 16
-                        r0 = 1
-                        int r1 = com.ctf.challenge.MainActivity.b
-                        com.google.android.material.textfield.TextInputEditText r1 = r1
-                        android.text.Editable r1 = r1.getText()
-                        java.lang.String r1 = java.lang.String.valueOf(r1)
-                        com.ctf.challenge.MainActivity r2 = r2
-                        java.lang.String r3 = &amp;#34;CSCV2025{&amp;#34;
-                        boolean r3 = r1.startsWith(r3)
-                        r4 = 0
-                        if (r3 != 0) goto L1c
-                    L1a:
-                        r13 = r4
-                        goto L6e
-                    L1c:
-                        java.lang.String r3 = &amp;#34;}&amp;#34;
-                        boolean r3 = r1.endsWith(r3)
-                        if (r3 != 0) goto L25
-                        goto L1a
-                    L25:
-                        int r3 = r1.length()
-                        int r3 = r3 - r0
-                        r5 = 9
-                        java.lang.String r1 = r1.substring(r5, r3)
-                        java.lang.String r3 = &amp;#34;substring(...)&amp;#34;
-                        o.F2.e(r1, r3)
-                        java.lang.String r5 = r1.substring(r4, r13)
-                        o.F2.e(r5, r3)
-                        byte[] r6 = new byte[r13]
-                        r6 = {x0090: FILL_ARRAY_DATA , data: [122, 86, 27, 22, 53, 35, 80, 77, 24, 98, 122, 7, 72, 21, 98, 114} // fill-array
-                        byte[] r7 = new byte[r13]
-                        r8 = r4
-                    L44:
-                        if (r8 &amp;gt;= r13) goto L55
-                        r9 = r6[r8]
-                        byte[] r10 = r2.a
-                        int r11 = r10.length
-                        int r11 = r8 % r11
-                        r10 = r10[r11]
-                        r9 = r9 ^ r10
-                        byte r9 = (byte) r9
-                        r7[r8] = r9
-                        int r8 = r8 + r0
-                        goto L44
-                    L55:
-                        java.lang.String r6 = new java.lang.String
-                        java.nio.charset.Charset r8 = o.X.a
-                        r6.&amp;lt;init&amp;gt;(r7, r8)
-                        boolean r5 = r5.equals(r6)
-                        if (r5 != 0) goto L63
-                        goto L1a
-                    L63:
-                        java.lang.String r13 = r1.substring(r13)
-                        o.F2.e(r13, r3)
-                        boolean r13 = r2.checkSecondHalf(r13)
-                    L6e:
-                        com.google.android.material.textfield.TextInputLayout r1 = r3
-                        if (r13 == 0) goto L80
-                        java.lang.String r13 = &amp;#34;🎉 Correct! Flag is valid!&amp;#34;
-                        android.widget.Toast r13 = android.widget.Toast.makeText(r2, r13, r0)
-                        r13.show()
-                        r13 = 0
-                        r1.setError(r13)
-                        return
-                    L80:
-                        java.lang.String r13 = &amp;#34;❌ Wrong flag! Try again!&amp;#34;
-                        android.widget.Toast r13 = android.widget.Toast.makeText(r2, r13, r4)
-                        r13.show()
-                        java.lang.String r13 = &amp;#34;Invalid flag&amp;#34;
-                        r1.setError(r13)
-                        return
-                    */
-                    throw new UnsupportedOperationException(&amp;#34;Method not decompiled: o.ViewOnClickListenerC0170y3.onClick(android.view.View):void&amp;#34;);
-                }
-            });
-            button2.setOnClickListener(new F3(3, this));
-            return;
-        }
-        setContentView(R.layout.security_warning);
-        TextView textView = (TextView) findViewById(R.id.countdownText);
-        LinearLayout linearLayout = (LinearLayout) findViewById(R.id.issuesList);
-        if (z3) {
-            F2.c(linearLayout);
-            h(linearLayout, &amp;#34;Debug Mode Detected&amp;#34;, &amp;#34;Application is running in debuggable mode&amp;#34;);
-        }
-        if (z) {
-            F2.c(linearLayout);
-            h(linearLayout, &amp;#34;Root Access Detected&amp;#34;, &amp;#34;Device has been rooted or jailbroken&amp;#34;);
-        }
-        if (z2) {
-            F2.c(linearLayout);
-            h(linearLayout, &amp;#34;Frida Framework Detected&amp;#34;, &amp;#34;Dynamic instrumentation tool is running&amp;#34;);
-        }
-        new CountDownTimerC0176z3(textView, this).start();
-    }
-
-    public final native void startFridaMonitoring();
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can find the first half of the flag with this XOR code from python:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/re/1761315247629-re/featured.png" />
+      <description>&lt;p&gt;Hello everyone🫡! Today I will write a little bit about The &lt;em&gt;&lt;strong&gt;Reverse Master&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025.&#xA;The question:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/B1vSBTNAee.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;When we install the file we will have an apk file like this:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/Bk60raNReg.png&#34; alt=&#34;image&#34;&gt;&#xA;Use &lt;strong&gt;jadx-gui&lt;/strong&gt; to decompile this file,then open &lt;strong&gt;Source code/com/ctf.challenge&lt;/strong&gt; and you will see &lt;strong&gt;Main Activity&lt;/strong&gt; like this:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/BJ7-D6NRlx.png&#34; alt=&#34;image&#34;&gt;&#xA;Open that and you will see the code below:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;package com.ctf.challenge;&#xD;&#xA;&#xD;&#xA;import android.graphics.Color;&#xD;&#xA;import android.os.Bundle;&#xD;&#xA;import android.util.Log;&#xD;&#xA;import android.view.View;&#xD;&#xA;import android.view.ViewGroup;&#xD;&#xA;import android.widget.Button;&#xD;&#xA;import android.widget.LinearLayout;&#xD;&#xA;import android.widget.TextView;&#xD;&#xA;import androidx.appcompat.app.AppCompatActivity;&#xD;&#xA;import com.google.android.material.textfield.TextInputEditText;&#xD;&#xA;import com.google.android.material.textfield.TextInputLayout;&#xD;&#xA;import java.io.BufferedReader;&#xD;&#xA;import java.io.File;&#xD;&#xA;import java.io.IOException;&#xD;&#xA;import java.io.InputStreamReader;&#xD;&#xA;import java.net.InetSocketAddress;&#xD;&#xA;import java.net.Socket;&#xD;&#xA;import o.CountDownTimerC0176z3;&#xD;&#xA;import o.F2;&#xD;&#xA;import o.F3;&#xD;&#xA;import o.RunnableC0154w;&#xD;&#xA;import o.V4;&#xD;&#xA;&#xD;&#xA;/* loaded from: classes.dex */&#xD;&#xA;public final class MainActivity extends AppCompatActivity {&#xD;&#xA;    public static final /* synthetic */ int b = 0;&#xD;&#xA;    public final byte[] a = {66, 51, 122, 33, 86};&#xD;&#xA;&#xD;&#xA;    static {&#xD;&#xA;        try {&#xD;&#xA;            System.loadLibrary(&amp;#34;native-lib&amp;#34;);&#xD;&#xA;        } catch (UnsatisfiedLinkError e) {&#xD;&#xA;            Log.e(&amp;#34;CTF&amp;#34;, &amp;#34;❌ Native lib failed: &amp;#34; + e.getMessage());&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    public final native boolean checkSecondHalf(String str);&#xD;&#xA;&#xD;&#xA;    public final native String getHint();&#xD;&#xA;&#xD;&#xA;    public final void h(LinearLayout linearLayout, String str, String str2) {&#xD;&#xA;        View viewInflate = getLayoutInflater().inflate(android.R.layout.simple_list_item_2, (ViewGroup) linearLayout, false);&#xD;&#xA;        TextView textView = (TextView) viewInflate.findViewById(android.R.id.text1);&#xD;&#xA;        TextView textView2 = (TextView) viewInflate.findViewById(android.R.id.text2);&#xD;&#xA;        textView.setText(&amp;#34;⚠️ &amp;#34;.concat(str));&#xD;&#xA;        textView.setTextColor(Color.parseColor(&amp;#34;#FF5252&amp;#34;));&#xD;&#xA;        textView.setTextSize(16.0f);&#xD;&#xA;        textView.setTypeface(null, 1);&#xD;&#xA;        textView2.setText(str2);&#xD;&#xA;        textView2.setTextColor(Color.parseColor(&amp;#34;#BDBDBD&amp;#34;));&#xD;&#xA;        textView2.setTextSize(13.0f);&#xD;&#xA;        linearLayout.addView(viewInflate);&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    @Override // androidx.fragment.app.FragmentActivity, androidx.activity.ComponentActivity, androidx.core.app.ComponentActivity, android.app.Activity&#xD;&#xA;    public final void onCreate(Bundle bundle) throws IOException {&#xD;&#xA;        boolean z;&#xD;&#xA;        String line;&#xD;&#xA;        super.onCreate(bundle);&#xD;&#xA;        setContentView(R.layout.activity_main);&#xD;&#xA;        boolean z2 = false;&#xD;&#xA;        boolean z3 = (getApplicationInfo().flags &amp;amp; 2) != 0;&#xD;&#xA;        String[] strArr = {&amp;#34;/system/app/Superuser.apk&amp;#34;, &amp;#34;/sbin/su&amp;#34;, &amp;#34;/system/bin/su&amp;#34;, &amp;#34;/system/xbin/su&amp;#34;, &amp;#34;/data/local/xbin/su&amp;#34;, &amp;#34;/data/local/bin/su&amp;#34;, &amp;#34;/system/sd/xbin/su&amp;#34;, &amp;#34;/system/bin/failsafe/su&amp;#34;, &amp;#34;/data/local/su&amp;#34;};&#xD;&#xA;        int i = 0;&#xD;&#xA;        while (true) {&#xD;&#xA;            if (i &amp;gt;= 9) {&#xD;&#xA;                try {&#xD;&#xA;                    Runtime.getRuntime().exec(&amp;#34;su&amp;#34;);&#xD;&#xA;                    break;&#xD;&#xA;                } catch (Exception unused) {&#xD;&#xA;                    z = false;&#xD;&#xA;                }&#xD;&#xA;            } else if (new File(strArr[i]).exists()) {&#xD;&#xA;                break;&#xD;&#xA;            } else {&#xD;&#xA;                i++;&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;        z = true;&#xD;&#xA;        try {&#xD;&#xA;            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(Runtime.getRuntime().exec(&amp;#34;ps&amp;#34;).getInputStream()));&#xD;&#xA;            do {&#xD;&#xA;                line = bufferedReader.readLine();&#xD;&#xA;                if (line == null) {&#xD;&#xA;                    break;&#xD;&#xA;                } else if (!V4.u(line, &amp;#34;frida&amp;#34;) &amp;amp;&amp;amp; !V4.u(line, &amp;#34;gum-js-loop&amp;#34;)) {&#xD;&#xA;                }&#xD;&#xA;            } while (!V4.u(line, &amp;#34;gmain&amp;#34;));&#xD;&#xA;            z2 = true;&#xD;&#xA;            bufferedReader.close();&#xD;&#xA;        } catch (Exception unused2) {&#xD;&#xA;        }&#xD;&#xA;        int i2 = 27042;&#xD;&#xA;        while (true) {&#xD;&#xA;            if (i2 &amp;gt;= 27053) {&#xD;&#xA;                break;&#xD;&#xA;            }&#xD;&#xA;            try {&#xD;&#xA;                Socket socket = new Socket();&#xD;&#xA;                socket.connect(new InetSocketAddress(&amp;#34;127.0.0.1&amp;#34;, i2), 100);&#xD;&#xA;                socket.close();&#xD;&#xA;                z2 = true;&#xD;&#xA;                break;&#xD;&#xA;            } catch (Exception unused3) {&#xD;&#xA;                i2++;&#xD;&#xA;            }&#xD;&#xA;        }&#xD;&#xA;        if (!z3 &amp;amp;&amp;amp; !z &amp;amp;&amp;amp; !z2) {&#xD;&#xA;            Thread thread = new Thread(new RunnableC0154w(8, this));&#xD;&#xA;            thread.setDaemon(true);&#xD;&#xA;            thread.start();&#xD;&#xA;            final TextInputLayout textInputLayout = (TextInputLayout) findViewById(R.id.flagInputLayout);&#xD;&#xA;            final TextInputEditText textInputEditText = (TextInputEditText) findViewById(R.id.flagInput);&#xD;&#xA;            Button button = (Button) findViewById(R.id.checkButton);&#xD;&#xA;            Button button2 = (Button) findViewById(R.id.hintButton);&#xD;&#xA;            button.setOnClickListener(new View.OnClickListener() { // from class: o.y3&#xD;&#xA;                /* JADX WARN: Removed duplicated region for block: B:4:0x001a  */&#xD;&#xA;                @Override // android.view.View.OnClickListener&#xD;&#xA;                /*&#xD;&#xA;                    Code decompiled incorrectly, please refer to instructions dump.&#xD;&#xA;                    To view partially-correct code enable &amp;#39;Show inconsistent code&amp;#39; option in preferences&#xD;&#xA;                */&#xD;&#xA;                public final void onClick(android.view.View r13) {&#xD;&#xA;                    /*&#xD;&#xA;                        r12 = this;&#xD;&#xA;                        r13 = 16&#xD;&#xA;                        r0 = 1&#xD;&#xA;                        int r1 = com.ctf.challenge.MainActivity.b&#xD;&#xA;                        com.google.android.material.textfield.TextInputEditText r1 = r1&#xD;&#xA;                        android.text.Editable r1 = r1.getText()&#xD;&#xA;                        java.lang.String r1 = java.lang.String.valueOf(r1)&#xD;&#xA;                        com.ctf.challenge.MainActivity r2 = r2&#xD;&#xA;                        java.lang.String r3 = &amp;#34;CSCV2025{&amp;#34;&#xD;&#xA;                        boolean r3 = r1.startsWith(r3)&#xD;&#xA;                        r4 = 0&#xD;&#xA;                        if (r3 != 0) goto L1c&#xD;&#xA;                    L1a:&#xD;&#xA;                        r13 = r4&#xD;&#xA;                        goto L6e&#xD;&#xA;                    L1c:&#xD;&#xA;                        java.lang.String r3 = &amp;#34;}&amp;#34;&#xD;&#xA;                        boolean r3 = r1.endsWith(r3)&#xD;&#xA;                        if (r3 != 0) goto L25&#xD;&#xA;                        goto L1a&#xD;&#xA;                    L25:&#xD;&#xA;                        int r3 = r1.length()&#xD;&#xA;                        int r3 = r3 - r0&#xD;&#xA;                        r5 = 9&#xD;&#xA;                        java.lang.String r1 = r1.substring(r5, r3)&#xD;&#xA;                        java.lang.String r3 = &amp;#34;substring(...)&amp;#34;&#xD;&#xA;                        o.F2.e(r1, r3)&#xD;&#xA;                        java.lang.String r5 = r1.substring(r4, r13)&#xD;&#xA;                        o.F2.e(r5, r3)&#xD;&#xA;                        byte[] r6 = new byte[r13]&#xD;&#xA;                        r6 = {x0090: FILL_ARRAY_DATA , data: [122, 86, 27, 22, 53, 35, 80, 77, 24, 98, 122, 7, 72, 21, 98, 114} // fill-array&#xD;&#xA;                        byte[] r7 = new byte[r13]&#xD;&#xA;                        r8 = r4&#xD;&#xA;                    L44:&#xD;&#xA;                        if (r8 &amp;gt;= r13) goto L55&#xD;&#xA;                        r9 = r6[r8]&#xD;&#xA;                        byte[] r10 = r2.a&#xD;&#xA;                        int r11 = r10.length&#xD;&#xA;                        int r11 = r8 % r11&#xD;&#xA;                        r10 = r10[r11]&#xD;&#xA;                        r9 = r9 ^ r10&#xD;&#xA;                        byte r9 = (byte) r9&#xD;&#xA;                        r7[r8] = r9&#xD;&#xA;                        int r8 = r8 + r0&#xD;&#xA;                        goto L44&#xD;&#xA;                    L55:&#xD;&#xA;                        java.lang.String r6 = new java.lang.String&#xD;&#xA;                        java.nio.charset.Charset r8 = o.X.a&#xD;&#xA;                        r6.&amp;lt;init&amp;gt;(r7, r8)&#xD;&#xA;                        boolean r5 = r5.equals(r6)&#xD;&#xA;                        if (r5 != 0) goto L63&#xD;&#xA;                        goto L1a&#xD;&#xA;                    L63:&#xD;&#xA;                        java.lang.String r13 = r1.substring(r13)&#xD;&#xA;                        o.F2.e(r13, r3)&#xD;&#xA;                        boolean r13 = r2.checkSecondHalf(r13)&#xD;&#xA;                    L6e:&#xD;&#xA;                        com.google.android.material.textfield.TextInputLayout r1 = r3&#xD;&#xA;                        if (r13 == 0) goto L80&#xD;&#xA;                        java.lang.String r13 = &amp;#34;🎉 Correct! Flag is valid!&amp;#34;&#xD;&#xA;                        android.widget.Toast r13 = android.widget.Toast.makeText(r2, r13, r0)&#xD;&#xA;                        r13.show()&#xD;&#xA;                        r13 = 0&#xD;&#xA;                        r1.setError(r13)&#xD;&#xA;                        return&#xD;&#xA;                    L80:&#xD;&#xA;                        java.lang.String r13 = &amp;#34;❌ Wrong flag! Try again!&amp;#34;&#xD;&#xA;                        android.widget.Toast r13 = android.widget.Toast.makeText(r2, r13, r4)&#xD;&#xA;                        r13.show()&#xD;&#xA;                        java.lang.String r13 = &amp;#34;Invalid flag&amp;#34;&#xD;&#xA;                        r1.setError(r13)&#xD;&#xA;                        return&#xD;&#xA;                    */&#xD;&#xA;                    throw new UnsupportedOperationException(&amp;#34;Method not decompiled: o.ViewOnClickListenerC0170y3.onClick(android.view.View):void&amp;#34;);&#xD;&#xA;                }&#xD;&#xA;            });&#xD;&#xA;            button2.setOnClickListener(new F3(3, this));&#xD;&#xA;            return;&#xD;&#xA;        }&#xD;&#xA;        setContentView(R.layout.security_warning);&#xD;&#xA;        TextView textView = (TextView) findViewById(R.id.countdownText);&#xD;&#xA;        LinearLayout linearLayout = (LinearLayout) findViewById(R.id.issuesList);&#xD;&#xA;        if (z3) {&#xD;&#xA;            F2.c(linearLayout);&#xD;&#xA;            h(linearLayout, &amp;#34;Debug Mode Detected&amp;#34;, &amp;#34;Application is running in debuggable mode&amp;#34;);&#xD;&#xA;        }&#xD;&#xA;        if (z) {&#xD;&#xA;            F2.c(linearLayout);&#xD;&#xA;            h(linearLayout, &amp;#34;Root Access Detected&amp;#34;, &amp;#34;Device has been rooted or jailbroken&amp;#34;);&#xD;&#xA;        }&#xD;&#xA;        if (z2) {&#xD;&#xA;            F2.c(linearLayout);&#xD;&#xA;            h(linearLayout, &amp;#34;Frida Framework Detected&amp;#34;, &amp;#34;Dynamic instrumentation tool is running&amp;#34;);&#xD;&#xA;        }&#xD;&#xA;        new CountDownTimerC0176z3(textView, this).start();&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    public final native void startFridaMonitoring();&#xD;&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can find the first half of the flag with this XOR code from python:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Write-up REEZS</title>
       <link>http://localhost:1313/re/1761292805274-dauif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/re/1761292805274-dauif/</guid>
-      <description>&lt;p&gt;Hello guys🤗! today i will write about a REV challenge that met at the CSCV2025 that named:&lt;em&gt;&lt;strong&gt;Reezs&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/SkxObFzAxe.png&#34;
-    &gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;First when you install the file and extract the folder you will have an .exe file like this:  &lt;br&gt;
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/B1I12bfRel.png&#34;
-    &gt;&lt;/figure&gt;
-
-When you run that file, you will see an CMD that told you enter the flag:
-&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/r1JH3-MClx.png&#34;
-    &gt;&lt;/figure&gt;
-
-Since there were no clues at first, I typed some random input to see how the program executes. As expected, it shut down immediately.&lt;br&gt;
-Then I opened IDA and loaded the file to read the main function and understand the execution flow. In IDA View-A, the main function looks like this:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/re/1761292805274-dauif/featured.png" />
+      <description>&lt;p&gt;Hello guys🤗! today i will write about a REV challenge that met at the CSCV2025 that named:&lt;em&gt;&lt;strong&gt;Reezs&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/SkxObFzAxe.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;First when you install the file and extract the folder you will have an .exe file like this:  &lt;br&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/B1I12bfRel.png&#34; alt=&#34;image&#34;&gt;&#xA;When you run that file, you will see an CMD that told you enter the flag:&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/r1JH3-MClx.png&#34; alt=&#34;image&#34;&gt;&#xA;Since there were no clues at first, I typed some random input to see how the program executes. As expected, it shut down immediately.&lt;br&gt;&#xA;Then I opened IDA and loaded the file to read the main function and understand the execution flow. In IDA View-A, the main function looks like this:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ZC-1 CHALLENGE</title>
       <link>http://localhost:1313/web/1761292219022-abc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/web/1761292219022-abc/</guid>
-      <description>&lt;h1 class=&#34;relative group&#34;&gt;ZC-1 CHALLENGE
-    &lt;div id=&#34;zc-1-challenge&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#zc-1-challenge&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-
-&lt;h1 class=&#34;relative group&#34;&gt;MTA_SUPPORT
-    &lt;div id=&#34;mta_support&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#mta_support&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h1&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img
-    class=&#34;my-0 rounded-md&#34;
-    loading=&#34;lazy&#34;
-    decoding=&#34;async&#34;
-    fetchpriority=&#34;low&#34;
-    alt=&#34;image&#34;
-    src=&#34;https://hackmd.io/_uploads/ry_nOA4Cxl.png&#34;
-    &gt;&lt;/figure&gt;
-
-challenge file: &lt;a
-  href=&#34;https://drive.google.com/file/d/1PprDuWV1u11dnH1mf_Bc70La8CpFZ7NR/view&#34;
-    target=&#34;_blank&#34;
-  &gt;public&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 class=&#34;relative group&#34;&gt;IDEA: Polyglot ZIP→7z + kích hoạt qua “health” nội bộ
-    &lt;div id=&#34;idea-polyglot-zip7z--kích-hoạt-qua-health-nội-bộ&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#idea-polyglot-zip7z--k%c3%adch-ho%e1%ba%a1t-qua-health-n%e1%bb%99i-b%e1%bb%99&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;
-    
-&lt;/h3&gt;
-&lt;p&gt;Mục tiêu: Upload 1 file vượt qua kiểm tra &lt;code&gt;ZIP safety&lt;/code&gt; của &lt;code&gt;service 1&lt;/code&gt; nhưng buộc &lt;code&gt;service 2&lt;/code&gt; giải nén và chạy shell.php, rồi dùng endpoint health để gọi file này để lấy flag CSCV2025{}.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/web/1761292219022-abc/featured.png" />
+      <description>&lt;h1 id=&#34;zc-1-challenge&#34;&gt;ZC-1 CHALLENGE&lt;/h1&gt;&#xA;&lt;h1 id=&#34;mta_support&#34;&gt;MTA_SUPPORT&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/ry_nOA4Cxl.png&#34; alt=&#34;image&#34;&gt;&#xA;challenge file: &lt;a href=&#34;https://drive.google.com/file/d/1PprDuWV1u11dnH1mf_Bc70La8CpFZ7NR/view&#34;&gt;public&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;idea-polyglot-zip7z--kích-hoạt-qua-health-nội-bộ&#34;&gt;IDEA: Polyglot ZIP→7z + kích hoạt qua “health” nội bộ&lt;/h3&gt;&#xA;&lt;p&gt;Mục tiêu: Upload 1 file vượt qua kiểm tra &lt;code&gt;ZIP safety&lt;/code&gt; của &lt;code&gt;service 1&lt;/code&gt; nhưng buộc &lt;code&gt;service 2&lt;/code&gt; giải nén và chạy shell.php, rồi dùng endpoint health để gọi file này để lấy flag CSCV2025{}.&lt;/p&gt;&#xA;&lt;p&gt;Main idea: Tạo polyglot: nhìn như zip hợp lệ với zipfile (Service 1), nhưng lại được 7-Zip (Service 2) đọc như 7z để giải nén shell.php.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
