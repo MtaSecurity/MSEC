@@ -232,7 +232,65 @@ fetchpriority="low"
 alt="image"
 src="https://hackmd.io/_uploads/HJwSEsG0le.png"
 &gt;&lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761315315933-web/featured.png"/></item><item><title>PortfolioS</title><link>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</guid><description>&lt;h1 class="relative group"&gt;PortfolioS
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761315315933-web/featured.png"/></item><item><title>Magik</title><link>https://mtasecurity.github.io/MSEC/web/1761494653599-tung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761494653599-tung/</guid><description>&lt;h1 class="relative group"&gt;Magik
+&lt;div id="magik" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#magik" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Author : Tiwza&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;Overview
+&lt;div id="overview" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#overview" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="{BBFD61B4-A254-4DB8-9F65-A1E5CC5EEB72}"
+src="https://hackmd.io/_uploads/H1KCSzoRxg.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 class="relative group"&gt;Cầu trúc của bài này
+&lt;div id="cầu-trúc-của-bài-này" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#c%e1%ba%a7u-tr%c3%bac-c%e1%bb%a7a-b%c3%a0i-n%c3%a0y" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;pre tabindex="0"&gt;&lt;code class="language-code=" data-lang="code="&gt;magik/
+└── app/
+├── index.php
+├── convert.sh
+├── docker-compose.yml
+├── Dockerfile
+├── flags.txt
+└── readflag.c
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 class="relative group"&gt;Lần lượt đọc từng file
+&lt;div id="lần-lượt-đọc-từng-file" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#l%e1%ba%a7n-l%c6%b0%e1%bb%a3t-%c4%91%e1%bb%8dc-t%e1%bb%abng-file" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;Dockerfile&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;- Đọc `Dockerfile` để hiểu rõ hơn
+```code=
+COPY readflag.c /readflag.c
+RUN gcc /readflag.c -o /readflag
+RUN chmod u+s /readflag
+RUN rm -f /readflag.c
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Đặt &lt;code&gt;SUID&lt;/code&gt; lên &lt;code&gt;/readflag&lt;/code&gt; nên user ở &lt;code&gt; www-data&lt;/code&gt; không thể đọc&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761494653599-tung/featured.png"/></item><item><title>PortfolioS</title><link>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</guid><description>&lt;h1 class="relative group"&gt;PortfolioS
 &lt;div id="portfolios" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
