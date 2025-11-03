@@ -373,7 +373,70 @@ fetchpriority="low"
 alt="image"
 src="https://hackmd.io/_uploads/H1oMNauCgl.png"
 &gt;&lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/featured.png"/></item><item><title>Write-up for Chatbot CSCV2025</title><link>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</guid><description>&lt;p&gt;Hello everyone💯! Today i will tell you the way to solve the &lt;em&gt;&lt;strong&gt;Chatbot&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025&lt;/p&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/featured.png"/></item><item><title>V1T CTF CHALLENGES</title><link>https://mtasecurity.github.io/MSEC/for/1762190348580-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1762190348580-for/</guid><description>&lt;p&gt;V1T CTF CHALLENGES&lt;/p&gt;
+&lt;p&gt;MISC: MOOO (maybe Crypto &amp;amp; Forensics)&lt;/p&gt;
+&lt;p&gt;Đề bài cho ta tải 1 file .jpeg, trong file ảnh là một con bò (cảm giác như sắp bị dắt giống bài TrynaCrack)&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/Syyl_S8kWl.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/rkKfurUybx.png"
+&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SkIVdH81Ze.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sau khi đẩy file ảnh vào kali và sử dụng lệnh exiftool thì ta ra một cái comment dài như đường đến trái tim crush vậy&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vì đã từng làm qua một bài Crypto liên quan đến mật mã Moo này nên tôi đã copy toàn bộ phần comment và sử dụng &lt;a
+href="https://www.jdoodle.com/execute-cow-online"
+target="_blank"
+&gt;https://www.jdoodle.com/execute-cow-online&lt;/a&gt; để decode và được kết quả như bên dưới
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/S1KBFSIk-g.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190348580-for/featured.png"/></item><item><title>V1T CTF CHALLENGES</title><link>https://mtasecurity.github.io/MSEC/for/1762190355184-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1762190355184-for/</guid><description>&lt;p&gt;&lt;strong&gt;V1T CTF CHALLENGES&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;From: VN_MSEC&lt;/p&gt;
+&lt;p&gt;Đây là 1 thử thách thuộc giải V1T CTF, liên quan đến crack file zip, sau đó sửa 1 ảnh trong file đó và có gợi ý liên quan đến flag&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;CRACK FILE&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Sau khi tải file challenge.zip của giải về, ta sẽ có 1 file trong đó chưa file quackquackquack.png nhưng không thể mở được (đương nhiên rồi vì đề bài yêu cầu ta crack nó)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/ry6354Lk-x.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190355184-for/featured.png"/></item><item><title>Write-up for Chatbot CSCV2025</title><link>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</guid><description>&lt;p&gt;Hello everyone💯! Today i will tell you the way to solve the &lt;em&gt;&lt;strong&gt;Chatbot&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025&lt;/p&gt;
 &lt;p&gt;The question:
 &lt;figure&gt;&lt;img
 class="my-0 rounded-md"
