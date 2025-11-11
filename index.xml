@@ -290,7 +290,64 @@ COPY readflag.c /readflag.c
 RUN gcc /readflag.c -o /readflag
 RUN chmod u+s /readflag
 RUN rm -f /readflag.c
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Đặt &lt;code&gt;SUID&lt;/code&gt; lên &lt;code&gt;/readflag&lt;/code&gt; nên user ở &lt;code&gt; www-data&lt;/code&gt; không thể đọc&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761494653599-tung/featured.png"/></item><item><title>PortfolioS</title><link>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</guid><description>&lt;h1 class="relative group"&gt;PortfolioS
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Đặt &lt;code&gt;SUID&lt;/code&gt; lên &lt;code&gt;/readflag&lt;/code&gt; nên user ở &lt;code&gt; www-data&lt;/code&gt; không thể đọc&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761494653599-tung/featured.png"/></item><item><title>PACKAGES</title><link>https://mtasecurity.github.io/MSEC/web/1762867950463-web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1762867950463-web/</guid><description>&lt;h1 class="relative group"&gt;PACKAGES
+&lt;div id="packages" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#packages" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/Sy32vseeWx.png"
+&gt;&lt;/figure&gt;
+&lt;a
+href="https://packages.challs.pwnoh.io/"
+target="_blank"
+&gt;https://packages.challs.pwnoh.io/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class="relative group"&gt;Phân tích source
+&lt;div id="phân-tích-source" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#ph%c3%a2n-t%c3%adch-source" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SyyEhilxZx.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;main.py&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-java" data-lang="java"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;distro &lt;span style="color:#f92672"&gt;=&lt;/span&gt; request.&lt;span style="color:#a6e22e"&gt;args&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;get&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#34;distro&amp;#34;&lt;/span&gt;, &lt;span style="color:#e6db74"&gt;&amp;#34;&amp;#34;&lt;/span&gt;).&lt;span style="color:#a6e22e"&gt;strip&lt;/span&gt;().&lt;span style="color:#a6e22e"&gt;lower&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;package&lt;/span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;= &lt;/span&gt;request.args.get(&lt;span style="color:#e6db74"&gt;&amp;#34;package&amp;#34;&lt;/span&gt;, &lt;span style="color:#e6db74"&gt;&amp;#34;&amp;#34;&lt;/span&gt;).&lt;span style="color:#a6e22e"&gt;strip&lt;/span&gt;().&lt;span style="color:#a6e22e"&gt;lower&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sql &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#34;SELECT distro, distro_version, package, package_version FROM packages&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; distro or package:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#34; WHERE &amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; distro:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; f&lt;span style="color:#e6db74"&gt;&amp;#34;LOWER(distro) = {json.dumps(distro)}&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; distro and package:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#34; AND &amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; package:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; f&lt;span style="color:#e6db74"&gt;&amp;#34;LOWER(package) = {json.dumps(package)}&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#34; ORDER BY distro, distro_version, package&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;print(sql)
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;results &lt;span style="color:#f92672"&gt;=&lt;/span&gt; db.&lt;span style="color:#a6e22e"&gt;execute&lt;/span&gt;(sql).&lt;span style="color:#a6e22e"&gt;fetchall&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;author dùng &lt;code&gt;json.dump&lt;/code&gt; để quote tham số người dùng khi ghép chuỗi SQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Giải thích về &lt;code&gt;json.dump&lt;/code&gt; trong python&lt;/strong&gt;
+&lt;code&gt;json.dump&lt;/code&gt; được sử dụng để serialize một object python (vd: dictionary, list, tuple, string, int, float, bool, , None) thành định dạng JSON và viết trực tiếp vào một file hoặc file-like object.
+module: cần &lt;code&gt;import json&lt;/code&gt; để sử dụng&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1762867950463-web/featured.png"/></item><item><title>PortfolioS</title><link>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</guid><description>&lt;h1 class="relative group"&gt;PortfolioS
 &lt;div id="portfolios" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -762,7 +819,26 @@ alt="image"
 src="https://hackmd.io/_uploads/r1JH3-MClx.png"
 &gt;&lt;/figure&gt;
 Since there were no clues at first, I typed some random input to see how the program executes. As expected, it shut down immediately.&lt;br&gt;
-Then I opened IDA and loaded the file to read the main function and understand the execution flow. In IDA View-A, the main function looks like this:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/re/1761292805274-dauif/featured.png"/></item><item><title>ZC-1 CHALLENGE</title><link>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</guid><description>&lt;h1 class="relative group"&gt;ZC-1 CHALLENGE
+Then I opened IDA and loaded the file to read the main function and understand the execution flow. In IDA View-A, the main function looks like this:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/re/1761292805274-dauif/featured.png"/></item><item><title>Write-up Square Cipher</title><link>https://mtasecurity.github.io/MSEC/re/1762867989923-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1762867989923-re/</guid><description>&lt;p&gt;Hello guys! Because T1 was the champion of Worlds 2025 👩‍🦼‍➡️👩‍🦼‍➡️🥇🏆 so today i really happy to write about the challenge i have met in BuckeyeCTF 2025 named: &lt;em&gt;&lt;strong&gt;Square Cipher&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h1 class="relative group"&gt;Question:
+&lt;div id="question" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#question" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/HkozIule-x.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;When we open the python file, we will get this code:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;(lambda x=int(input(&amp;#39;&amp;gt; &amp;#39;),16):(all((int(bin(y).translate(str.maketrans(&amp;#39;1b&amp;#39;,&amp;#39;fx&amp;#39;)),0)&amp;amp;x).bit_count()==15 for y in[511,261632,1838599,14708792,117670336,133955584,68585259008,35115652612096,246772580483072,1974180643864576,15793445150916608,17979214137393152,9205357638345293824,4713143110832790437888,4731607904558235517441,9463215809116471034882,18926431618232942069764,33121255085135066300416,37852863236465884139528,75705726472931768279056,151411452945863536558112,264970040681080530403328,302822905891727073116224,605645811783454146232448,1211291623566908292464896,2119760325448644243226624,2413129272746388704198656])and x&amp;amp;2135465562637171390290201561322170738230609084732268110734985633502584038857972308065155558608880==1271371190459412480076309932821732439054921890752535035282222258816851982409101952239053178406432 or print(&amp;#39;incorrect&amp;#39;))and print(__import__(&amp;#39;os&amp;#39;).environ.get(&amp;#39;FLAG&amp;#39;,&amp;#39;bctf{fake_flag}&amp;#39;)))()
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;By my experience, this is an obfucated python code with the way to know is the amount of words in one line is so longgg!&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/re/1762867989923-re/featured.png"/></item><item><title>ZC-1 CHALLENGE</title><link>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</guid><description>&lt;h1 class="relative group"&gt;ZC-1 CHALLENGE
 &lt;div id="zc-1-challenge" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;

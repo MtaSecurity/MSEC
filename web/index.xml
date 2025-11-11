@@ -112,7 +112,64 @@ COPY readflag.c /readflag.c
 RUN gcc /readflag.c -o /readflag
 RUN chmod u+s /readflag
 RUN rm -f /readflag.c
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Đặt &lt;code&gt;SUID&lt;/code&gt; lên &lt;code&gt;/readflag&lt;/code&gt; nên user ở &lt;code&gt; www-data&lt;/code&gt; không thể đọc&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761494653599-tung/featured.png"/></item><item><title>PortfolioS</title><link>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</guid><description>&lt;h1 class="relative group"&gt;PortfolioS
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Đặt &lt;code&gt;SUID&lt;/code&gt; lên &lt;code&gt;/readflag&lt;/code&gt; nên user ở &lt;code&gt; www-data&lt;/code&gt; không thể đọc&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761494653599-tung/featured.png"/></item><item><title>PACKAGES</title><link>https://mtasecurity.github.io/MSEC/web/1762867950463-web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1762867950463-web/</guid><description>&lt;h1 class="relative group"&gt;PACKAGES
+&lt;div id="packages" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#packages" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/Sy32vseeWx.png"
+&gt;&lt;/figure&gt;
+&lt;a
+href="https://packages.challs.pwnoh.io/"
+target="_blank"
+&gt;https://packages.challs.pwnoh.io/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 class="relative group"&gt;Phân tích source
+&lt;div id="phân-tích-source" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#ph%c3%a2n-t%c3%adch-source" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SyyEhilxZx.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;main.py&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-java" data-lang="java"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;distro &lt;span style="color:#f92672"&gt;=&lt;/span&gt; request.&lt;span style="color:#a6e22e"&gt;args&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;get&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#34;distro&amp;#34;&lt;/span&gt;, &lt;span style="color:#e6db74"&gt;&amp;#34;&amp;#34;&lt;/span&gt;).&lt;span style="color:#a6e22e"&gt;strip&lt;/span&gt;().&lt;span style="color:#a6e22e"&gt;lower&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;package&lt;/span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;= &lt;/span&gt;request.args.get(&lt;span style="color:#e6db74"&gt;&amp;#34;package&amp;#34;&lt;/span&gt;, &lt;span style="color:#e6db74"&gt;&amp;#34;&amp;#34;&lt;/span&gt;).&lt;span style="color:#a6e22e"&gt;strip&lt;/span&gt;().&lt;span style="color:#a6e22e"&gt;lower&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sql &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#34;SELECT distro, distro_version, package, package_version FROM packages&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; distro or package:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#34; WHERE &amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; distro:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; f&lt;span style="color:#e6db74"&gt;&amp;#34;LOWER(distro) = {json.dumps(distro)}&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; distro and package:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#34; AND &amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; package:
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; f&lt;span style="color:#e6db74"&gt;&amp;#34;LOWER(package) = {json.dumps(package)}&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sql &lt;span style="color:#f92672"&gt;+=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#34; ORDER BY distro, distro_version, package&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;print(sql)
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;results &lt;span style="color:#f92672"&gt;=&lt;/span&gt; db.&lt;span style="color:#a6e22e"&gt;execute&lt;/span&gt;(sql).&lt;span style="color:#a6e22e"&gt;fetchall&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;author dùng &lt;code&gt;json.dump&lt;/code&gt; để quote tham số người dùng khi ghép chuỗi SQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Giải thích về &lt;code&gt;json.dump&lt;/code&gt; trong python&lt;/strong&gt;
+&lt;code&gt;json.dump&lt;/code&gt; được sử dụng để serialize một object python (vd: dictionary, list, tuple, string, int, float, bool, , None) thành định dạng JSON và viết trực tiếp vào một file hoặc file-like object.
+module: cần &lt;code&gt;import json&lt;/code&gt; để sử dụng&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1762867950463-web/featured.png"/></item><item><title>PortfolioS</title><link>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292330570-aaa/</guid><description>&lt;h1 class="relative group"&gt;PortfolioS
 &lt;div id="portfolios" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
