@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FORs on MSEC</title><link>https://mtasecurity.github.io/MSEC/for/</link><description>Recent content in FORs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/for/index.xml" rel="self" type="application/rss+xml"/><item><title>CCSCV2025 FOR NOSTALGIAS</title><link>https://mtasecurity.github.io/MSEC/for/1761292850356-afw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1761292850356-afw/</guid><description>&lt;p&gt;FORENSICS CSCV WRITEUP 2025
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FORs on MSEC</title><link>https://mtasecurity.github.io/MSEC/for/</link><description>Recent content in FORs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/for/index.xml" rel="self" type="application/rss+xml"/><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;FOR: Big Data Analysis
+MISC: Minecraft&lt;/p&gt;
+&lt;p&gt;I, Big Data Analysis&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/rJjSjNfeZx.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Đề bài của challenge rất ngắn gọn, tìm tất cả các repository names trong Github create events 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Để có thể giải được challenge này, ta phải truy cập vào một trang có thống kê về số lượng các thể loại của Github của ngày/tháng/năm&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Trang mà tôi muốn nhắc đến đó chính là &lt;strong&gt;Console Google Cloud&lt;/strong&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763050213012-for/featured.png"/></item><item><title>BUCKEYE2025 FORENSICS: zip2john2zip</title><link>https://mtasecurity.github.io/MSEC/for/1763050206458-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050206458-for/</guid><description>&lt;p&gt;**BUCKEYECTF2025 FORENSICS WRITEUP
+**
+FOR1: Zip2john2zip&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/Sy6R_7fx-l.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Đầu tiên, từ đề bài, ta có thể thấy được vấn đề là người dùng đã quên mật khẩu của 1 file zip nào đó của họ, thứ còn lại của họ chỉ là 1 cái hash và chúng ta phải lần theo dấu vết từ đây&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;1, CRACK PASSWORD&lt;/strong&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/HkDMKmMgbg.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Đọc qua hash, ta thấy nó có dạng pkzip vậy nên ta dự đoán file chứa hash này là một file zip bị khóa, suy ra ta cần crack (trong đề gợi ý) để tìm ra pass của file zip&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763050206458-for/featured.png"/></item><item><title>CCSCV2025 FOR NOSTALGIAS</title><link>https://mtasecurity.github.io/MSEC/for/1761292850356-afw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1761292850356-afw/</guid><description>&lt;p&gt;FORENSICS CSCV WRITEUP 2025
 From: MTA.Support&lt;/p&gt;
 &lt;p&gt;FOR2: NostalgiaS&lt;/p&gt;
 &lt;p&gt;First, after extract the file zip with the password provided by admin, we have file challenge.ad1 and we need to open it in FTK Imager&lt;/p&gt;
