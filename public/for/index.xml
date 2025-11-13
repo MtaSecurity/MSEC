@@ -35,5 +35,19 @@
       <guid>http://localhost:1313/for/1761315057946-for/</guid>
       <description>&lt;p&gt;FORENSICS CSCV 2025 WRITE UP&#xA;From: MTA.Support&lt;/p&gt;&#xA;&lt;p&gt;FOR1: DNS&lt;/p&gt;&#xA;&lt;p&gt;After downloading and unzipping the file, we will get the following 3 files&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;capture.pcap&lt;/li&gt;&#xA;&lt;li&gt;access.log&lt;/li&gt;&#xA;&lt;li&gt;error.log&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;First open the .pcap file with wireshark and get the following interface&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/B1GY8IfAeg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Rearrange the section information and scroll from top to bottom&lt;/p&gt;&#xA;&lt;p&gt;We find the suspicious dns with information ending in hex.cloudflar3.com&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/S1riwLMRlx.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/H1l6wLf0le.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Get the query response, we has:&lt;/p&gt;&#xA;&lt;p&gt;p.3dfec8a22cde4db4463db2c35742062a415441f526daecb59b.hex.cloudflar3.com&#xA;p.c7aec5d0d81ba8748acac6931e5add6c24b635181443d0b9d2.hex.cloudflar3.com&#xA;p.f6af1ecb8cc9827a259401e850e5e07fdc3c1137f1.hex.cloudflar3.com&#xA;p.f8aad90d5fc7774c1e7ee451e755831cd02bfaac3204aed8a4.hex.cloudflar3.com&#xA;f.6837abc6655c12c454abe0ca85a596e98473172829581235dd.hex.cloudflar3.com f.95380b06bf6dd06b89118b0003ea044700a5f2c4c106c3.hex.cloudflar3.com&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>V1T CTF CHALLENGES</title>
+      <link>http://localhost:1313/for/1762190348580-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/for/1762190348580-for/</guid>
+      <description>&lt;p&gt;V1T CTF CHALLENGES&lt;/p&gt;&#xA;&lt;p&gt;MISC: MOOO (maybe Crypto &amp;amp; Forensics)&lt;/p&gt;&#xA;&lt;p&gt;Đề bài cho ta tải 1 file .jpeg, trong file ảnh là một con bò (cảm giác như sắp bị dắt giống bài TrynaCrack)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/Syyl_S8kWl.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/rkKfurUybx.png&#34; alt=&#34;image&#34;&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/SkIVdH81Ze.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Sau khi đẩy file ảnh vào kali và sử dụng lệnh exiftool thì ta ra một cái comment dài như đường đến trái tim crush vậy&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vì đã từng làm qua một bài Crypto liên quan đến mật mã Moo này nên tôi đã copy toàn bộ phần comment và sử dụng &lt;a href=&#34;https://www.jdoodle.com/execute-cow-online&#34;&gt;https://www.jdoodle.com/execute-cow-online&lt;/a&gt; để decode và được kết quả như bên dưới&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/S1KBFSIk-g.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>V1T CTF CHALLENGES</title>
+      <link>http://localhost:1313/for/1762190355184-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/for/1762190355184-for/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;V1T CTF CHALLENGES&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;From: VN_MSEC&lt;/p&gt;&#xA;&lt;p&gt;Đây là 1 thử thách thuộc giải V1T CTF, liên quan đến crack file zip, sau đó sửa 1 ảnh trong file đó và có gợi ý liên quan đến flag&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CRACK FILE&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sau khi tải file challenge.zip của giải về, ta sẽ có 1 file trong đó chưa file quackquackquack.png nhưng không thể mở được (đương nhiên rồi vì đề bài yêu cầu ta crack nó)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/ry6354Lk-x.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
