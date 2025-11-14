@@ -5,7 +5,7 @@ title: 'WRITEUP: AUTHMAN (BUCKEYE 2025)'
 
 # WRITEUP: AUTHMAN (BUCKEYE 2025)
 ![image](https://hackmd.io/_uploads/r1077UmxWl.png)
-![image](https://hackmd.io/_uploads/HyobuIXxWg.png)
+![alt text](image.png)
 
 ---
 
@@ -262,7 +262,7 @@ Chạy server bắt credentials
 - Build và run docker compose up
 ---
 ##### Khai thác SSRF
-**Lấy challenge từ Target (/auth) để có nonce, opaque, session**
+**Truy cập tới `/auth` để lấy nonce, opaque, session**
 ```javascript
    curl -v http://localhost:5000/auth
 ```
