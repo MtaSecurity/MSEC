@@ -271,10 +271,14 @@ src="https://hackmd.io/_uploads/r1077UmxWl.png"
 class="my-0 rounded-md"
 loading="lazy"
 decoding="async"
-fetchpriority="low"
-alt="image"
-src="https://hackmd.io/_uploads/HyobuIXxWg.png"
-&gt;&lt;/figure&gt;
+fetchpriority="auto"
+alt="alt text"
+width="140"
+height="338"
+src="https://mtasecurity.github.io/MSEC/web/1763049696272-sieucapvipro/image.png"
+srcset="https://mtasecurity.github.io/MSEC/web/1763049696272-sieucapvipro/image.png 800w, https://mtasecurity.github.io/MSEC/web/1763049696272-sieucapvipro/image.png 1280w"
+sizes="(min-width: 768px) 50vw, 65vw"
+data-zoom-src="https://mtasecurity.github.io/MSEC/web/1763049696272-sieucapvipro/image.png"&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 class="relative group"&gt;Quick summary
