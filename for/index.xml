@@ -1,21 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FORs on MSEC</title><link>https://mtasecurity.github.io/MSEC/for/</link><description>Recent content in FORs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/for/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</guid><description>&lt;h1 class="relative group"&gt;CSCV2025-FINAL-WRITEUP
-&lt;div id="cscv2025-final-writeup" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#cscv2025-final-writeup" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;From: MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ol&gt;
-&lt;li&gt;Analysis file&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763441741306-for/featured.png"/></item><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FORs on MSEC</title><link>https://mtasecurity.github.io/MSEC/for/</link><description>Recent content in FORs on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/for/index.xml" rel="self" type="application/rss+xml"/><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;FOR: Big Data Analysis
 MISC: Minecraft&lt;/p&gt;
 &lt;p&gt;I, Big Data Analysis&lt;/p&gt;
@@ -236,4 +219,14 @@ fetchpriority="low"
 alt="image"
 src="https://hackmd.io/_uploads/ry6354Lk-x.png"
 &gt;&lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190355184-for/featured.png"/></item></channel></rss>
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190355184-for/featured.png"/></item><item><title>Write-up CSCV2025 final FOR challenges</title><link>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</guid><description>&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From: MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ol&gt;
+&lt;li&gt;Analysis file&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763441741306-for/featured.png"/></item></channel></rss>

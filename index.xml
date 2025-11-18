@@ -32,52 +32,7 @@ Check more at &lt;a
 href="https://blowfish.page/"
 target="_blank"
 &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/crypto/1761292930955-gbwesgfsd/featured.png"/></item><item><title/><link>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</guid><description>&lt;h1 class="relative group"&gt;CSCV2025-FINAL-WRITEUP
-&lt;div id="cscv2025-final-writeup" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#cscv2025-final-writeup" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;From: MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;ol&gt;
-&lt;li&gt;Analysis file&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763441741306-for/featured.png"/></item><item><title/><link>https://mtasecurity.github.io/MSEC/pwn/1763442039854-pwn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/pwn/1763442039854-pwn/</guid><description>&lt;h1 class="relative group"&gt;CSCV 2025 Final Attack-Defense
-&lt;div id="cscv-2025-final-attack-defense" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#cscv-2025-final-attack-defense" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="#cscv-2025-final-attack-defense"&gt;CSCV 2025 Final Attack-Defense&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="#daemon-pwn01"&gt;Daemon Pwn01&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="#deamon-pwn03"&gt;Daemon Pwn03&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;After 8 hours of Attack–Defense competition, &lt;code&gt;MTA.ADC&lt;/code&gt; finished within the &lt;code&gt;Top 4 strongest&lt;/code&gt; teams and achieved &lt;code&gt;3rd place&lt;/code&gt; overall.&lt;/p&gt;
-&lt;h2 class="relative group"&gt;Daemon Pwn01
-&lt;div id="daemon-pwn01" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#daemon-pwn01" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Challenge directory structure:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/pwn/1763442039854-pwn/featured.png"/></item><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
+undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/crypto/1761292930955-gbwesgfsd/featured.png"/></item><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;FOR: Big Data Analysis
 MISC: Minecraft&lt;/p&gt;
 &lt;p&gt;I, Big Data Analysis&lt;/p&gt;
@@ -148,7 +103,37 @@ alt="image"
 src="https://hackmd.io/_uploads/BJySeoNClx.png"
 &gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Look around for important files like documents, downloads, desktop but there are no any information there so that we need to navigate to find out from his web history&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1761292850356-afw/featured.png"/></item><item><title>CSCV2025 - Pwn</title><link>https://mtasecurity.github.io/MSEC/pwn/1761314838840-pwn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/pwn/1761314838840-pwn/</guid><description>&lt;h1 class="relative group"&gt;CSCV2025 - Pwn
+&lt;p&gt;Look around for important files like documents, downloads, desktop but there are no any information there so that we need to navigate to find out from his web history&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1761292850356-afw/featured.png"/></item><item><title>CSCV 2025 Final Attack-Defense</title><link>https://mtasecurity.github.io/MSEC/pwn/1763442039854-pwn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/pwn/1763442039854-pwn/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="#cscv-2025-final-attack-defense"&gt;CSCV 2025 Final Attack-Defense&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="#daemon-pwn01"&gt;Daemon Pwn01&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="#deamon-pwn03"&gt;Daemon Pwn03&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;After 8 hours of Attack–Defense competition, &lt;code&gt;MTA.ADC&lt;/code&gt; finished within the &lt;code&gt;Top 4 strongest&lt;/code&gt; teams and achieved &lt;code&gt;3rd place&lt;/code&gt; overall.&lt;/p&gt;
+&lt;h2 class="relative group"&gt;Daemon Pwn01
+&lt;div id="daemon-pwn01" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#daemon-pwn01" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Challenge directory structure:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 class="relative group"&gt;1. Introduction
+&lt;div id="1-introduction" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#1-introduction" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;The challenge provides a binary simulating a file manager that allows registration, login, and basic file operations.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/pwn/1763442039854-pwn/featured.png"/></item><item><title>CSCV2025 - Pwn</title><link>https://mtasecurity.github.io/MSEC/pwn/1761314838840-pwn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/pwn/1761314838840-pwn/</guid><description>&lt;h1 class="relative group"&gt;CSCV2025 - Pwn
 &lt;div id="cscv2025---pwn" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -586,7 +571,17 @@ fetchpriority="low"
 alt="image"
 src="https://hackmd.io/_uploads/ry6354Lk-x.png"
 &gt;&lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190355184-for/featured.png"/></item><item><title>Write-up CSCV2025 final REV challenges</title><link>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</guid><description>&lt;p&gt;Hello everyone! After taking a short break, today I will continue by writing about some of the challenges I solved in CSCV2025 competition UwU !&lt;/p&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190355184-for/featured.png"/></item><item><title>Write-up CSCV2025 final FOR challenges</title><link>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</guid><description>&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From: MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ol&gt;
+&lt;li&gt;Analysis file&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763441741306-for/featured.png"/></item><item><title>Write-up CSCV2025 final REV challenges</title><link>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</guid><description>&lt;p&gt;Hello everyone! After taking a short break, today I will continue by writing about some of the challenges I solved in CSCV2025 competition UwU !&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. BabyAPK&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;+ Decription:&lt;/strong&gt;
 &lt;figure&gt;&lt;img
