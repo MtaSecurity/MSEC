@@ -219,7 +219,14 @@ fetchpriority="low"
 alt="image"
 src="https://hackmd.io/_uploads/ry6354Lk-x.png"
 &gt;&lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190355184-for/featured.png"/></item><item><title>Write-up CSCV2025 final FOR challenges</title><link>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</guid><description>&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190355184-for/featured.png"/></item><item><title>Write-up CSCV2025 final FOR challenges</title><link>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</guid><description>&lt;h1 class="relative group"&gt;CSCV2025-FINAL-WRITEUP
+&lt;div id="cscv2025-final-writeup" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#cscv2025-final-writeup" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;From: MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
