@@ -1,4 +1,7 @@
-# CSCV2025-FINAL-WRITEUP
+---
+title: Write-up CSCV2025 final FOR challenges
+
+---
 This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL
 
 **From: MTA.SUPPORT (Military Technical Academy)**

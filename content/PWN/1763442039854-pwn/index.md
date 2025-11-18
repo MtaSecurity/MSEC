@@ -1,4 +1,7 @@
-# CSCV 2025 Final Attack-Defense
+---
+title:CSCV 2025 Final Attack-Defense
+
+---
 
 - [CSCV 2025 Final Attack-Defense](#cscv-2025-final-attack-defense)
   - [Daemon Pwn01](#daemon-pwn01)
