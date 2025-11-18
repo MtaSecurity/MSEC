@@ -32,7 +32,24 @@ Check more at &lt;a
 href="https://blowfish.page/"
 target="_blank"
 &gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/crypto/1761292930955-gbwesgfsd/featured.png"/></item><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
+undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/crypto/1761292930955-gbwesgfsd/featured.png"/></item><item><title/><link>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763441741306-for/</guid><description>&lt;h1 class="relative group"&gt;CSCV2025-FINAL-WRITEUP
+&lt;div id="cscv2025-final-writeup" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#cscv2025-final-writeup" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From: MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ol&gt;
+&lt;li&gt;Analysis file&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763441741306-for/featured.png"/></item><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;FOR: Big Data Analysis
 MISC: Minecraft&lt;/p&gt;
 &lt;p&gt;I, Big Data Analysis&lt;/p&gt;
@@ -541,7 +558,115 @@ fetchpriority="low"
 alt="image"
 src="https://hackmd.io/_uploads/ry6354Lk-x.png"
 &gt;&lt;/figure&gt;
-&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190355184-for/featured.png"/></item><item><title>Write-up for Chatbot CSCV2025</title><link>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</guid><description>&lt;p&gt;Hello everyone💯! Today i will tell you the way to solve the &lt;em&gt;&lt;strong&gt;Chatbot&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025&lt;/p&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1762190355184-for/featured.png"/></item><item><title>Write-up CSCV2025 final REV challenges</title><link>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</guid><description>&lt;p&gt;Hello everyone! After taking a short break, today I will continue by writing about some of the challenges I solved in CSCV2025 competition UwU !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. BabyAPK&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;+ Decription:&lt;/strong&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="1000002533"
+src="https://hackmd.io/_uploads/BkDgcWYlZg.jpg"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;+ Analyst:&lt;/strong&gt;
+This challenge give us an apk file, Use Jadx-GUI to decompile this file and follow the path Source code\com\svattt.vn\MainActivity to get to the main logic:&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;package com.svattt.vn;
+import android.content.Context;
+import android.content.res.Resources;
+import android.os.Build;
+import android.os.Bundle;
+import android.util.Base64;
+import android.view.View;
+import android.view.Window;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+import androidx.activity.d0;
+import androidx.activity.e0;
+import androidx.activity.o;
+import androidx.activity.p;
+import androidx.activity.q;
+import androidx.activity.r;
+import androidx.activity.s;
+import c2.b0;
+import com.google.android.material.datepicker.l;
+import e.h;
+import i0.h0;
+import i0.s0;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
+import java.security.InvalidAlgorithmParameterException;
+import java.security.InvalidKeyException;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.util.WeakHashMap;
+import javax.crypto.Cipher;
+import javax.crypto.NoSuchPaddingException;
+import javax.crypto.spec.IvParameterSpec;
+import javax.crypto.spec.SecretKeySpec;
+import n2.c;
+/* compiled from: r8-map-id-808978c3dd8566ee3c602c5e7438c25b04731beab85526738812146b9fed5471 */
+/* loaded from: classes.dex */
+public class MainActivity extends h {
+/* renamed from: y, reason: collision with root package name */
+public static String f1101y = &amp;#34;&amp;#34;;
+/* renamed from: v, reason: collision with root package name */
+public Button f1102v;
+/* renamed from: w, reason: collision with root package name */
+public TextView f1103w;
+/* renamed from: x, reason: collision with root package name */
+public EditText f1104x;
+@Override // e.h, androidx.activity.m, x.f, android.app.Activity
+public final void onCreate(Bundle bundle) throws NoSuchPaddingException, NoSuchAlgorithmException, InvalidKeyException, InvalidAlgorithmParameterException {
+String str;
+Context applicationContext = getApplicationContext();
+int i3 = 2;
+try {
+byte[] bArrN = a0.h.N(&amp;#34;736563725f70617274&amp;#34;);
+Charset charset = StandardCharsets.UTF_8;
+SecretKeySpec secretKeySpec = new SecretKeySpec(MessageDigest.getInstance(&amp;#34;SHA-256&amp;#34;).digest((new String(bArrN, charset) + applicationContext.getString(R.string.key_part_res) + &amp;#34;1.0.0&amp;#34;).getBytes(charset)), &amp;#34;AES&amp;#34;);
+IvParameterSpec ivParameterSpec = new IvParameterSpec(a0.h.N(&amp;#34;2557127f6697dca3b9b02c85bc94d1ff&amp;#34;));
+byte[] bArrDecode = Base64.decode(&amp;#34;Rh5g13iNfXguQWeoMU9vVc1pvK6oC6/4zLm1aW8nqq/KWQ+GbYACDvBQ9pa75Vy6Rpah4UJunK5WRgwlmE/fcWEPrIKyyh6c/diJrXOGQW8=&amp;#34;, 0);
+Cipher cipher = Cipher.getInstance(&amp;#34;AES/CBC/PKCS5Padding&amp;#34;);
+cipher.init(2, secretKeySpec, ivParameterSpec);
+str = new String(cipher.doFinal(bArrDecode), charset);
+} catch (Exception e3) {
+e3.printStackTrace();
+str = null;
+}
+f1101y = str;
+super.onCreate(bundle);
+int i4 = o.f100a;
+d0 d0Var = d0.f76a;
+e0 e0Var = new e0(0, 0, d0Var);
+e0 e0Var2 = new e0(o.f100a, o.b, d0Var);
+View decorView = getWindow().getDecorView();
+c.d(decorView, &amp;#34;window.decorView&amp;#34;);
+Resources resources = decorView.getResources();
+c.d(resources, &amp;#34;view.resources&amp;#34;);
+boolean zBooleanValue = ((Boolean) d0Var.b(resources)).booleanValue();
+Resources resources2 = decorView.getResources();
+c.d(resources2, &amp;#34;view.resources&amp;#34;);
+boolean zBooleanValue2 = ((Boolean) d0Var.b(resources2)).booleanValue();
+int i5 = Build.VERSION.SDK_INT;
+s rVar = i5 &amp;gt;= 29 ? new r() : i5 &amp;gt;= 26 ? new q() : new p();
+Window window = getWindow();
+c.d(window, &amp;#34;window&amp;#34;);
+rVar.a(e0Var, e0Var2, window, decorView, zBooleanValue, zBooleanValue2);
+setContentView(R.layout.activity_main);
+this.f1102v = (Button) findViewById(R.id.button);
+this.f1104x = (EditText) findViewById(R.id.editTextNumberPassword);
+this.f1103w = (TextView) findViewById(R.id.textView);
+this.f1102v.setOnClickListener(new l(i3, this));
+View viewFindViewById = findViewById(R.id.main);
+b0 b0Var = new b0();
+WeakHashMap weakHashMap = s0.f1654a;
+h0.u(viewFindViewById, b0Var);
+}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Oh it is AES decrypt with the ciphertext is : &amp;ldquo;Rh5g13iNfXguQWeoMU9vVc1pvK6oC6/4zLm1aW8nqq/KWQ+GbYACDvBQ9pa75Vy6Rpah4UJunK5WRgwlmE/fcWEPrIKyyh6c/diJrXOGQW8=&amp;quot;(base64 we can decrypt after)&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/re/1763441748872-re/featured.png"/></item><item><title>Write-up for Chatbot CSCV2025</title><link>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1761315251658-re/</guid><description>&lt;p&gt;Hello everyone💯! Today i will tell you the way to solve the &lt;em&gt;&lt;strong&gt;Chatbot&lt;/strong&gt;&lt;/em&gt; challenge in CSCV2025&lt;/p&gt;
 &lt;p&gt;The question:
 &lt;figure&gt;&lt;img
 class="my-0 rounded-md"
