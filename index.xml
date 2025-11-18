@@ -49,7 +49,35 @@ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763441741306-for/featured.png"/></item><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763441741306-for/featured.png"/></item><item><title/><link>https://mtasecurity.github.io/MSEC/pwn/1763442039854-pwn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/pwn/1763442039854-pwn/</guid><description>&lt;h1 class="relative group"&gt;CSCV 2025 Final Attack-Defense
+&lt;div id="cscv-2025-final-attack-defense" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#cscv-2025-final-attack-defense" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="#cscv-2025-final-attack-defense"&gt;CSCV 2025 Final Attack-Defense&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="#daemon-pwn01"&gt;Daemon Pwn01&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="#deamon-pwn03"&gt;Daemon Pwn03&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;After 8 hours of Attack–Defense competition, &lt;code&gt;MTA.ADC&lt;/code&gt; finished within the &lt;code&gt;Top 4 strongest&lt;/code&gt; teams and achieved &lt;code&gt;3rd place&lt;/code&gt; overall.&lt;/p&gt;
+&lt;h2 class="relative group"&gt;Daemon Pwn01
+&lt;div id="daemon-pwn01" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#daemon-pwn01" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Challenge directory structure:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/pwn/1763442039854-pwn/featured.png"/></item><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;FOR: Big Data Analysis
 MISC: Minecraft&lt;/p&gt;
 &lt;p&gt;I, Big Data Analysis&lt;/p&gt;
