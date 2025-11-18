@@ -1,35 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tag on MSEC</title><link>https://mtasecurity.github.io/MSEC/tags/tag/</link><description>Recent content in Tag on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mtasecurity.github.io/MSEC/tags/tag/index.xml" rel="self" type="application/rss+xml"/><item><title>gbwesgfsd</title><link>https://mtasecurity.github.io/MSEC/crypto/1761292930955-gbwesgfsd/</link><pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/crypto/1761292930955-gbwesgfsd/</guid><description>&lt;p&gt;an example to get you started&lt;/p&gt;
-&lt;h1 class="relative group"&gt;This is a heading
-&lt;div id="this-is-a-heading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-heading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;h2 class="relative group"&gt;This is a subheading
-&lt;div id="this-is-a-subheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;h3 class="relative group"&gt;This is a subsubheading
-&lt;div id="this-is-a-subsubheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;
-&lt;h4 class="relative group"&gt;This is a subsubsubheading
-&lt;div id="this-is-a-subsubsubheading" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#this-is-a-subsubsubheading" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;
-&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.
-Check more at &lt;a
-href="https://blowfish.page/"
-target="_blank"
-&gt;Blowfish documentation&lt;/a&gt;
-undefined&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/crypto/1761292930955-gbwesgfsd/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on MSEC</title>
+    <link>http://localhost:1313/tags/tag/</link>
+    <description>Recent content in Tag on MSEC</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gbwesgfsd</title>
+      <link>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</guid>
+      <description>&lt;p&gt;an example to get you started&lt;/p&gt;&#xA;&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;&#xA;&lt;h2 id=&#34;this-is-a-subheading&#34;&gt;This is a subheading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;this-is-a-subsubheading&#34;&gt;This is a subsubheading&lt;/h3&gt;&#xA;&lt;h4 id=&#34;this-is-a-subsubsubheading&#34;&gt;This is a subsubsubheading&lt;/h4&gt;&#xA;&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.&#xA;Check more at &lt;a href=&#34;https://blowfish.page/&#34;&gt;Blowfish documentation&lt;/a&gt;&#xA;undefined&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
