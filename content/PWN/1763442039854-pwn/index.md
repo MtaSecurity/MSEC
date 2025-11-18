@@ -1,5 +1,5 @@
 ---
-title:CSCV 2025 Final Attack-Defense
+title: CSCV 2025 Final Attack-Defense
 
 ---
 
