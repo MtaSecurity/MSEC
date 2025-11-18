@@ -1,8 +1,3 @@
----
-title: Write-up CSCV2025 final FOR challenges
-
----
-
 # CSCV2025-FINAL-WRITEUP
 This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL
 
