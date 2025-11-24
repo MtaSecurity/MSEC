@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MSEC</title><link>https://mtasecurity.github.io/MSEC/</link><description>Recent content on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://mtasecurity.github.io/MSEC/for/1763999496790-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763999496790-for/</guid><description>&lt;h1 class="relative group"&gt;CSCV2025-FINAL-WRITEUP-CASECHARLIE
-&lt;div id="cscv2025-final-writeup-casecharlie" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#cscv2025-final-writeup-casecharlie" aria-label="Anchor"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;p&gt;This is write up for challenge Case Charlie (Forensics) in CSCV2025 FINAL&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;From MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hi everyone, last Saturday I have solved this forensics challenge in the final round of Cybersecurity Contest Viet Nam 2025. Today, I will tell you how to solve this 400 points challenge.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;strong&gt;1, Preparation&lt;/strong&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763999496790-for/featured.png"/></item><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MSEC</title><link>https://mtasecurity.github.io/MSEC/</link><description>Recent content on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/index.xml" rel="self" type="application/rss+xml"/><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;FOR: Big Data Analysis
 MISC: Minecraft&lt;/p&gt;
 &lt;p&gt;I, Big Data Analysis&lt;/p&gt;
@@ -565,7 +554,18 @@ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763441741306-for/featured.png"/></item><item><title>Write-up CSCV2025 final REV challenges</title><link>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</guid><description>&lt;p&gt;Hello everyone! After taking a short break, today I will continue by writing about some of the challenges I solved in CSCV2025 competition UwU !&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763441741306-for/featured.png"/></item><item><title>Write-up CSCV2025 final FOR challenges (CASECHARLIE)</title><link>https://mtasecurity.github.io/MSEC/for/1763999496790-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763999496790-for/</guid><description>&lt;h1 class="relative group"&gt;CSCV2025-FINAL-WRITEUP-CASECHARLIE
+&lt;div id="cscv2025-final-writeup-casecharlie" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#cscv2025-final-writeup-casecharlie" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;This is write up for challenge Case Charlie (Forensics) in CSCV2025 FINAL&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hi everyone, last Saturday I have solved this forensics challenge in the final round of Cybersecurity Contest Viet Nam 2025. Today, I will tell you how to solve this 400 points challenge.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;1, Preparation&lt;/strong&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1763999496790-for/featured.png"/></item><item><title>Write-up CSCV2025 final REV challenges</title><link>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/re/1763441748872-re/</guid><description>&lt;p&gt;Hello everyone! After taking a short break, today I will continue by writing about some of the challenges I solved in CSCV2025 competition UwU !&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. BabyAPK&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;+ Decription:&lt;/strong&gt;
 &lt;figure&gt;&lt;img
