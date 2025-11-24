@@ -20,9 +20,15 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/for/1763050213012-for/</loc>
+  </url><url>
+    <loc>http://localhost:1313/for/1763050206458-for/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/for/1761292850356-afw/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pwn/1763442039854-pwn/</loc>
   </url><url>
     <loc>http://localhost:1313/pwn/1761314838840-pwn/</loc>
   </url><url>
@@ -52,6 +58,10 @@
   </url><url>
     <loc>http://localhost:1313/web/</loc>
   </url><url>
+    <loc>http://localhost:1313/for/1763441741306-for/</loc>
+  </url><url>
+    <loc>http://localhost:1313/re/1763441748872-re/</loc>
+  </url><url>
     <loc>http://localhost:1313/re/1761315251658-re/</loc>
   </url><url>
     <loc>http://localhost:1313/re/1761315247629-re/</loc>
@@ -59,6 +69,8 @@
     <loc>http://localhost:1313/re/1761292805274-dauif/</loc>
   </url><url>
     <loc>http://localhost:1313/re/1762867989923-re/</loc>
+  </url><url>
+    <loc>http://localhost:1313/web/1763049696272-sieucapvipro/</loc>
   </url><url>
     <loc>http://localhost:1313/web/1761292219022-abc/</loc>
   </url>

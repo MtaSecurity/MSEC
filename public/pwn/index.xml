@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/pwn/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CSCV 2025 Final Attack-Defense</title>
+      <link>http://localhost:1313/pwn/1763442039854-pwn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pwn/1763442039854-pwn/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pwn/1763442039854-pwn/#cscv-2025-final-attack-defense&#34;&gt;CSCV 2025 Final Attack-Defense&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pwn/1763442039854-pwn/#daemon-pwn01&#34;&gt;Daemon Pwn01&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pwn/1763442039854-pwn/#deamon-pwn03&#34;&gt;Daemon Pwn03&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;After 8 hours of Attack–Defense competition, &lt;code&gt;MTA.ADC&lt;/code&gt; finished within the &lt;code&gt;Top 4 strongest&lt;/code&gt; teams and achieved &lt;code&gt;3rd place&lt;/code&gt; overall.&lt;/p&gt;&#xA;&lt;h2 id=&#34;daemon-pwn01&#34;&gt;Daemon Pwn01&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Challenge directory structure:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h3&gt;&#xA;&lt;p&gt;The challenge provides a binary simulating a file manager that allows registration, login, and basic file operations.&lt;/p&gt;&#xA;&lt;p&gt;The main vulnerability lies in how the program prints file content, resulting in a &lt;strong&gt;Format String&lt;/strong&gt; bug that allows overwriting the &lt;strong&gt;Global Offset Table (GOT)&lt;/strong&gt; and taking control of the program.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>CSCV2025 - Pwn</title>
       <link>http://localhost:1313/pwn/1761314838840-pwn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

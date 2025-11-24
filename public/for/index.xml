@@ -8,6 +8,20 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/for/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title>
+      <link>http://localhost:1313/for/1763050213012-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/for/1763050213012-for/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;FOR: Big Data Analysis&#xA;MISC: Minecraft&lt;/p&gt;&#xA;&lt;p&gt;I, Big Data Analysis&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/rJjSjNfeZx.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Đề bài của challenge rất ngắn gọn, tìm tất cả các repository names trong Github create events 2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Để có thể giải được challenge này, ta phải truy cập vào một trang có thống kê về số lượng các thể loại của Github của ngày/tháng/năm&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Trang mà tôi muốn nhắc đến đó chính là &lt;strong&gt;Console Google Cloud&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BUCKEYE2025 FORENSICS: zip2john2zip</title>
+      <link>http://localhost:1313/for/1763050206458-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/for/1763050206458-for/</guid>
+      <description>&lt;p&gt;**BUCKEYECTF2025 FORENSICS WRITEUP&#xA;**&#xA;FOR1: Zip2john2zip&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/Sy6R_7fx-l.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Đầu tiên, từ đề bài, ta có thể thấy được vấn đề là người dùng đã quên mật khẩu của 1 file zip nào đó của họ, thứ còn lại của họ chỉ là 1 cái hash và chúng ta phải lần theo dấu vết từ đây&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;1, CRACK PASSWORD&lt;/strong&gt;&#xA;&lt;img src=&#34;https://hackmd.io/_uploads/HkDMKmMgbg.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Đọc qua hash, ta thấy nó có dạng pkzip vậy nên ta dự đoán file chứa hash này là một file zip bị khóa, suy ra ta cần crack (trong đề gợi ý) để tìm ra pass của file zip&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>CCSCV2025 FOR NOSTALGIAS</title>
       <link>http://localhost:1313/for/1761292850356-afw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,6 +62,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/for/1762190355184-for/</guid>
       <description>&lt;p&gt;&lt;strong&gt;V1T CTF CHALLENGES&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;From: VN_MSEC&lt;/p&gt;&#xA;&lt;p&gt;Đây là 1 thử thách thuộc giải V1T CTF, liên quan đến crack file zip, sau đó sửa 1 ảnh trong file đó và có gợi ý liên quan đến flag&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;CRACK FILE&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sau khi tải file challenge.zip của giải về, ta sẽ có 1 file trong đó chưa file quackquackquack.png nhưng không thể mở được (đương nhiên rồi vì đề bài yêu cầu ta crack nó)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://hackmd.io/_uploads/ry6354Lk-x.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Write-up CSCV2025 final FOR challenges</title>
+      <link>http://localhost:1313/for/1763441741306-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/for/1763441741306-for/</guid>
+      <description>&lt;h1 id=&#34;cscv2025-final-writeup&#34;&gt;CSCV2025-FINAL-WRITEUP&lt;/h1&gt;&#xA;&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;From: MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Analysis file&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
