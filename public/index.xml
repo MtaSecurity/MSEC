@@ -6,15 +6,7 @@
     <description>Recent content on MSEC</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>gbwesgfsd</title>
-      <link>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</guid>
-      <description>&lt;p&gt;an example to get you started&lt;/p&gt;&#xA;&lt;h1 id=&#34;this-is-a-heading&#34;&gt;This is a heading&lt;/h1&gt;&#xA;&lt;h2 id=&#34;this-is-a-subheading&#34;&gt;This is a subheading&lt;/h2&gt;&#xA;&lt;h3 id=&#34;this-is-a-subsubheading&#34;&gt;This is a subsubheading&lt;/h3&gt;&#xA;&lt;h4 id=&#34;this-is-a-subsubsubheading&#34;&gt;This is a subsubsubheading&lt;/h4&gt;&#xA;&lt;p&gt;This is a paragraph with &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italic&lt;/em&gt; text.&#xA;Check more at &lt;a href=&#34;https://blowfish.page/&#34;&gt;Blowfish documentation&lt;/a&gt;&#xA;undefined&lt;/p&gt;</description>
-    </item>
     <item>
       <title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title>
       <link>http://localhost:1313/for/1763050213012-for/</link>
@@ -119,6 +111,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/for/1763441741306-for/</guid>
       <description>&lt;h1 id=&#34;cscv2025-final-writeup&#34;&gt;CSCV2025-FINAL-WRITEUP&lt;/h1&gt;&#xA;&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;From: MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Analysis file&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Write-up CSCV2025 final FOR challenges (CASECHARLIE)</title>
+      <link>http://localhost:1313/for/1763999496790-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/for/1763999496790-for/</guid>
+      <description>&lt;h1 id=&#34;cscv2025-final-writeup-casecharlie&#34;&gt;CSCV2025-FINAL-WRITEUP-CASECHARLIE&lt;/h1&gt;&#xA;&lt;p&gt;This is write up for challenge Case Charlie (Forensics) in CSCV2025 FINAL&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;From MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi everyone, last Saturday I have solved this forensics challenge in the final round of Cybersecurity Contest Viet Nam 2025. Today, I will tell you how to solve this 400 points challenge.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;strong&gt;1, Preparation&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;First, I download the file gave by Author (This file is nearly 10GB so that I had downloaded it 2 days before the contest started). After download and unzip file, I have 3 files below&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Write-up CSCV2025 final REV challenges</title>

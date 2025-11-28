@@ -70,5 +70,12 @@
       <guid>http://localhost:1313/for/1763441741306-for/</guid>
       <description>&lt;h1 id=&#34;cscv2025-final-writeup&#34;&gt;CSCV2025-FINAL-WRITEUP&lt;/h1&gt;&#xA;&lt;p&gt;This is write up for challenge Another Day (Forensics) in CSCV2025 FINAL&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;From: MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi everyone, last Sunday, I have done this Forensics challenge in Cybersecurity Contest Vietnam 2025 Final, so that today I want to share you the way to solve this challenge&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Analysis file&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;First, I download the file and unzip with the pass gave by author. After that, I get a challenge.ad1 file so that I gonna put it in a tool I really like, it is FTK Imager&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Write-up CSCV2025 final FOR challenges (CASECHARLIE)</title>
+      <link>http://localhost:1313/for/1763999496790-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/for/1763999496790-for/</guid>
+      <description>&lt;h1 id=&#34;cscv2025-final-writeup-casecharlie&#34;&gt;CSCV2025-FINAL-WRITEUP-CASECHARLIE&lt;/h1&gt;&#xA;&lt;p&gt;This is write up for challenge Case Charlie (Forensics) in CSCV2025 FINAL&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;From MTA.SUPPORT (Military Technical Academy)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi everyone, last Saturday I have solved this forensics challenge in the final round of Cybersecurity Contest Viet Nam 2025. Today, I will tell you how to solve this 400 points challenge.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;strong&gt;1, Preparation&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;First, I download the file gave by Author (This file is nearly 10GB so that I had downloaded it 2 days before the contest started). After download and unzip file, I have 3 files below&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

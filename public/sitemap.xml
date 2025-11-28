@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/crypto/</loc>
-    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
-    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/crypto/1761292930955-gbwesgfsd/</loc>
-    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tag/</loc>
-    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/for/1763050213012-for/</loc>
   </url><url>
     <loc>http://localhost:1313/for/1763050206458-for/</loc>
@@ -44,6 +26,8 @@
   </url><url>
     <loc>http://localhost:1313/web/1761494653599-tung/</loc>
   </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
     <loc>http://localhost:1313/web/1762867950463-web/</loc>
   </url><url>
     <loc>http://localhost:1313/web/1761292330570-aaa/</loc>
@@ -52,6 +36,8 @@
   </url><url>
     <loc>http://localhost:1313/re/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
     <loc>http://localhost:1313/for/1762190348580-for/</loc>
   </url><url>
     <loc>http://localhost:1313/for/1762190355184-for/</loc>
@@ -59,6 +45,8 @@
     <loc>http://localhost:1313/web/</loc>
   </url><url>
     <loc>http://localhost:1313/for/1763441741306-for/</loc>
+  </url><url>
+    <loc>http://localhost:1313/for/1763999496790-for/</loc>
   </url><url>
     <loc>http://localhost:1313/re/1763441748872-re/</loc>
   </url><url>

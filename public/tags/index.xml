@@ -6,21 +6,6 @@
     <description>Recent content in Tags on MSEC</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Example</title>
-      <link>http://localhost:1313/tags/example/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/example/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag</title>
-      <link>http://localhost:1313/tags/tag/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tag/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

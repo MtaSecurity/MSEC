@@ -4,7 +4,7 @@ defaultAppearance = "light"
 
 [homepage]
 layout = "background"
-homepageImage = "1.gif"
+homepageImage = "4.gif"
 showRecent = true
 cardView = true
 
