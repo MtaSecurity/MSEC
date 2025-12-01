@@ -1062,7 +1062,70 @@ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-
 &lt;p&gt;Flag nằm ở /auth, được bảo vệ bằng HTTP Digest Auth&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Có một API check dùng Referer để tự gọi lại chính nó → đây là chỗ dị nhất, tiềm năng SSRF + logic bug&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1763049696272-sieucapvipro/featured.png"/></item><item><title>ZC-1 CHALLENGE</title><link>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</guid><description>&lt;h1 class="relative group"&gt;ZC-1 CHALLENGE
+&lt;p&gt;Có một API check dùng Referer để tự gọi lại chính nó → đây là chỗ dị nhất, tiềm năng SSRF + logic bug&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1763049696272-sieucapvipro/featured.png"/></item><item><title>xss</title><link>https://mtasecurity.github.io/MSEC/web/1764595928119-xss/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1764595928119-xss/</guid><description>&lt;h1 class="relative group"&gt;XSS
+&lt;div id="xss" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#xss" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;h2 class="relative group"&gt;1. Browser Security Model
+&lt;div id="1-browser-security-model" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#1-browser-security-model" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontend chạy trong sandbox của browser, chỉ làm được những gì browser cho phép qua API (fetch, DOM, WebAPI…); không chạm trực tiếp OS như backend&lt;/li&gt;
+&lt;li&gt;Không được tự ý đọc file local: chỉ đọc được file khi user chọn (input file + FileReader). Nếu không thì web nào cũng có thể ăn cắp dữ liệu máy người dùng&lt;/li&gt;
+&lt;li&gt;Không gọi được system API trực tiếp: JS chỉ là ngôn ngữ, còn quyền là do browser; các API nhạy cảm (camera, mic, Bluetooth…) đều phải được user cho phép&lt;/li&gt;
+&lt;li&gt;Same-Origin Policy (SOP): script chỉ truy cập được dữ liệu cùng origin; không đọc DOM/URL/nội dung của tab/iframe origin khác&lt;/li&gt;
+&lt;li&gt;Browser còn dùng site isolation để tách site theo process, giảm rủi ro leak dữ liệu giữa site&lt;/li&gt;
+&lt;li&gt;Nếu vượt được các giới hạn này (bypass SOP, RCE trong browser) thì đó là lỗ hổng trình duyệt, không còn là bug ứng dụng web bình thường&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;2. Starting with XSS for Frontend Security
+&lt;div id="2-starting-with-xss-for-frontend-security" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#2-starting-with-xss-for-frontend-security" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;XSS = attacker thực thi được JS trong context webstie của nạn nhân&lt;/li&gt;
+&lt;li&gt;Từ XSS, attacker có thể:
+&lt;ul&gt;
+&lt;li&gt;Đọc token trong &lt;code&gt;localStorage&lt;/code&gt;/cookie (nếu không HTttpOnly)&lt;/li&gt;
+&lt;li&gt;Thực hiện mọi hành động mà user làm được (gửi request, đổi setting, thao tác dữ liệu&amp;hellip;.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vì vậy nhiều site khi đổi mật khẩu bắt nhập lại &lt;em&gt;current password&lt;/em&gt;: dù có XSS + token thì attacker vẫn không chiếm tài khoản lâu dài nếu không biết current password&lt;/li&gt;
+&lt;li&gt;Phân loại theo cách lưu trữ:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reflected XSS&lt;/strong&gt;: payload không lưu, thường nằm trên URL/form → cần dụ từng nạn nhân click&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stored XSS&lt;/strong&gt;: payload được lưu (comment, profile, bài viết…) → ai mở là dính, có thể lan rộng như “worm”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-XSS&lt;/strong&gt;: chỉ ảnh hưởng đến chính người nhập (hoặc chỉ xuất hiện ở trang chỉ mình họ xem)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blind XSS&lt;/strong&gt;: payload chạy ở nơi bạn không thấy (thường là admin/staff panel), phải log ngược ra server của attacker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;3.Understanding XSS a Bit More
+&lt;div id="3understanding-xss-a-bit-more" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#3understanding-xss-a-bit-more" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group"&gt;Các cách thực thi JS khi đã kiểm soát HTML:
+&lt;div id="các-cách-thực-thi-js-khi-đã-kiểm-soát-html" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#c%c3%a1c-c%c3%a1ch-th%e1%bb%b1c-thi-js-khi-%c4%91%c3%a3-ki%e1%bb%83m-so%c3%a1t-html" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Thẻ &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt;: trực diện nhưng hay bị filter/WAF, nhiều nơi (innerHTML) không thực thi script&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1764595928119-xss/featured.png"/></item><item><title>ZC-1 CHALLENGE</title><link>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</guid><description>&lt;h1 class="relative group"&gt;ZC-1 CHALLENGE
 &lt;div id="zc-1-challenge" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
