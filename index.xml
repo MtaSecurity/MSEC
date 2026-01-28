@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MSEC</title><link>https://mtasecurity.github.io/MSEC/</link><description>Recent content on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025</copyright><atom:link href="https://mtasecurity.github.io/MSEC/index.xml" rel="self" type="application/rss+xml"/><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MSEC</title><link>https://mtasecurity.github.io/MSEC/</link><description>Recent content on MSEC</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><atom:link href="https://mtasecurity.github.io/MSEC/index.xml" rel="self" type="application/rss+xml"/><item><title>BUCKEYE2025 FORENSICS &amp; MISC: Big Data Analysis &amp; Minecraft</title><link>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/1763050213012-for/</guid><description>&lt;p&gt;&lt;strong&gt;BUCKEYECTF FORENSICS &amp;amp; MISC WRITEUP&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;FOR: Big Data Analysis
 MISC: Minecraft&lt;/p&gt;
 &lt;p&gt;I, Big Data Analysis&lt;/p&gt;
@@ -220,7 +220,31 @@ alt="image"
 src="https://hackmd.io/_uploads/H1l6wLf0le.png"
 &gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Get the query response, we has:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1761315057946-for/featured.png"/></item><item><title>LEAK FORCE</title><link>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</guid><description>&lt;h1 class="relative group"&gt;LEAK FORCE
+&lt;p&gt;Get the query response, we has:&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/1761315057946-for/featured.png"/></item><item><title>FORENSICS</title><link>https://mtasecurity.github.io/MSEC/for/mta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/for/mta/</guid><description>&lt;h1 class="relative group"&gt;WRITE UP FOR FORENSICS CHALLENGE IN MTA CTF 2026
+&lt;div id="write-up-for-forensics-challenge-in-mta-ctf-2026" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#write-up-for-forensics-challenge-in-mta-ctf-2026" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Team: vibe_coders&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Xin chào mọi người, cuối tuần vừa rồi, team mình vừa tham gia kỳ thi MTA CTF 2026 và giải quyết được 2 challenges Forensics, và hôm nay mình sẽ chia sẻ cho mọi người cách làm 2 bài này&lt;/p&gt;
+&lt;h1 class="relative group"&gt;1. Siusiusiu (Anh 7)
+&lt;div id="1-siusiusiu-anh-7" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#1-siusiusiu-anh-7" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/BJv8V_0Sbl.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/for/mta/featured.png"/></item><item><title>LEAK FORCE</title><link>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</guid><description>&lt;h1 class="relative group"&gt;LEAK FORCE
 &lt;div id="leak-force" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
