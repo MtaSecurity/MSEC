@@ -757,7 +757,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-
 &lt;p&gt;Flag nằm ở /auth, được bảo vệ bằng HTTP Digest Auth&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Có một API check dùng Referer để tự gọi lại chính nó → đây là chỗ dị nhất, tiềm năng SSRF + logic bug&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1763049696272-sieucapvipro/featured.png"/></item><item><title>xss</title><link>https://mtasecurity.github.io/MSEC/web/1764595928119-xss/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1764595928119-xss/</guid><description>&lt;h1 class="relative group"&gt;XSS
+&lt;p&gt;Có một API check dùng Referer để tự gọi lại chính nó → đây là chỗ dị nhất, tiềm năng SSRF + logic bug&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1763049696272-sieucapvipro/featured.png"/></item><item><title>xss</title><link>https://mtasecurity.github.io/MSEC/web/xss/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/xss/</guid><description>&lt;h1 class="relative group"&gt;XSS
 &lt;div id="xss" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
@@ -820,7 +820,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Thẻ &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt;: trực diện nhưng hay bị filter/WAF, nhiều nơi (innerHTML) không thực thi script&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/1764595928119-xss/featured.png"/></item><item><title>ZC-1 CHALLENGE</title><link>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</guid><description>&lt;h1 class="relative group"&gt;ZC-1 CHALLENGE
+&lt;p&gt;Thẻ &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt;: trực diện nhưng hay bị filter/WAF, nhiều nơi (innerHTML) không thực thi script&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/xss/featured.png"/></item><item><title>ZC-1 CHALLENGE</title><link>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761292219022-abc/</guid><description>&lt;h1 class="relative group"&gt;ZC-1 CHALLENGE
 &lt;div id="zc-1-challenge" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
