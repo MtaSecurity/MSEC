@@ -1,6 +1,7 @@
 colorScheme = "forest"
 defaultBackgroundImage = "image.jpg"
 defaultAppearance = "light"
+autoSwitchAppearance = true
 
 [homepage]
 layout = "background"
