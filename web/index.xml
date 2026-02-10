@@ -45,7 +45,48 @@ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-
 &lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Bài này lỗi logic code&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/pascal/featured.png"/></item><item><title>LEAK FORCE</title><link>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</guid><description>&lt;h1 class="relative group"&gt;LEAK FORCE
+&lt;p&gt;Bài này lỗi logic code&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/pascal/featured.png"/></item><item><title>LA CTF</title><link>https://mtasecurity.github.io/MSEC/web/lactf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/lactf/</guid><description>&lt;h1 class="relative group"&gt;LA CTF
+&lt;div id="la-ctf" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#la-ctf" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt=""
+src="https://hackmd.io/_uploads/ryI3SZ_DZe.png"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 class="relative group"&gt;Table content
+&lt;div id="table-content" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#table-content" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+class="my-0 rounded-md"
+loading="lazy"
+decoding="async"
+fetchpriority="low"
+alt="platform.lac.tf_challs"
+src="https://hackmd.io/_uploads/H1fki-Ov-x.jpg"
+&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 class="relative group"&gt;the-trial
+&lt;div id="the-trial" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+&lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#the-trial" aria-label="Anchor"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Slider có range 0 - 456975 (= 26^4 - 1), tức là cover toàn bộ tổ hợp 4 ký tự&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://mtasecurity.github.io/MSEC/web/lactf/featured.png"/></item><item><title>LEAK FORCE</title><link>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mtasecurity.github.io/MSEC/web/1761315315933-web/</guid><description>&lt;h1 class="relative group"&gt;LEAK FORCE
 &lt;div id="leak-force" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
